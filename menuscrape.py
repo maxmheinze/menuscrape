@@ -221,35 +221,46 @@ def get_library_menu():
 
 def get_finn_menu():
     # Fetch the webpage
-    page_url = 'https://www.dasfinn.at/mittagsmen%C3%BC'
+    page_url = 'https://finn.wien/collections/mittagsmenu'
     response = requests.get(page_url)
     soup = BeautifulSoup(response.content, 'html.parser')
 
-    # Find the image URL containing the menu
-    image_tag = soup.find('img', {'alt': ''})
-    if image_tag:
-        image_url = image_tag['src']
-        if not image_url.startswith('http'):
-            image_url = 'https://www.dasfinn.at' + image_url
+    # Find the div that contains the image
+    div_tag = soup.find(
+        'div', class_='collection__header-info__text rte rte--header')
 
-        # Download and preprocess the image for OCR
-        image_response = requests.get(image_url)
-        img_data = image_response.content
-        img_array = np.frombuffer(img_data, np.uint8)
-        img = cv2.imdecode(img_array, cv2.IMREAD_COLOR)
-        img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-        scale_factor = 5
-        width = int(img_gray.shape[1] * scale_factor)
-        height = int(img_gray.shape[0] * scale_factor)
-        img_resized = cv2.resize(
-            img_gray, (width, height), interpolation=cv2.INTER_LINEAR)
-        manual_threshold_value = 200
-        _, img_thresh = cv2.threshold(
-            img_resized, manual_threshold_value, 255, cv2.THRESH_BINARY)
-        img_for_ocr = Image.fromarray(img_thresh)
-        imagetext = pytesseract.image_to_string(img_for_ocr, lang='deu')
+    if div_tag:
+        # Find the img tag within the div
+        image_tag = div_tag.find('img')
+        if image_tag:
+            image_url = image_tag['src']
+            if not image_url.startswith('http'):
+                image_url = 'https://finn.wien' + image_url
+
+            print(f"Image URL: {image_url}")
+        else:
+            print("Error: No image found inside the specified div.")
+            return pd.DataFrame()
     else:
+        print("Error: Specified div not found.")
         return pd.DataFrame()
+
+    # Download and preprocess the image for OCR
+    image_response = requests.get(image_url)
+    img_data = image_response.content
+    img_array = np.frombuffer(img_data, np.uint8)
+    img = cv2.imdecode(img_array, cv2.IMREAD_COLOR)
+    img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    scale_factor = 5
+    width = int(img_gray.shape[1] * scale_factor)
+    height = int(img_gray.shape[0] * scale_factor)
+    img_resized = cv2.resize(img_gray, (width, height),
+                             interpolation=cv2.INTER_LINEAR)
+    manual_threshold_value = 200
+    _, img_thresh = cv2.threshold(
+        img_resized, manual_threshold_value, 255, cv2.THRESH_BINARY)
+    img_for_ocr = Image.fromarray(img_thresh)
+    imagetext = pytesseract.image_to_string(img_for_ocr, lang='deu')
 
     # Functions for cleaning and translating
     def clean_dish(dish):
@@ -389,13 +400,16 @@ if __name__ == '__main__':
     # Export the combined DataFrame to CSV in the current folder
     df_all.to_csv('menu_data.csv', index=False)
 
-    # Export the combined DataFrame to CSV in the "archive" folder
-    current_date = datetime.now().strftime('%Y%m%d')
+    # Check if today is Thursday
+    if datetime.now().weekday() == 3:
+        # Export the combined DataFrame to CSV in the "archive" folder
+        current_date = datetime.now().strftime('%Y%m%d')
 
-    archive_folder = 'archive'
-    if not os.path.exists(archive_folder):
-        os.makedirs(archive_folder)
+        archive_folder = 'archive'
+        if not os.path.exists(archive_folder):
+            os.makedirs(archive_folder)
 
-    file_path = os.path.join(archive_folder, f'menu_data_{current_date}.csv')
+        file_path = os.path.join(
+            archive_folder, f'menu_data_{current_date}.csv')
 
-    df_all.to_csv(file_path, index=False)
+        df_all.to_csv(file_path, index=False)
