@@ -64,7 +64,7 @@ def get_baschly_menu():
 
     # Combine German and English DataFrames
     df_combined = pd.concat([df_melted, df_translated], ignore_index=True)
-    df_combined['location'] = 'baschly'
+    df_combined['location'] = 'Baschly'
 
     # Add 'day' and 'source' columns
     df_combined['day'] = np.tile(np.arange(1, 6), len(
@@ -122,7 +122,7 @@ def get_mensa_menu():
 
     # Combine German and English DataFrames
     df_combined = pd.concat([df_melted, df_translated], ignore_index=True)
-    df_combined['location'] = 'mensa'
+    df_combined['location'] = 'Mensa'
     df_combined.columns.values[0] = 'foodtype'
     df_combined['source'] = pdf_url
     return df_combined
@@ -185,7 +185,7 @@ def get_library_menu():
         'menu': menu_items,
         'foodtype': types,
         'price': prices,
-        'location': 'library',
+        'location': 'Library',
         'source': library_url
     })
     df[['menu', 'menu_eng']] = df['menu'].str.split('/', expand=True)
@@ -237,7 +237,7 @@ def get_finn_menu():
             if not image_url.startswith('http'):
                 image_url = 'https://finn.wien' + image_url
 
-            print(f"Image URL: {image_url}")
+            #print(f"Image URL: {image_url}")
         else:
             print("Error: No image found inside the specified div.")
             return pd.DataFrame()
@@ -381,7 +381,7 @@ def get_finn_menu():
 
     # Combine DataFrames and add location and source
     df_combined = pd.concat([df, df_translated], ignore_index=True)
-    df_combined['location'] = 'finn'
+    df_combined['location'] = 'Finn'
     df_combined['source'] = page_url
     return df_combined
 
@@ -428,6 +428,18 @@ day_names = {
 # Ensure 'day' column is of integer type
 df_all['day'] = df_all['day'].astype(int)
 
+# Start building the Markdown content with front matter
+md_content = """---
+layout: default
+title: Max Heinze
+description: Economics PhD Student @ WU Vienna
+---
+
+# This Week's Scraped Lunch Menus
+
+**Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate. **Click** on a weekday to expand that day's menu.
+"""
+
 # Iterate over each unique day
 for day_num in sorted(df_all['day'].dropna().unique()):
     # Get the weekday name
@@ -436,23 +448,35 @@ for day_num in sorted(df_all['day'].dropna().unique()):
     # Filter the dataframe for the current day
     df_day = df_all[df_all['day'] == day_num].copy()
     
-    # Sort by 'location', 'foodtype', 'language'
-    df_day.sort_values(['location', 'foodtype', 'language'], inplace=True)
-    
-    # Remove the 'language' column
-    df_day.drop(columns=['language'], inplace=True)
+    # Sort by 'location', 'foodtype', and reverse 'language'
+    df_day.sort_values(['location', 'foodtype', 'language'], ascending=[True, True, False], inplace=True)
+   
+    # Drop the 'language' and 'day' columns
+    df_day.drop(columns=['language', 'day'], inplace=True)
     
     # Modify the 'source' column to display 'Link' with the URL
     df_day['source'] = df_day['source'].apply(lambda x: f'<a href="{x}">Link</a>')
     
     # Reorder columns if necessary
-    df_day = df_day[['location', 'foodtype', 'menu', 'price', 'day', 'source']]
+    df_day = df_day[['location', 'foodtype', 'menu', 'price', 'source']]
+
+    # Replace NaN with empty strings
+    df_day.fillna('', inplace=True)
     
     # Convert the dataframe to an HTML table without escaping HTML characters
-    html_table = df_day.to_html(index=False, escape=False, classes='table table-striped', header=True)
+    html_table = df_day.to_html(index=False, border=0, header=False, classes='menu-table', escape=False)
 
-    # Save the table HTML only to a file
-    filename = f'{day_name}_table.html'
-    with open(filename, 'w', encoding='utf-8') as f:
-        f.write(html_table)
+    # Add the collapsible section for the current day
+    md_content += f"""
+<details>
+  <summary><h2>{day_name}</h2></summary>
+  {html_table}
+</details>
+"""
+
+# Write the entire Markdown content to a file
+with open('menu.md', 'w', encoding='utf-8') as f:
+    f.write(md_content)
+
+print("menu.md has been created.")
 
