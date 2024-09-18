@@ -413,3 +413,46 @@ if __name__ == '__main__':
             archive_folder, f'menu_data_{current_date}.csv')
 
         df_all.to_csv(file_path, index=False)
+
+# Map day numbers to weekday names
+day_names = {
+    1: 'Monday',
+    2: 'Tuesday',
+    3: 'Wednesday',
+    4: 'Thursday',
+    5: 'Friday',
+    6: 'Saturday',
+    7: 'Sunday'
+}
+
+# Ensure 'day' column is of integer type
+df_all['day'] = df_all['day'].astype(int)
+
+# Iterate over each unique day
+for day_num in sorted(df_all['day'].dropna().unique()):
+    # Get the weekday name
+    day_name = day_names.get(day_num, f'Day{day_num}')
+    
+    # Filter the dataframe for the current day
+    df_day = df_all[df_all['day'] == day_num].copy()
+    
+    # Sort by 'location', 'foodtype', 'language'
+    df_day.sort_values(['location', 'foodtype', 'language'], inplace=True)
+    
+    # Remove the 'language' column
+    df_day.drop(columns=['language'], inplace=True)
+    
+    # Modify the 'source' column to display 'Link' with the URL
+    df_day['source'] = df_day['source'].apply(lambda x: f'<a href="{x}">Link</a>')
+    
+    # Reorder columns if necessary
+    df_day = df_day[['location', 'foodtype', 'menu', 'price', 'day', 'source']]
+    
+    # Convert the dataframe to an HTML table without escaping HTML characters
+    html_table = df_day.to_html(index=False, escape=False, classes='table table-striped', header=True)
+
+    # Save the table HTML only to a file
+    filename = f'{day_name}_table.html'
+    with open(filename, 'w', encoding='utf-8') as f:
+        f.write(html_table)
+
