@@ -437,7 +437,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-**Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate. **Click** on a weekday to expand that day's menu.
+**Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 """
 
 # Iterate over each unique day
