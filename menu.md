@@ -29,7 +29,7 @@ description: Economics PhD Student @ WU Vienna
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Boeuf Stroganoff mit Tagllatelle</td>
+      <td>Boeuf Stroganoff mit Tagliatelle</td>
       <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -42,30 +42,58 @@ description: Economics PhD Student @ WU Vienna
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M4</td>
-      <td>Red Thai Chicken</td>
+      <td>M2</td>
+      <td>Steirisches Wurzelfleisch mit Salzerdäpfeln und Kren</td>
+      <td>11.9</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M2</td>
+      <td>Styrian root meat with salt crosques and grenes</td>
+      <td>11.9</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Erdapfelgulasch dazu Weißbrot Vegan</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M4</td>
-      <td>Red Thai Chicken</td>
+      <td>M3</td>
+      <td>Earth apple goulash for this white bread vegan</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
-      <td>Lachs Bento</td>
+      <td>Achsbent</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
-      <td>Salmon Bento</td>
+      <td>Axle</td>
       <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>Soup</td>
+      <td>Kohlrabicremesuppe</td>
+      <td>4.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>Soup</td>
+      <td>Coal</td>
+      <td>4.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
@@ -233,7 +261,7 @@ description: Economics PhD Student @ WU Vienna
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Boeuf Stroganoff mit Tagllatelle</td>
+      <td>Boeuf Stroganoff mit Tagliatelle</td>
       <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -246,29 +274,57 @@ description: Economics PhD Student @ WU Vienna
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M4</td>
-      <td>Red Thai Chicken</td>
+      <td>M2</td>
+      <td>Chicken Tikka Masala dazu Kardamomreis</td>
+      <td>11.9</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M2</td>
+      <td>Chicken tikka masala</td>
+      <td>11.9</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Palak Paneer mit Naan Veggie</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M4</td>
-      <td>Red Thai Chicken</td>
+      <td>M3</td>
+      <td>Palak Paneer with Naan Veggie</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
-      <td>Lachs Bento</td>
+      <td>Achsbent</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
-      <td>Salmon Bento</td>
+      <td>Axle</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>Soup</td>
+      <td>SÜßKartoffelsuppe</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>Soup</td>
+      <td>Sweet potato soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -437,7 +493,7 @@ description: Economics PhD Student @ WU Vienna
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Boeuf Stroganoff mit Tagllatelle</td>
+      <td>Boeuf Stroganoff mit Tagliatelle</td>
       <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -452,55 +508,41 @@ description: Economics PhD Student @ WU Vienna
       <td>Finn</td>
       <td>M2</td>
       <td>Gegrilltes Schopfsteak mit Ofenerdäpfeln und Ajvar</td>
-      <td>11.9</td>
+      <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
       <td>Grilled crested steak with stove crested and Ajvar</td>
-      <td>11.9</td>
+      <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Kasespätzle mit Röstzwiebeln Veggie</td>
-      <td></td>
+      <td>Käsespätzle mit Röstzwiebeln Veggie</td>
+      <td>9.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
       <td>Käsespätzle with roasted onions veggie</td>
-      <td></td>
+      <td>9.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M4</td>
-      <td>Red Thai Chicken</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M4</td>
-      <td>Red Thai Chicken</td>
+      <td>M5</td>
+      <td>Achsbent</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
-      <td>Lachs Bento</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M5</td>
-      <td>Salmon Bento</td>
+      <td>Axle</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -683,7 +725,7 @@ description: Economics PhD Student @ WU Vienna
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Boeuf Stroganoff mit Tagllatelle</td>
+      <td>Boeuf Stroganoff mit Tagliatelle</td>
       <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -698,55 +740,41 @@ description: Economics PhD Student @ WU Vienna
       <td>Finn</td>
       <td>M2</td>
       <td>Lasagne Al Forno mit Paradeissauce</td>
-      <td>11.9</td>
+      <td>11.8</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
       <td>Lasagne al Forno with parade sauce sauce</td>
-      <td>11.9</td>
+      <td>11.8</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Pasta All’arrabbiata mit Parmesan und Erbsenkresse Veggie</td>
-      <td>9.9</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M3</td>
-      <td>Pasta all’arrabbiata with parmesan and pea cress veggie</td>
-      <td>9.9</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M4</td>
-      <td>Red Thai Chicken</td>
+      <td>Pasta All’arrabbiata mit Parmesan und Erbsenkresse</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M4</td>
-      <td>Red Thai Chicken</td>
+      <td>M3</td>
+      <td>Pasta all’arrabbiata with parmesan and pea cress</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
-      <td>Lachs Bento</td>
+      <td>Achsbent</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
-      <td>Salmon Bento</td>
+      <td>Axle</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -929,7 +957,7 @@ description: Economics PhD Student @ WU Vienna
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Boeuf Stroganoff mit Tagllatelle</td>
+      <td>Boeuf Stroganoff mit Tagliatelle</td>
       <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -944,55 +972,41 @@ description: Economics PhD Student @ WU Vienna
       <td>Finn</td>
       <td>M2</td>
       <td>Gegrillter Oktopus Und Garnelen mit Braterdäpfeln und Aioli</td>
-      <td>12.5</td>
+      <td>12.59</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
       <td>Grilled octopus and shrimp with brater scraps and Aioli</td>
-      <td>12.5</td>
+      <td>12.59</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Chili Sin Carne dazu Weißbrot Vecan</td>
+      <td>Chili Sin Carne dazu Weißbrot Vegan</td>
       <td>9.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Chili sin carne with white bread vecan</td>
+      <td>Chili sin carne with white bread vegan</td>
       <td>9.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M4</td>
-      <td>Red Thai Chicken</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M4</td>
-      <td>Red Thai Chicken</td>
+      <td>M5</td>
+      <td>Achsbent</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
-      <td>Lachs Bento</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M5</td>
-      <td>Salmon Bento</td>
+      <td>Axle</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
