@@ -220,24 +220,21 @@ def get_library_menu():
 
 
 def get_finn_menu():
-    # Fetch the webpage
+    # Step 1: Fetch the webpage
     page_url = 'https://finn.wien/collections/mittagsmenu'
     response = requests.get(page_url)
     soup = BeautifulSoup(response.content, 'html.parser')
 
-    # Find the div that contains the image
+    # Step 2: Find the div that contains the image
     div_tag = soup.find(
         'div', class_='collection__header-info__text rte rte--header')
-
     if div_tag:
-        # Find the img tag within the div
+        # Step 3: Find the img tag within the div
         image_tag = div_tag.find('img')
         if image_tag:
             image_url = image_tag['src']
             if not image_url.startswith('http'):
                 image_url = 'https://finn.wien' + image_url
-
-            #print(f"Image URL: {image_url}")
         else:
             print("Error: No image found inside the specified div.")
             return pd.DataFrame()
@@ -245,24 +242,23 @@ def get_finn_menu():
         print("Error: Specified div not found.")
         return pd.DataFrame()
 
-    # Download and preprocess the image for OCR
+    # Step 4: Download and preprocess the image for OCR (only thresholding)
     image_response = requests.get(image_url)
     img_data = image_response.content
     img_array = np.frombuffer(img_data, np.uint8)
     img = cv2.imdecode(img_array, cv2.IMREAD_COLOR)
     img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-    scale_factor = 5
-    width = int(img_gray.shape[1] * scale_factor)
-    height = int(img_gray.shape[0] * scale_factor)
-    img_resized = cv2.resize(img_gray, (width, height),
-                             interpolation=cv2.INTER_LINEAR)
     manual_threshold_value = 200
     _, img_thresh = cv2.threshold(
-        img_resized, manual_threshold_value, 255, cv2.THRESH_BINARY)
+        img_gray, manual_threshold_value, 255, cv2.THRESH_BINARY)
     img_for_ocr = Image.fromarray(img_thresh)
+
+    # Step 5: Extract text from the image
     imagetext = pytesseract.image_to_string(img_for_ocr, lang='deu')
 
-    # Functions for cleaning and translating
+    # Step 6: Define helper functions
+
+    # Clean dish name
     def clean_dish(dish):
         allowed_chars = 'a-zA-Z0-9äöüÄÖÜß'
         dish = re.sub(r'^[^{}]+'.format(allowed_chars), '', dish)
@@ -290,6 +286,7 @@ def get_finn_menu():
         dish = ' '.join(words)
         return dish
 
+    # Get day number
     def get_day_number(day_str):
         day_str = day_str.upper()
         day_names = ['MONTAG', 'DIENSTAG', 'MITTWOCH', 'DONNERSTAG', 'FREITAG']
@@ -302,14 +299,40 @@ def get_finn_menu():
         else:
             return None
 
-    # Process the text extracted from the image
+    # Process price
+    def process_price(price_str):
+        # Replace comma with period if present
+        price_str = price_str.replace(',', '.')
+
+        # If no decimal point, insert it before the last two digits
+        if '.' not in price_str and len(price_str) > 2:
+            price_str = price_str[:-2] + '.' + price_str[-2:]
+
+        # Replace "4" at the beginning followed by a digit with "1" (OCR correction)
+        if price_str.startswith('4') and len(price_str) > 1 and price_str[1].isdigit():
+            price_str = '1' + price_str[1:]
+
+        # Check if the price is in the range 4 to 15, otherwise return an empty value
+        try:
+            price_value = float(price_str)
+            if 4 <= price_value <= 15:
+                return price_value
+            else:
+                return None
+        except ValueError:
+            return None
+
+    # Step 7: Process the extracted text
     lines = imagetext.split('\n')
     dish_list = []
     current_day = None
     day_pattern = re.compile(r'^([A-ZÄÖÜa-zäöüß]+):\s*(.*)', re.IGNORECASE)
-    menu_pattern = re.compile(r'^(M[0-9]+|MS):\s*(.*)', re.IGNORECASE)
+    # Updated regex to allow optional colon
+    menu_pattern = re.compile(r'^(M[0-9]+|MS)\s*:?\s*(.*)', re.IGNORECASE)
     asia_pattern = re.compile(
         r'^AS[A-Z]A BOX TO GO[:_]?\s*(.*)', re.IGNORECASE)
+    # Pattern to find price at the end of a line
+    price_pattern = re.compile(r'(\d+[.,]?\d*)$')
     sushi_bar = False
     translator = Translator()
 
@@ -317,6 +340,15 @@ def get_finn_menu():
         line = line.strip()
         if not line:
             continue
+        # Extract price at the end of the line (if available)
+        price_match = price_pattern.search(line)
+        price = None
+        if price_match:
+            price_str = price_match.group(1)
+            price = process_price(price_str)
+            # Remove the price from the line for further dish processing
+            line = line[:price_match.start()].strip()
+
         day_match = day_pattern.match(line)
         if day_match:
             day_str = day_match.group(1)
@@ -326,8 +358,8 @@ def get_finn_menu():
                 current_day = day_number
                 dish = clean_dish(soup_dish)
                 dish_list.append(
-                    {'day': current_day, 'foodtype': 'Soup', 'menu': dish})
-                continue
+                    {'day': current_day, 'foodtype': 'Soup', 'menu': dish, 'price': price})
+            continue
         menu_match = menu_pattern.match(line)
         if menu_match:
             type_ = menu_match.group(1).upper()
@@ -338,12 +370,12 @@ def get_finn_menu():
             if type_ in ['M1', 'M4', 'M5']:
                 for day_number in [1, 2, 3, 4, 5]:
                     dish_list.append(
-                        {'day': day_number, 'foodtype': type_, 'menu': dish})
+                        {'day': day_number, 'foodtype': type_, 'menu': dish, 'price': price})
             else:
                 day = current_day
                 if day is not None:
                     dish_list.append(
-                        {'day': day, 'foodtype': type_, 'menu': dish})
+                        {'day': day, 'foodtype': type_, 'menu': dish, 'price': price})
             continue
         asia_match = asia_pattern.match(line)
         if asia_match:
@@ -351,7 +383,7 @@ def get_finn_menu():
             dish = clean_dish(dish)
             for day_number in [1, 2, 3, 4, 5]:
                 dish_list.append(
-                    {'day': day_number, 'foodtype': 'ASIA BOX TO GO', 'menu': dish})
+                    {'day': day_number, 'foodtype': 'ASIA BOX TO GO', 'menu': dish, 'price': price})
             continue
         if 'SUSHI BAR' in line.upper():
             sushi_bar = True
@@ -366,23 +398,26 @@ def get_finn_menu():
                     type_ = 'M5'
                 for day_number in [1, 2, 3, 4, 5]:
                     dish_list.append(
-                        {'day': day_number, 'foodtype': type_, 'menu': dish})
+                        {'day': day_number, 'foodtype': type_, 'menu': dish, 'price': price})
                 continue
             else:
                 sushi_bar = False
 
-    # Create DataFrame and translate 'menu' column to English
+    # Step 8: Create DataFrame
     df = pd.DataFrame(dish_list)
+
+    # Step 9: Translate 'menu' column to English
     df['language'] = 'german'
     df_translated = df.copy()
     df_translated['menu'] = df_translated['menu'].apply(
         lambda x: translator.translate(x, src='de', dest='en').text)
     df_translated['language'] = 'english'
 
-    # Combine DataFrames and add location and source
+    # Step 10: Combine DataFrames and add location and source
     df_combined = pd.concat([df, df_translated], ignore_index=True)
     df_combined['location'] = 'Finn'
     df_combined['source'] = page_url
+
     return df_combined
 
 
@@ -444,27 +479,30 @@ description: Economics PhD Student @ WU Vienna
 for day_num in sorted(df_all['day'].dropna().unique()):
     # Get the weekday name
     day_name = day_names.get(day_num, f'Day{day_num}')
-    
+
     # Filter the dataframe for the current day
     df_day = df_all[df_all['day'] == day_num].copy()
-    
+
     # Sort by 'location', 'foodtype', and reverse 'language'
-    df_day.sort_values(['location', 'foodtype', 'language'], ascending=[True, True, False], inplace=True)
-   
+    df_day.sort_values(['location', 'foodtype', 'language'],
+                       ascending=[True, True, False], inplace=True)
+
     # Drop the 'language' and 'day' columns
     df_day.drop(columns=['language', 'day'], inplace=True)
-    
+
     # Modify the 'source' column to display 'Link' with the URL
-    df_day['source'] = df_day['source'].apply(lambda x: f'<a href="{x}">Link</a>')
-    
+    df_day['source'] = df_day['source'].apply(
+        lambda x: f'<a href="{x}">Link</a>')
+
     # Reorder columns if necessary
     df_day = df_day[['location', 'foodtype', 'menu', 'price', 'source']]
 
     # Replace NaN with empty strings
     df_day.fillna('', inplace=True)
-    
+
     # Convert the dataframe to an HTML table without escaping HTML characters
-    html_table = df_day.to_html(index=False, border=0, header=False, classes='menu-table', escape=False)
+    html_table = df_day.to_html(
+        index=False, border=0, header=False, classes='menu-table', escape=False)
 
     # Add the collapsible section for the current day
     md_content += f"""
@@ -479,4 +517,3 @@ with open('menu.md', 'w', encoding='utf-8') as f:
     f.write(md_content)
 
 print("menu.md has been created.")
-

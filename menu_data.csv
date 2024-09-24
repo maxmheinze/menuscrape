@@ -99,53 +99,63 @@ Veggie,4," Thai coconut curry with tofu and basmati rice, with mango yogurt. (G)
 Meat,4,"Thai coconut curry with chicken and basmati rice, with mango yogurt. (G)MEAT",english,Library,https://lia.coffee,10.00
 Veggie,5," Fried cauliflower, french fries, tartar sauce and green beans. (A, G)VEGGIE",english,Library,https://lia.coffee,10.00
 Meat,5,"Fish crispy, French fries, tartar sauce and coleslaw. (A, G)MEAT",english,Library,https://lia.coffee,10.00
-M1,1,Boeuf Stroganoff mit Tagliatelle,german,Finn,https://finn.wien/collections/mittagsmenu,
-M1,2,Boeuf Stroganoff mit Tagliatelle,german,Finn,https://finn.wien/collections/mittagsmenu,
-M1,3,Boeuf Stroganoff mit Tagliatelle,german,Finn,https://finn.wien/collections/mittagsmenu,
-M1,4,Boeuf Stroganoff mit Tagliatelle,german,Finn,https://finn.wien/collections/mittagsmenu,
-M1,5,Boeuf Stroganoff mit Tagliatelle,german,Finn,https://finn.wien/collections/mittagsmenu,
-Soup,1,Kohlrabicremesuppe,german,Finn,https://finn.wien/collections/mittagsmenu,
-M2,1,Steirisches Wurzelfleisch mit Salzerdäpfeln und Kren,german,Finn,https://finn.wien/collections/mittagsmenu,
+M1,1,Boeuf Stroganoff mit Tagliatelle,german,Finn,https://finn.wien/collections/mittagsmenu,13.5
+M1,2,Boeuf Stroganoff mit Tagliatelle,german,Finn,https://finn.wien/collections/mittagsmenu,13.5
+M1,3,Boeuf Stroganoff mit Tagliatelle,german,Finn,https://finn.wien/collections/mittagsmenu,13.5
+M1,4,Boeuf Stroganoff mit Tagliatelle,german,Finn,https://finn.wien/collections/mittagsmenu,13.5
+M1,5,Boeuf Stroganoff mit Tagliatelle,german,Finn,https://finn.wien/collections/mittagsmenu,13.5
+Soup,1,Kohlrabicremesuppe,german,Finn,https://finn.wien/collections/mittagsmenu,4.0
+M2,1,Steirisches Wurzelfleisch mit Salzerdäpfeln und Kren,german,Finn,https://finn.wien/collections/mittagsmenu,11.9
 M3,1,Erdapfelgulasch dazu Weißbrot Vegan,german,Finn,https://finn.wien/collections/mittagsmenu,
-Soup,2,SUßkKartoffelsuppe,german,Finn,https://finn.wien/collections/mittagsmenu,
-M2,2,Chicken Tikka Masala dazu Kardamomreis,german,Finn,https://finn.wien/collections/mittagsmenu,
+Soup,2,SÜßKartoffelsuppe,german,Finn,https://finn.wien/collections/mittagsmenu,
+M2,2,Chicken Tikka Masala dazu Kardamomreis,german,Finn,https://finn.wien/collections/mittagsmenu,11.9
 M3,2,Palak Paneer mit Naan Veggie,german,Finn,https://finn.wien/collections/mittagsmenu,
 Soup,3,Kraftige Rindsuppe mit Frittaten,german,Finn,https://finn.wien/collections/mittagsmenu,
 M2,3,Gegrilltes Schopfsteak mit Ofenerdäpfeln und Ajvar,german,Finn,https://finn.wien/collections/mittagsmenu,
-M3,3,Käsespätzle mit Röstzwiebeln Veggie,german,Finn,https://finn.wien/collections/mittagsmenu,
+M3,3,Käsespätzle mit Röstzwiebeln Veggie,german,Finn,https://finn.wien/collections/mittagsmenu,9.0
 Soup,4,Eingemachte Fisolen,german,Finn,https://finn.wien/collections/mittagsmenu,
-M2,4,Lasagne Al Forno mit Paradeissauce,german,Finn,https://finn.wien/collections/mittagsmenu,
-M3,4,Pasta All’arrabbiata mit Parmesan und Erbsenkresse Veggie,german,Finn,https://finn.wien/collections/mittagsmenu,
+M2,4,Lasagne Al Forno mit Paradeissauce,german,Finn,https://finn.wien/collections/mittagsmenu,11.8
+M3,4,Pasta All’arrabbiata mit Parmesan und Erbsenkresse,german,Finn,https://finn.wien/collections/mittagsmenu,
 Soup,5,Orientalische Gemüse,german,Finn,https://finn.wien/collections/mittagsmenu,
-M2,5,Gegrillter Oktopus Und Garnelen mit Braterdäpfeln und Aioli,german,Finn,https://finn.wien/collections/mittagsmenu,
-M3,5,Chili Sin Carne dazu Weißbrot Vegan,german,Finn,https://finn.wien/collections/mittagsmenu,
-ASIA BOX TO GO,1,Huühner Gyoza mit Reis und Salat,german,Finn,https://finn.wien/collections/mittagsmenu,
-ASIA BOX TO GO,2,Huühner Gyoza mit Reis und Salat,german,Finn,https://finn.wien/collections/mittagsmenu,
-ASIA BOX TO GO,3,Huühner Gyoza mit Reis und Salat,german,Finn,https://finn.wien/collections/mittagsmenu,
-ASIA BOX TO GO,4,Huühner Gyoza mit Reis und Salat,german,Finn,https://finn.wien/collections/mittagsmenu,
-ASIA BOX TO GO,5,Huühner Gyoza mit Reis und Salat,german,Finn,https://finn.wien/collections/mittagsmenu,
-M1,1,Boeuf Stroganoff with tagliatelle,english,Finn,https://finn.wien/collections/mittagsmenu,
-M1,2,Boeuf Stroganoff with tagliatelle,english,Finn,https://finn.wien/collections/mittagsmenu,
-M1,3,Boeuf Stroganoff with tagliatelle,english,Finn,https://finn.wien/collections/mittagsmenu,
-M1,4,Boeuf Stroganoff with tagliatelle,english,Finn,https://finn.wien/collections/mittagsmenu,
-M1,5,Boeuf Stroganoff with tagliatelle,english,Finn,https://finn.wien/collections/mittagsmenu,
-Soup,1,Coal,english,Finn,https://finn.wien/collections/mittagsmenu,
-M2,1,Styrian root meat with salt crosques and grenes,english,Finn,https://finn.wien/collections/mittagsmenu,
+M2,5,Gegrillter Oktopus Und Garnelen mit Braterdäpfeln und Aioli,german,Finn,https://finn.wien/collections/mittagsmenu,12.59
+M3,5,Chili Sin Carne dazu Weißbrot Vegan,german,Finn,https://finn.wien/collections/mittagsmenu,9.9
+M5,1,Achsbent,german,Finn,https://finn.wien/collections/mittagsmenu,
+M5,2,Achsbent,german,Finn,https://finn.wien/collections/mittagsmenu,
+M5,3,Achsbent,german,Finn,https://finn.wien/collections/mittagsmenu,
+M5,4,Achsbent,german,Finn,https://finn.wien/collections/mittagsmenu,
+M5,5,Achsbent,german,Finn,https://finn.wien/collections/mittagsmenu,
+ASIA BOX TO GO,1,Hühner Gyoza mit Reis und Salat,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
+ASIA BOX TO GO,2,Hühner Gyoza mit Reis und Salat,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
+ASIA BOX TO GO,3,Hühner Gyoza mit Reis und Salat,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
+ASIA BOX TO GO,4,Hühner Gyoza mit Reis und Salat,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
+ASIA BOX TO GO,5,Hühner Gyoza mit Reis und Salat,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
+M1,1,Boeuf Stroganoff with tagliatelle,english,Finn,https://finn.wien/collections/mittagsmenu,13.5
+M1,2,Boeuf Stroganoff with tagliatelle,english,Finn,https://finn.wien/collections/mittagsmenu,13.5
+M1,3,Boeuf Stroganoff with tagliatelle,english,Finn,https://finn.wien/collections/mittagsmenu,13.5
+M1,4,Boeuf Stroganoff with tagliatelle,english,Finn,https://finn.wien/collections/mittagsmenu,13.5
+M1,5,Boeuf Stroganoff with tagliatelle,english,Finn,https://finn.wien/collections/mittagsmenu,13.5
+Soup,1,Coal,english,Finn,https://finn.wien/collections/mittagsmenu,4.0
+M2,1,Styrian root meat with salt crosques and grenes,english,Finn,https://finn.wien/collections/mittagsmenu,11.9
 M3,1,Earth apple goulash for this white bread vegan,english,Finn,https://finn.wien/collections/mittagsmenu,
-Soup,2,Potato soup,english,Finn,https://finn.wien/collections/mittagsmenu,
-M2,2,Chicken tikka masala,english,Finn,https://finn.wien/collections/mittagsmenu,
+Soup,2,Sweet potato soup,english,Finn,https://finn.wien/collections/mittagsmenu,
+M2,2,Chicken tikka masala,english,Finn,https://finn.wien/collections/mittagsmenu,11.9
 M3,2,Palak Paneer with Naan Veggie,english,Finn,https://finn.wien/collections/mittagsmenu,
 Soup,3,Proxy beef soup with fried,english,Finn,https://finn.wien/collections/mittagsmenu,
 M2,3,Grilled crested steak with stove crested and Ajvar,english,Finn,https://finn.wien/collections/mittagsmenu,
-M3,3,Käsespätzle with roasted onions veggie,english,Finn,https://finn.wien/collections/mittagsmenu,
+M3,3,Käsespätzle with roasted onions veggie,english,Finn,https://finn.wien/collections/mittagsmenu,9.0
 Soup,4,Consolidated fisoles,english,Finn,https://finn.wien/collections/mittagsmenu,
-M2,4,Lasagne al Forno with parade sauce sauce,english,Finn,https://finn.wien/collections/mittagsmenu,
-M3,4,Pasta all’arrabbiata with parmesan and pea cress veggie,english,Finn,https://finn.wien/collections/mittagsmenu,
+M2,4,Lasagne al Forno with parade sauce sauce,english,Finn,https://finn.wien/collections/mittagsmenu,11.8
+M3,4,Pasta all’arrabbiata with parmesan and pea cress,english,Finn,https://finn.wien/collections/mittagsmenu,
 Soup,5,Oriental vegetables,english,Finn,https://finn.wien/collections/mittagsmenu,
-M2,5,Grilled octopus and shrimp with brater scraps and Aioli,english,Finn,https://finn.wien/collections/mittagsmenu,
-M3,5,Chili sin carne with white bread vegan,english,Finn,https://finn.wien/collections/mittagsmenu,
-ASIA BOX TO GO,1,Chickens Gyoza with rice and salad,english,Finn,https://finn.wien/collections/mittagsmenu,
-ASIA BOX TO GO,2,Chickens Gyoza with rice and salad,english,Finn,https://finn.wien/collections/mittagsmenu,
-ASIA BOX TO GO,3,Chickens Gyoza with rice and salad,english,Finn,https://finn.wien/collections/mittagsmenu,
-ASIA BOX TO GO,4,Chickens Gyoza with rice and salad,english,Finn,https://finn.wien/collections/mittagsmenu,
-ASIA BOX TO GO,5,Chickens Gyoza with rice and salad,english,Finn,https://finn.wien/collections/mittagsmenu,
+M2,5,Grilled octopus and shrimp with brater scraps and Aioli,english,Finn,https://finn.wien/collections/mittagsmenu,12.59
+M3,5,Chili sin carne with white bread vegan,english,Finn,https://finn.wien/collections/mittagsmenu,9.9
+M5,1,Axle,english,Finn,https://finn.wien/collections/mittagsmenu,
+M5,2,Axle,english,Finn,https://finn.wien/collections/mittagsmenu,
+M5,3,Axle,english,Finn,https://finn.wien/collections/mittagsmenu,
+M5,4,Axle,english,Finn,https://finn.wien/collections/mittagsmenu,
+M5,5,Axle,english,Finn,https://finn.wien/collections/mittagsmenu,
+ASIA BOX TO GO,1,Chickens Gyoza with rice and salad,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
+ASIA BOX TO GO,2,Chickens Gyoza with rice and salad,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
+ASIA BOX TO GO,3,Chickens Gyoza with rice and salad,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
+ASIA BOX TO GO,4,Chickens Gyoza with rice and salad,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
+ASIA BOX TO GO,5,Chickens Gyoza with rice and salad,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
