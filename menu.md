@@ -57,14 +57,14 @@ description: Economics PhD Student @ WU Vienna
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Erdapfelgulasch dazu Weißbrot Vegan</td>
+      <td>Erdapfelgulasch mit Weißbrot Vegan</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Earth apple goulash for this white bread vegan</td>
+      <td>Earth apple goulash with white bread vegan</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -275,14 +275,14 @@ description: Economics PhD Student @ WU Vienna
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Chicken Tikka Masala dazu Kardamomreis</td>
+      <td>Chicken Tikka Masala mit Kardamomreis</td>
       <td>11.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Chicken tikka masala</td>
+      <td>Chicken Tikka Masala with cardamom rice</td>
       <td>11.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -985,7 +985,7 @@ description: Economics PhD Student @ WU Vienna
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Chili Sin Carne dazu Weißbrot Vegan</td>
+      <td>Chili Sin Carne mit Weißbrot Vegan</td>
       <td>9.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>

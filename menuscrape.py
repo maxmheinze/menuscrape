@@ -409,6 +409,8 @@ def get_finn_menu():
     df = pd.DataFrame(dish_list)
 
     # Step 9: Translate 'menu' column to English
+    df['menu'] = df['menu'].str.replace(
+        'dazu', 'mit', case=False)  # Replace "dazu" with "mit"
     df['language'] = 'german'
     df_translated = df.copy()
     df_translated['menu'] = df_translated['menu'].apply(
