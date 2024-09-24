@@ -247,14 +247,13 @@ def get_finn_menu():
     img_data = image_response.content
     img_array = np.frombuffer(img_data, np.uint8)
     img = cv2.imdecode(img_array, cv2.IMREAD_COLOR)
-    img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-    manual_threshold_value = 200
-    _, img_thresh = cv2.threshold(
-        img_gray, manual_threshold_value, 255, cv2.THRESH_BINARY)
-    img_for_ocr = Image.fromarray(img_thresh)
+    # img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    # manual_threshold_value = 200
+    # _, img_thresh = cv2.threshold(img_gray, manual_threshold_value, 255, cv2.THRESH_BINARY)
+    # img_for_ocr = Image.fromarray(img_thresh)
 
     # Step 5: Extract text from the image
-    imagetext = pytesseract.image_to_string(img_for_ocr, lang='deu')
+    imagetext = pytesseract.image_to_string(img, lang='deu')
 
     # Step 6: Define helper functions
 
@@ -326,10 +325,8 @@ def get_finn_menu():
     lines = imagetext.split('\n')
     dish_list = []
     current_day = None
-    # Allow colon or space after day names
     day_pattern = re.compile(
         r'^(MONTAG|DIENSTAG|MITTWOCH|DONNERSTAG|FREITAG)[:\s]*(.*)', re.IGNORECASE)
-    # Optional colon after M1, M2, etc.
     menu_pattern = re.compile(r'^(M[0-9]+|MS)\s*:?\s*(.*)', re.IGNORECASE)
     asia_pattern = re.compile(
         r'^AS[A-Z]A BOX TO GO[:_]?\s*(.*)', re.IGNORECASE)
@@ -410,7 +407,7 @@ def get_finn_menu():
 
     # Step 9: Translate 'menu' column to English
     df['menu'] = df['menu'].str.replace(
-        'dazu', 'mit', case=False)  # Replace "dazu" with "mit"
+        'dazu', 'mit', case=False)
     df['language'] = 'german'
     df_translated = df.copy()
     df_translated['menu'] = df_translated['menu'].apply(
@@ -422,6 +419,7 @@ def get_finn_menu():
     df_combined['location'] = 'Finn'
     df_combined['source'] = page_url
 
+    print(imagetext)
     return df_combined
 
 
