@@ -247,14 +247,13 @@ def get_finn_menu():
     img_data = image_response.content
     img_array = np.frombuffer(img_data, np.uint8)
     img = cv2.imdecode(img_array, cv2.IMREAD_COLOR)
-    img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-    manual_threshold_value = 200
-    _, img_thresh = cv2.threshold(
-        img_gray, manual_threshold_value, 255, cv2.THRESH_BINARY)
-    img_for_ocr = Image.fromarray(img_thresh)
+    # img_gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    # manual_threshold_value = 200
+    # _, img_thresh = cv2.threshold(img_gray, manual_threshold_value, 255, cv2.THRESH_BINARY)
+    # img_for_ocr = Image.fromarray(img_thresh)
 
     # Step 5: Extract text from the image
-    imagetext = pytesseract.image_to_string(img_for_ocr, lang='deu')
+    imagetext = pytesseract.image_to_string(img, lang='deu')
 
     # Step 6: Define helper functions
 
@@ -327,7 +326,6 @@ def get_finn_menu():
     dish_list = []
     current_day = None
     day_pattern = re.compile(r'^([A-ZÄÖÜa-zäöüß]+):\s*(.*)', re.IGNORECASE)
-    # Updated regex to allow optional colon
     menu_pattern = re.compile(r'^(M[0-9]+|MS)\s*:?\s*(.*)', re.IGNORECASE)
     asia_pattern = re.compile(
         r'^AS[A-Z]A BOX TO GO[:_]?\s*(.*)', re.IGNORECASE)
@@ -336,24 +334,6 @@ def get_finn_menu():
     sushi_bar = False
     translator = Translator()
 
-    def process_price(price_str):
-        # Step 1: Replace comma with period if present
-        price_str = price_str.replace(',', '.')
-        # Step 2: If no decimal point, insert it before the last two digits
-        if '.' not in price_str and len(price_str) > 2:
-            price_str = price_str[:-2] + '.' + price_str[-2:]
-        # Step 3: Replace "4" at the beginning followed by a digit with "1" (OCR correction)
-        if price_str.startswith('4') and len(price_str) > 1 and price_str[1].isdigit():
-            price_str = '1' + price_str[1:]
-        # Step 4: Check if the price is in the range 4 to 15, otherwise return an empty value
-        try:
-            price_value = float(price_str)
-            if 4 <= price_value <= 15:
-                return price_value
-            else:
-                return None
-        except ValueError:
-            return None
     for line in lines:
         line = line.strip()
         if not line:
@@ -366,6 +346,7 @@ def get_finn_menu():
             price = process_price(price_str)
             # Remove the price from the line for further dish processing
             line = line[:price_match.start()].strip()
+
         day_match = day_pattern.match(line)
         if day_match:
             day_str = day_match.group(1)
