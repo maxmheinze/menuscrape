@@ -6,6 +6,8 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
+_Last Update: 2024-10-03 13:14:43_
+
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
 <details>
@@ -956,7 +958,7 @@ description: Economics PhD Student @ WU Vienna
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Cafeteria burger |French fries beef or planted 'crispy chicken style' a, g</td>
+      <td>Cafeteria burger |French fries beef or planted 'crispy chicken' a, g</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>

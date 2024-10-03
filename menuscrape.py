@@ -465,8 +465,10 @@ day_names = {
 # Ensure 'day' column is of integer type
 df_all['day'] = df_all['day'].astype(int)
 
-# Start building the Markdown content with front matter
-md_content = """---
+# Markdown
+current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+
+md_content = f"""---
 layout: default
 title: Max Heinze
 description: Economics PhD Student @ WU Vienna
@@ -474,8 +476,11 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
+_Last Update: {current_time}_
+
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 """
+
 
 # Iterate over each unique day
 for day_num in sorted(df_all['day'].dropna().unique()):
