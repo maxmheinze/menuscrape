@@ -25,16 +25,27 @@ def get_baschly_menu():
     soup = BeautifulSoup(response.content, 'html.parser')
 
     # Find the PDF link containing "Lunch Special"
-    link = soup.find('a', string=re.compile(
-        r'\s*Lunch\s*Special\s*', re.IGNORECASE))
+    link = soup.find('a', string=re.compile(r'\s*Lunch\s*Special\s*', re.IGNORECASE))
     pdf_url = link['href']
 
-    # Extract tables from the PDF
+    # Try to extract tables from the PDF
     tables = camelot.read_pdf(pdf_url, pages='all')
-    if len(tables) > 0:
-        df_table = tables[0].df
-    else:
-        return pd.DataFrame()
+
+    # Check if the PDF is image-based
+    if len(tables) == 0 or 'error' in tables[0].parsing_report['warnings']:
+        # If image-based, return a DataFrame with a single row
+        df_image_pdf = pd.DataFrame({
+            'foodtype': ['Meat', 'Veggie'], 
+            'menu': ['Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.', 'Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.'],
+            'language': ['english', 'english'],
+            'location': ['Baschly', 'Baschly'],
+            'day': [1, 1],
+            'source': [pdf_url, pdf_url]
+        })
+        return df_image_pdf
+
+    # Extract tables if the PDF is not image-based
+    df_table = tables[0].df
 
     # Select relevant rows and columns
     df_subset = df_table.iloc[1:6, 1]
@@ -67,9 +78,9 @@ def get_baschly_menu():
     df_combined['location'] = 'Baschly'
 
     # Add 'day' and 'source' columns
-    df_combined['day'] = np.tile(np.arange(1, 6), len(
-        df_combined) // 5 + 1)[:len(df_combined)]
+    df_combined['day'] = np.tile(np.arange(1, 6), len(df_combined) // 5 + 1)[:len(df_combined)]
     df_combined['source'] = pdf_url
+
     return df_combined
 
 # Function to scrape Mensa menu
