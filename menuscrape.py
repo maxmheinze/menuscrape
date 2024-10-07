@@ -33,14 +33,14 @@ def get_baschly_menu():
 
     # Check if the PDF is image-based
     if len(tables) == 0 or 'error' in tables[0].parsing_report['warnings']:
-        # If image-based, return a DataFrame with a single row
+        # If image-based, return a DataFrame with rows for each day (1, 2, 3, 4, 5)
         df_image_pdf = pd.DataFrame({
-            'foodtype': ['Meat', 'Veggie'], 
-            'menu': ['Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.', 'Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.'],
-            'language': ['english', 'english'],
-            'location': ['Baschly', 'Baschly'],
-            'day': [1, 1],
-            'source': [pdf_url, pdf_url]
+            'foodtype': ['Meat', 'Veggie'] * 5, 
+            'menu': ['Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.'] * 10,
+            'language': ['english'] * 10,
+            'location': ['Baschly'] * 10,
+            'day': [1, 2, 3, 4, 5] * 2,
+            'source': [pdf_url] * 10
         })
         return df_image_pdf
 
@@ -433,6 +433,124 @@ def get_finn_menu():
     print(imagetext)
     return df_combined
 
+def get_glashaus_menu():
+    import requests
+    from bs4 import BeautifulSoup
+    import pandas as pd
+    from googletrans import Translator
+
+    # Fetch the webpage
+    glashaus_url = 'https://www.dasglashaus.at/menues'
+    html = requests.get(glashaus_url)
+    soup = BeautifulSoup(html.content, 'html.parser')
+
+    # Initialize lists to store data
+    days = []
+    menu_items = []
+    types = []
+    prices = []
+    locations = []
+    sources = []
+    languages = []
+
+    location = 'Glashaus'
+    source = glashaus_url
+
+    # Map for day names to numbers
+    day_mapping = {
+        'montag': 1,
+        'dienstag': 2,
+        'mittwoch': 3,
+        'donnerstag': 4,
+        'freitag': 5,
+        'samstag': 6,
+        'sonntag': 7
+    }
+
+    # Find all h2 elements that represent days
+    day_sections = soup.find_all('h2', class_='font_2 wixui-rich-text__text')
+    for day_header in day_sections:
+        day_text = day_header.get_text(strip=True).lower()
+        if day_text in day_mapping:
+            day_number = day_mapping[day_text]
+            # Get the menu items following the day header
+            menu_div = day_header.find_parent('div').find_next_sibling('div', class_='wixui-rich-text')
+            if menu_div:
+                # Get all 'p' tags within menu_div
+                menu_paragraphs = menu_div.find_all('p')
+                # For each menu item, assign food type based on position
+                for idx, p in enumerate(menu_paragraphs):
+                    menu_item_text = p.get_text(strip=True)
+                    if idx == 0:
+                        foodtype = 'Vegetarisch'
+                        price = '13.90'
+                    elif idx == 1:
+                        foodtype = 'Fisch & Fleisch'
+                        price = '14.90'
+                    else:
+                        # If there are more than 2 items
+                        foodtype = 'Unspecified'
+                        price = 'N/A'
+                    days.append(day_number)
+                    menu_items.append(menu_item_text)
+                    types.append(foodtype)
+                    prices.append(price)
+                    locations.append(location)
+                    sources.append(source)
+                    languages.append('german')
+            else:
+                continue
+
+    # Create DataFrame
+    df = pd.DataFrame({
+        'menu': menu_items,
+        'foodtype': types,
+        'price': prices,
+        'location': locations,
+        'source': sources,
+        'language': languages,
+        'day': days
+    })
+
+    # Replace 'dazu' with 'mit' in 'menu' column
+    df['menu'] = df['menu'].str.replace('dazu', 'mit', case=False)
+
+    # Translate 'menu' column to English
+    translator = Translator()
+    df_translated = df.copy()
+    df_translated['menu'] = df_translated['menu'].apply(
+        lambda x: translator.translate(x, src='de', dest='en').text)
+    df_translated['language'] = 'english'
+
+    # Combine DataFrames
+    df_combined = pd.concat([df, df_translated], ignore_index=True)
+
+    return df_combined
+
+
+
+def get_campus_menu():
+    
+    days = [1, 2, 3, 4, 5]
+
+    data = {
+        'menu': [
+            "Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu."
+        ] * len(days),
+        'foodtype': ['N/A'] * len(days),
+        'price': ['N/A'] * len(days),
+        'location': ['Das Campus Hot Stuff'] * len(days),
+        'source': ['https://www.facebook.com/dchotstuff'] * len(days),
+        'language': ['N/A'] * len(days),
+        'day': days
+    }
+
+    # Create DataFrame
+    df = pd.DataFrame(data)
+
+    return df
+
+
 
 # Main Execution
 if __name__ == '__main__':
@@ -440,10 +558,12 @@ if __name__ == '__main__':
     df_mensa = get_mensa_menu()
     df_library = get_library_menu()
     df_finn = get_finn_menu()
+    df_glashaus = get_glashaus_menu()
+    df_campus = get_campus_menu()
 
     # Combine all DataFrames
     df_all = pd.concat([df_baschly, df_mensa, df_library,
-                       df_finn], ignore_index=True)
+                       df_finn, df_glashaus, df_campus], ignore_index=True)
 
     # Export the combined DataFrame to CSV in the current folder
     df_all.to_csv('menu_data.csv', index=False)

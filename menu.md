@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2024-10-07 10:00:47_
+_Last Update: 2024-10-07 10:23:28_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -27,6 +27,13 @@ _Last Update: 2024-10-07 10:00:47_
       <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
       <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Das Campus Hot Stuff</td>
+      <td>N/A</td>
+      <td>Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.</td>
+      <td>N/A</td>
+      <td><a href="https://www.facebook.com/dchotstuff">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
@@ -125,6 +132,34 @@ _Last Update: 2024-10-07 10:00:47_
       <td>P | edge beans</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Fisch & Fleisch</td>
+      <td>Hühnergeschnetzeltesmit Basmati Reis(GLO)</td>
+      <td>14.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Fisch & Fleisch</td>
+      <td>Chicken sliced ​​with Basmati Reis (Glo)</td>
+      <td>14.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Vegetarisch</td>
+      <td>Gnocchi alla Norma(AGLO)</td>
+      <td>13.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Vegetarisch</td>
+      <td>Gnocchi alla norma (aglo)</td>
+      <td>13.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
@@ -289,6 +324,27 @@ _Last Update: 2024-10-07 10:00:47_
   <table class="dataframe menu-table">
   <tbody>
     <tr>
+      <td>Baschly</td>
+      <td>Meat</td>
+      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Veggie</td>
+      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Das Campus Hot Stuff</td>
+      <td>N/A</td>
+      <td>Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.</td>
+      <td>N/A</td>
+      <td><a href="https://www.facebook.com/dchotstuff">Link</a></td>
+    </tr>
+    <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
       <td>Hühner Gyoza mit Reis und Salat</td>
@@ -385,6 +441,34 @@ _Last Update: 2024-10-07 10:00:47_
       <td>Carotle cream soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Fisch & Fleisch</td>
+      <td>Schweinsbratenmit Serviettenknödel und Sauerkraut (ACGMLO)</td>
+      <td>14.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Fisch & Fleisch</td>
+      <td>Roast pork with napkin dumplings and sauerkraut (acgmlo)</td>
+      <td>14.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Vegetarisch</td>
+      <td>Linsen Dalmit Naan (AGLO)</td>
+      <td>13.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Vegetarisch</td>
+      <td>Linsen Dalmit Naan (Aglo)</td>
+      <td>13.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
@@ -549,6 +633,27 @@ _Last Update: 2024-10-07 10:00:47_
   <table class="dataframe menu-table">
   <tbody>
     <tr>
+      <td>Baschly</td>
+      <td>Meat</td>
+      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Veggie</td>
+      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Das Campus Hot Stuff</td>
+      <td>N/A</td>
+      <td>Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.</td>
+      <td>N/A</td>
+      <td><a href="https://www.facebook.com/dchotstuff">Link</a></td>
+    </tr>
+    <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
       <td>Hühner Gyoza mit Reis und Salat</td>
@@ -645,6 +750,34 @@ _Last Update: 2024-10-07 10:00:47_
       <td>Broccolicremes soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Fisch & Fleisch</td>
+      <td>Cordon Bleumit Pommes und Preiselbeeren (ACGLO)</td>
+      <td>14.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Fisch & Fleisch</td>
+      <td>Cordon Bleumit French fries and cranberries (Aclo)</td>
+      <td>14.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Vegetarisch</td>
+      <td>Schwammerlgulaschmit Serviettenknödel(ACGLO)</td>
+      <td>13.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Vegetarisch</td>
+      <td>Mushroom goulash with napkin dumplings (aclo)</td>
+      <td>13.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
@@ -809,6 +942,27 @@ _Last Update: 2024-10-07 10:00:47_
   <table class="dataframe menu-table">
   <tbody>
     <tr>
+      <td>Baschly</td>
+      <td>Meat</td>
+      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Veggie</td>
+      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Das Campus Hot Stuff</td>
+      <td>N/A</td>
+      <td>Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.</td>
+      <td>N/A</td>
+      <td><a href="https://www.facebook.com/dchotstuff">Link</a></td>
+    </tr>
+    <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
       <td>Hühner Gyoza mit Reis und Salat</td>
@@ -905,6 +1059,34 @@ _Last Update: 2024-10-07 10:00:47_
       <td>Car</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Fisch & Fleisch</td>
+      <td>Tiroler Gröstlmit Spiegelei (C)</td>
+      <td>14.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Fisch & Fleisch</td>
+      <td>Tyrolean Gröstl with fried egg (C)</td>
+      <td>14.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Vegetarisch</td>
+      <td>Pennein Zucchini-Ricotta-Sauce (AGLO)</td>
+      <td>13.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Vegetarisch</td>
+      <td>Penne Zucchini-Ricotta sauce (Aglio)</td>
+      <td>13.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
@@ -1069,6 +1251,27 @@ _Last Update: 2024-10-07 10:00:47_
   <table class="dataframe menu-table">
   <tbody>
     <tr>
+      <td>Baschly</td>
+      <td>Meat</td>
+      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Veggie</td>
+      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Das Campus Hot Stuff</td>
+      <td>N/A</td>
+      <td>Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.</td>
+      <td>N/A</td>
+      <td><a href="https://www.facebook.com/dchotstuff">Link</a></td>
+    </tr>
+    <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
       <td>Hühner Gyoza mit Reis und Salat</td>
@@ -1165,6 +1368,34 @@ _Last Update: 2024-10-07 10:00:47_
       <td>Leek soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Fisch & Fleisch</td>
+      <td>Gebratenes Seelachsfiletmit Spinat und Salzerdäpfel (DGL)</td>
+      <td>14.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Fisch & Fleisch</td>
+      <td>Fried pollachers fillet with spinach and salzeric apples (DGL)</td>
+      <td>14.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Vegetarisch</td>
+      <td>Eiernockerlmit grünem Salat(ACGMLO)</td>
+      <td>13.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Vegetarisch</td>
+      <td>Eggnock with green salad (aclo)</td>
+      <td>13.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
