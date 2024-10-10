@@ -280,7 +280,7 @@ def get_finn_menu():
         if len(dish) > 3:
             prefix = dish[:3]
             rest = dish[3:]
-            unwanted_chars = string.digits + string.punctuation
+            unwanted_chars = string.digits + ''.join([c for c in string.punctuation if c not in "-'"])
             pattern = r'[{}]'.format(re.escape(unwanted_chars))
             match = re.search(pattern, rest)
             if match:

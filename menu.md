@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2024-10-09 10:01:00_
+_Last Update: 2024-10-10 11:28:19_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -80,14 +80,14 @@ _Last Update: 2024-10-09 10:01:00_
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Pasta All</td>
+      <td>Pasta All'arrabbiata mit Parmesan und Basilikum Veggie</td>
       <td>9.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Pasta all</td>
+      <td>Pasta All'Arrabbiata with Parmesan and basil veggie</td>
       <td>9.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -122,14 +122,14 @@ _Last Update: 2024-10-09 10:01:00_
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>P|kante Bohnen</td>
+      <td>P|kante Bohnen-Gemusesuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>P | edge beans</td>
+      <td>P | Cante bean-gray soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -389,14 +389,14 @@ _Last Update: 2024-10-09 10:01:00_
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Quinoa</td>
+      <td>Quinoa-grunkohlstrudel mit Salzerdäpfeln und Schnittlauchsauce</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Quinoa</td>
+      <td>Quinoa grunkboolle whirlpool with salt craps and chives sauce</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -1007,14 +1007,14 @@ _Last Update: 2024-10-09 10:01:00_
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Linsen</td>
+      <td>Linsen-gemüseeintopf mit Semmelknödel Veggie</td>
       <td>9.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Lentils</td>
+      <td>Linsen vegetable stew with bread dumplings veggie</td>
       <td>9.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
