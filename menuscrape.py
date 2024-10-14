@@ -537,11 +537,11 @@ def get_campus_menu():
         'menu': [
             "Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu."
         ] * len(days),
-        'foodtype': ['N/A'] * len(days),
-        'price': ['N/A'] * len(days),
+        'foodtype': [None] * len(days),
+        'price': [None] * len(days),
         'location': ['Das Campus Hot Stuff'] * len(days),
         'source': ['https://www.facebook.com/dchotstuff'] * len(days),
-        'language': ['N/A'] * len(days),
+        'language': [None] * len(days),
         'day': days
     }
 
