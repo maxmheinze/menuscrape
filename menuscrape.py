@@ -49,22 +49,17 @@ def get_baschly_menu():
     df_table = tables[0].df
 
     # Select relevant rows and columns
-    df_subset = df_table.iloc[1:6, 1]
-    df_split = df_subset.str.split('\n', expand=True)
+    df_subset = df_table.iloc[1:6, [0,2]]
+    df_split = df_subset.replace('\n', ' ', regex=True)
 
-    # Ensure that df_split has at least 4 columns
-    for i in range(4):
-        if df_split.shape[1] <= i:
-            df_split[i] = ''
+    days_to_remove = ['Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag']
+    df_split = df_split.replace(days_to_remove, '', regex=True)
 
-    # Create 'Meat' and 'Veggie' dishes
-    df_concat = pd.DataFrame({
-        'Meat': df_split[0].fillna('') + ' ' + df_split[2].fillna(''),
-        'Veggie': df_split[1].fillna('') + ' ' + df_split[3].fillna('')
-    })
+    df_melted = df_split.melt(ignore_index=False).assign(
+        day=lambda x: x.index,
+        foodtype=lambda x: x['variable'].map({0: 'Meat', 2: 'Veggie'})
+    ).drop(columns='variable').rename(columns={'value': 'menu'}).reset_index(drop=True)
 
-    # Reshape DataFrame and add language information
-    df_melted = pd.melt(df_concat, var_name='foodtype', value_name='menu')
     df_melted['language'] = 'german'
 
     # Translate 'menu' column to English
@@ -89,7 +84,8 @@ def get_baschly_menu():
     df_combined['source'] = pdf_url
 
     return df_combined
-
+    
+    
 # Function to scrape Mensa menu
 
 

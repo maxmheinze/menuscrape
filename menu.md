@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2024-10-15 13:00:30_
+_Last Update: 2024-10-15 17:41:13_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -17,28 +17,28 @@ _Last Update: 2024-10-15 13:00:30_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td></td>
+      <td>Tandoori Chicken Masala mit Basmati-Reis  (glutenfrei)</td>
       <td></td>
       <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td></td>
-      <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
-    </tr>
-    <tr>
-      <td>Baschly</td>
-      <td>Veggie</td>
-      <td></td>
+      <td>Tandoori Chicken Masala with BASMATI rice (gluten-free)</td>
       <td></td>
       <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
+      <td>Teriyaki-Gemüse-Wok mit  knusprigen Frühlingsrollen und  Basmati-Reis</td>
       <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Veggie</td>
+      <td>Teriyaki vegetable wok with crispy spring rolls and basmati rice</td>
       <td></td>
       <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
@@ -340,28 +340,28 @@ _Last Update: 2024-10-15 13:00:30_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td></td>
+      <td>Thai-Massaman-Chicken- Curry mit Basmati-Reis  (glutenfrei)</td>
       <td></td>
       <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td></td>
-      <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
-    </tr>
-    <tr>
-      <td>Baschly</td>
-      <td>Veggie</td>
-      <td></td>
+      <td>Thai massaman chicken curry with BASMATI rice (gluten-free)</td>
       <td></td>
       <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
+      <td>Veganes Champignon-Risotto,  verfeinert mit Parmesan, auf frischem  Rucola-Salat (vegan, glutenfrei)</td>
       <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Veggie</td>
+      <td>Vegan's mushroom risotto, refined with Parmesan, on fresh arugula salad (vegan, gluten-free)</td>
       <td></td>
       <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
@@ -663,28 +663,28 @@ _Last Update: 2024-10-15 13:00:30_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td></td>
+      <td>Faschierte Laibchen mit   cremigem Kartoffelpüree</td>
       <td></td>
       <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td></td>
-      <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
-    </tr>
-    <tr>
-      <td>Baschly</td>
-      <td>Veggie</td>
-      <td></td>
+      <td>Fogled loafs with a creamy potato puree</td>
       <td></td>
       <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
+      <td>Thai-Cashew-Kokos-Gemüse- Curry mit Basmati-Reis (vegan, glutenfrei)</td>
       <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Veggie</td>
+      <td>Thai-cashew-kokos-vegetable curry with basmati rice (vegan, gluten-free)</td>
       <td></td>
       <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
@@ -986,28 +986,28 @@ _Last Update: 2024-10-15 13:00:30_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td></td>
+      <td>Butterzartes Chicken Masala auf lockerem Basmati-Reis  (glutenfrei)</td>
       <td></td>
       <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td></td>
-      <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
-    </tr>
-    <tr>
-      <td>Baschly</td>
-      <td>Veggie</td>
-      <td></td>
+      <td>Butterzartes chicken masala on a loose basemati rice (gluten-free)</td>
       <td></td>
       <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
+      <td>Veganes Chana Masala mit Basmati-Reis (vegan, glutenfrei)</td>
       <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Veggie</td>
+      <td>Veganes Chana Masala with BASMATI rice (vegan, gluten-free)</td>
       <td></td>
       <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
@@ -1309,28 +1309,28 @@ _Last Update: 2024-10-15 13:00:30_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td></td>
+      <td>Gebackener Fisch mit  Petersilienkartoffeln</td>
       <td></td>
       <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td></td>
-      <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
-    </tr>
-    <tr>
-      <td>Baschly</td>
-      <td>Veggie</td>
-      <td></td>
+      <td>Baked fish with parsley potatoes</td>
       <td></td>
       <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
+      <td>Falafel-Teller mit Pita-Brot (vegan)</td>
       <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Veggie</td>
+      <td>Falafel plate with Pita bread (vegan)</td>
       <td></td>
       <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
