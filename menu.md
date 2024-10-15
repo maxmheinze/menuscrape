@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2024-10-10 11:28:19_
+_Last Update: 2024-10-15 13:00:30_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -17,22 +17,36 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Meat</td>
+      <td></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Veggie</td>
+      <td></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
-      <td>N/A</td>
+      <td></td>
       <td>Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.</td>
-      <td>N/A</td>
+      <td></td>
       <td><a href="https://www.facebook.com/dchotstuff">Link</a></td>
     </tr>
     <tr>
@@ -136,70 +150,70 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Hühnergeschnetzeltesmit Basmati Reis(GLO)</td>
+      <td>Reisfleisch(GLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Chicken sliced ​​with Basmati Reis (Glo)</td>
+      <td>Rice meat (glo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Gnocchi alla Norma(AGLO)</td>
+      <td>Sellerie Piccataauf Tomatenspaghetti(AGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Gnocchi alla norma (aglo)</td>
+      <td>Celery piccata on tomato spaghetti (AGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Chicken Burrito: Geschmortes Huhn, schwarze Bohnen, Fajitas, Reis, Salat, Salsa und Guacamole</td>
+      <td>Pulled Porked Tacos mit Bohnen, Reis, Salat, Salsa und Guacamole</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Chicken burrito: Braised chicken, black beans, fajitas, rice, salad, salsa and guacamole(A, G)MEAT</td>
+      <td>Pulled Pork Tacos with beans, rice, salat, salsa and guacamole(A, G)MEAT</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Mexikanische Veggie- Bowl: Schwarze Bohnen, Fajitas, Reis, Salat, Salsa und Guacamole</td>
+      <td>Veggie Tacos mit Tofu, Bohnen, Reis, Salat, Salsa und Guacamole</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Mexican veggie bowl: Black beans, fajitas, rice, salad, salsa and guacamole (A, G)VEGGIE</td>
+      <td>Veggie Tacos with tofu, beans, rice, salat, salsa and guacamole (A, G)VEGGIE</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Gebratenes Hühnerfilet | Gemüsereis | Natursaft A,L</td>
+      <td>Champignon- Rahmschnitzel (Schwein) | Kräuter-Spiralnudeln A,C,G,L,O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Fried chicken fillet |Vegetable ice cream |Natural juice a, l</td>
+      <td>Mushroom schnitzel (pig) |Herbal spiral noodles A, C, G, L, O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -220,28 +234,28 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Honey-BBQ Porkribs | Potato Wedges | Knoblauchdip | Cocktailsauce | Cole Slaw G,L,M</td>
+      <td>Philly Turkey Cheese Steak Sandwich | Steakhouse Fries | Dip | Red Slaw A,G,L,M</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Honey-BBQ Porribs |Potato Wedges |Knoblauchdip |Cocktail sauce |Cole Slaw G, L, M</td>
+      <td>Philly Turkey Cheese Steak Sandwich |Steakhouse Fries |DIP |Red Slaw A, G, L, M</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Gebratenes Hühnerfilet | Gemüsereis | Natursaft A,L</td>
+      <td>Champignon- Rahmschnitzel (Schwein) | Kräuter-Spiralnudeln A,C,G,L,O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Fried chicken fillet |Vegetable ice cream |Natural juice a, l</td>
+      <td>Mushroom schnitzel (pig) |Herbal spiral noodles A, C, G, L, O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -276,14 +290,14 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Kürbisgulasch | Kräuter Cous Cous A,L</td>
+      <td>Italienischer Gemüseeintopf | gebratene Polenta G,F,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Pumpkin goulash |Herbs cous cous a, l</td>
+      <td>Italian vegetable stew |fried polenta g, f, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -326,22 +340,36 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Meat</td>
+      <td></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Veggie</td>
+      <td></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
-      <td>N/A</td>
+      <td></td>
       <td>Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.</td>
-      <td>N/A</td>
+      <td></td>
       <td><a href="https://www.facebook.com/dchotstuff">Link</a></td>
     </tr>
     <tr>
@@ -445,70 +473,70 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Schweinsbratenmit Serviettenknödel und Sauerkraut (ACGMLO)</td>
+      <td>Penne Bolognese(ACLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Roast pork with napkin dumplings and sauerkraut (acgmlo)</td>
+      <td>Penne Bolognese (ACLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Linsen Dalmit Naan (AGLO)</td>
+      <td>Krautfleckerl(ALO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Linsen Dalmit Naan (Aglo)</td>
+      <td>Krautpleckerl (alo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Rindergulasch mit Dampfkartoffeln, grünen Bohnen und gemischtem Salat</td>
+      <td>Klassische Bolognese-Lasagne mit gemischtem grünem Salat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Beef goulash with steamed potatoes, green beans and mixed salad  (A, G)MEAT</td>
+      <td>Classic Bolognese lasagna with mixed green salad  (A, G)MEAT</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Pilzgulasch mit Dampfkartoffeln, grünen Bohnen und gemischtem Salat</td>
+      <td>Spinat-Ricotta-Lasagne mit gemischtem grünem Salat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Mushroom goulash with steamed potatoes, green beans and mixed salad (A, G)VEGGIE</td>
+      <td>Spinach and ricotta lasagne with mixed green salad (A, G)VEGGIE</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Penne | Kürbis-Schinken Rahmsauce | Parmesan A,G,L</td>
+      <td>Bratwurst | Sauerkraut | Erdäpfelschmarrn</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Penne |Pumpkin and ham cream sauce |Parmesan A, G, L</td>
+      <td>Bratwurst |Sauerkraut |Potato</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -529,28 +557,28 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Gebratene Eiernudeln mit Gemüse | Tofu oder Putenfleisch | Süss Sauer, Teriyaki oder Curry Sauce A,C,F,L,N,O</td>
+      <td>Souvlakispiesse vom Huhn | Grillgemüse | Curcumareis | Tsatsiki G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Fried egg noodles with vegetablesTofu or turkey meat |Sweet Sauer, Teriyaki or Curry Sauce A, C, F, L, N, O</td>
+      <td>SouvlakiSpiess from the chicken |Grill vegetables |Curcumareis |Tsatsiki g, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Penne | Kürbis-Schinken Rahmsauce | Parmesan A,G,L</td>
+      <td>Bratwurst | Sauerkraut | Erdäpfelschmarrn</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Penne |Pumpkin and ham cream sauce |Parmesan A, G, L</td>
+      <td>Bratwurst |Sauerkraut |Potato</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -585,42 +613,42 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Gratinierte Käsespätzle | Schnittlauch | Röstzwiebel A,C,G,L</td>
+      <td>Kartoffel - Gemüselaibchen | cremiges Kürbisgemüe A,F,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Gratinated cheese spaetzle |Chives |RöstWiebel A, C, G, L</td>
+      <td>Potato - vegetable raid |Creamy pumpkin gemüe a, f, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Knoblauchcremesuppe A,L</td>
+      <td>Kräutercremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Garlic cream soup a, l</td>
+      <td>Herbal cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Knoblauchcremesuppe A,L</td>
+      <td>Kräutercremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Garlic cream soup a, l</td>
+      <td>Herbal cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -635,22 +663,36 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Meat</td>
+      <td></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Veggie</td>
+      <td></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
-      <td>N/A</td>
+      <td></td>
       <td>Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.</td>
-      <td>N/A</td>
+      <td></td>
       <td><a href="https://www.facebook.com/dchotstuff">Link</a></td>
     </tr>
     <tr>
@@ -754,56 +796,56 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Cordon Bleumit Pommes und Preiselbeeren (ACGLO)</td>
+      <td>Hühnerschnitzelmit Erdäpfelsalat (ACGLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Cordon Bleumit French fries and cranberries (Aclo)</td>
+      <td>Chicken Schnitzel with Potacelet Salad (Aclo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Schwammerlgulaschmit Serviettenknödel(ACGLO)</td>
+      <td>Kürbis Quiche(ACGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Mushroom goulash with napkin dumplings (aclo)</td>
+      <td>Pumpkin quiche (aclo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Rindfleisch-Brokkoli-Pfanne mit Chow Mein und dein Beilagen Dessert</td>
+      <td>Japanisches Katsu-Curry mit paniertem Hähnchenschnitzel, weißem Reis und Obstsalat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Beef and broccoli stir-fry with chow mein and your side dessert (A, B, C, D, F, N)MEAT</td>
+      <td>Japanese katsu curry with breaded chicken schnitzel, white rice and fruit salad (A, B, C, D, F, N)MEAT</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tofu-Gemüsepfanne mit Chow Mein und dein Beilagen Dessert</td>
+      <td>Japanishces Gemüse-Curry mit paniertem Zucchini-Schnitzel, weißem Reis und Obstsalat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tofu vegetable pan with chow mein and your side dessert (A, B, C, D, F, N)VEGGIE</td>
+      <td>Japanese vegetable curry with breaded zucchini schnitzel, white rice and fruit salad (A, B, C, D, F, N)VEGGIE</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -894,14 +936,14 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Waldpilze á la Créme | Serviettenknödel A,C,G,L</td>
+      <td>Süss-Sauer Gemüse | Chili Eiernudeln A,C,F,N</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Forest mushrooms á la créme |Napkin dumplings A, C, G, L</td>
+      <td>Sweet-Sauer vegetables |Chili egg noodles a, c, f, n</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -944,22 +986,36 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Meat</td>
+      <td></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Veggie</td>
+      <td></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
-      <td>N/A</td>
+      <td></td>
       <td>Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.</td>
-      <td>N/A</td>
+      <td></td>
       <td><a href="https://www.facebook.com/dchotstuff">Link</a></td>
     </tr>
     <tr>
@@ -1063,70 +1119,70 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Tiroler Gröstlmit Spiegelei (C)</td>
+      <td>Schweinsrahmgulaschmit Spätzle (ACGLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Tyrolean Gröstl with fried egg (C)</td>
+      <td>Pork cream goulashmit Spätzle (Aclo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Pennein Zucchini-Ricotta-Sauce (AGLO)</td>
+      <td>Strozzapretimit getrockneten Tomaten (ACGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Penne Zucchini-Ricotta sauce (Aglio)</td>
+      <td>Strozzapretimit dried tomatoes (aclo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Griechischer Bowl: Gegrillte Putenbrust, Kichererbsen, Quinoa, Tzatziki und Griechischer Salat</td>
+      <td>Gebratenes Rind oder Wildfleisch mit französischer Rotweinsauce, Kartoffelpüree, grüne Bohnen und Dessert</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Greek Bowl: Grilled turkey breast, chickpeas, quinoa, tzatziki and Greek salad (A, G)MEAT</td>
+      <td>Roasted beef or game with French red wine sauce, mashed potatoes, green beans and dessert (A, G)MEAT</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Griechischer Bowl: Gegrilltes Zucchini, Kichererbsen, Quinoa, Tzatziki und Griechischer Salat</td>
+      <td>Gebratene Pilz-Linsen-Frikadellen mit französischer Rotweinsauce, Kartoffelpüree, grüne Bohnen und Dessert</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Greek Bowl: Grilled zucchini, chickpeas, quinoa, tzatziki and Greek salad (A, G)VEGGIE</td>
+      <td>Fried mushroom and lentil meatballs with French red wine sauce, mashed potatoes, green beans and dessert (A, G)VEGGIE</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Schweinsrahmgulasch | Nockerl | Sauerrahm A,C,G,L</td>
+      <td>Falsches Wildragout (Rind) | Serviettenknödel A,C,G,L,O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Pork cream goulash |Nockerl |SauerRahm a, c, g, l</td>
+      <td>Wrong Wilddragout (beef) |Napkin dumplings A, C, G, L, O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1161,14 +1217,14 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Schweinsrahmgulasch | Nockerl | Sauerrahm A,C,G,L</td>
+      <td>Falsches Wildragout (Rind) | Serviettenknödel A,C,G,L,O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Pork cream goulash |Nockerl |SauerRahm a, c, g, l</td>
+      <td>Wrong Wilddragout (beef) |Napkin dumplings A, C, G, L, O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1203,42 +1259,42 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Vegetarische Frühlingsrolle | gebratener Reis | Asia Salat A,C,F,G,L,N</td>
+      <td>Hokaidokürbis-Curry | Basmatireis F,L,M,O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Vegetarian spring roll |Fried rice |Asia Salad A, C, F, G, L, N</td>
+      <td>Hokaidoürbis curry |Basmatireis f, l, m, o</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Kartoffelcremesuppe A,L</td>
+      <td>Gemüsecremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Potato cream soup a, l</td>
+      <td>Vegetable cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Kartoffelcremesuppe A,L</td>
+      <td>Gemüsecremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Potato cream soup a, l</td>
+      <td>Vegetable cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1253,22 +1309,36 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Meat</td>
+      <td></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-2024-10-7.pdf">Link</a></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
+    </tr>
+    <tr>
+      <td>Baschly</td>
+      <td>Veggie</td>
+      <td></td>
+      <td></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
-      <td>N/A</td>
+      <td></td>
       <td>Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.</td>
-      <td>N/A</td>
+      <td></td>
       <td><a href="https://www.facebook.com/dchotstuff">Link</a></td>
     </tr>
     <tr>
@@ -1372,35 +1442,35 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Gebratenes Seelachsfiletmit Spinat und Salzerdäpfel (DGL)</td>
+      <td>Moussaka(ACGLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Fried pollachers fillet with spinach and salzeric apples (DGL)</td>
+      <td>Moussaka (Aclo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Eiernockerlmit grünem Salat(ACGMLO)</td>
+      <td>Gnocchiin Zucchini-Basilikum-Sauce(ACGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Eggnock with green salad (aclo)</td>
+      <td>Gnocchiin zucchini-basilikum sauce (aclo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Louisiana-Kreolischer Auflauf: Jambalaya mit Garnelen und Wurst und einem grünem Salat</td>
+      <td>Meeresfrüchte Paella: Brasilianisches Reis-Risotto-Gericht mit Garnellen und einer Mischung aus Meeresfrüchten, dazu gemischter Grüner Salat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -1414,14 +1484,14 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Louisiana-Kreolischer Auflauf: Pilz-Jambalaya mit einem grünem Salat</td>
+      <td>Gemüse Paella: Brasilianisches Reis-Risotto-Gericht mit gerösteten Pilzen und Gemüse, dazu gemischter Grüner Salat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Louisiana Creole Casserole: Mushroom jambalaya with a green salad (A, C, G)VEGGIE</td>
+      <td>Louisiana Creole Casserole: Mushroom jambalaya with a green salad (B, D, L, R)VEGGIE</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -1512,14 +1582,14 @@ _Last Update: 2024-10-10 11:28:19_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Indisches Gemüse Jalfrezi mit Tofu | Basmatireis</td>
+      <td>Eiernockerl | Schnittlauch A,C,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Indian vegetables Jalfrezi with tofu |Basmatizreis</td>
+      <td>Eierockerl |Chives A, C, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>

@@ -25,17 +25,18 @@ def get_baschly_menu():
     soup = BeautifulSoup(response.content, 'html.parser')
 
     # Find the PDF link containing "Lunch Special"
-    link = soup.find('a', string=re.compile(r'\s*Lunch\s*Special\s*', re.IGNORECASE))
+    link = soup.find('a', string=re.compile(
+        r'\s*Lunch\s*Special\s*', re.IGNORECASE))
     pdf_url = link['href']
 
     # Try to extract tables from the PDF
     tables = camelot.read_pdf(pdf_url, pages='all')
 
     # Check if the PDF is image-based
-    if len(tables) == 0 or 'error' in tables[0].parsing_report['warnings']:
+    if len(tables) == 0 or ('warnings' in tables[0].parsing_report and 'error' in tables[0].parsing_report['warnings']):
         # If image-based, return a DataFrame with rows for each day (1, 2, 3, 4, 5)
         df_image_pdf = pd.DataFrame({
-            'foodtype': ['Meat', 'Veggie'] * 5, 
+            'foodtype': ['Meat', 'Veggie'] * 5,
             'menu': ['Baschly decided to upload an image-based menu PDF this week. So please follow the link to your right if you want to access their menu.'] * 10,
             'language': ['english'] * 10,
             'location': ['Baschly'] * 10,
@@ -51,7 +52,12 @@ def get_baschly_menu():
     df_subset = df_table.iloc[1:6, 1]
     df_split = df_subset.str.split('\n', expand=True)
 
-    # Concatenate columns to create 'Meat' and 'Veggie' dishes
+    # Ensure that df_split has at least 4 columns
+    for i in range(4):
+        if df_split.shape[1] <= i:
+            df_split[i] = ''
+
+    # Create 'Meat' and 'Veggie' dishes
     df_concat = pd.DataFrame({
         'Meat': df_split[0].fillna('') + ' ' + df_split[2].fillna(''),
         'Veggie': df_split[1].fillna('') + ' ' + df_split[3].fillna('')
@@ -78,7 +84,8 @@ def get_baschly_menu():
     df_combined['location'] = 'Baschly'
 
     # Add 'day' and 'source' columns
-    df_combined['day'] = np.tile(np.arange(1, 6), len(df_combined) // 5 + 1)[:len(df_combined)]
+    df_combined['day'] = np.tile(np.arange(1, 6), len(
+        df_combined) // 5 + 1)[:len(df_combined)]
     df_combined['source'] = pdf_url
 
     return df_combined
@@ -280,7 +287,8 @@ def get_finn_menu():
         if len(dish) > 3:
             prefix = dish[:3]
             rest = dish[3:]
-            unwanted_chars = string.digits + ''.join([c for c in string.punctuation if c not in "-'"])
+            unwanted_chars = string.digits + \
+                ''.join([c for c in string.punctuation if c not in "-'"])
             pattern = r'[{}]'.format(re.escape(unwanted_chars))
             match = re.search(pattern, rest)
             if match:
@@ -433,6 +441,7 @@ def get_finn_menu():
     print(imagetext)
     return df_combined
 
+
 def get_glashaus_menu():
     import requests
     from bs4 import BeautifulSoup
@@ -474,7 +483,8 @@ def get_glashaus_menu():
         if day_text in day_mapping:
             day_number = day_mapping[day_text]
             # Get the menu items following the day header
-            menu_div = day_header.find_parent('div').find_next_sibling('div', class_='wixui-rich-text')
+            menu_div = day_header.find_parent('div').find_next_sibling(
+                'div', class_='wixui-rich-text')
             if menu_div:
                 # Get all 'p' tags within menu_div
                 menu_paragraphs = menu_div.find_all('p')
@@ -528,9 +538,8 @@ def get_glashaus_menu():
     return df_combined
 
 
-
 def get_campus_menu():
-    
+
     days = [1, 2, 3, 4, 5]
 
     data = {
@@ -549,7 +558,6 @@ def get_campus_menu():
     df = pd.DataFrame(data)
 
     return df
-
 
 
 # Main Execution
