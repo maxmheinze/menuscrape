@@ -149,73 +149,21 @@ def get_library_menu():
     library_url = 'https://lia.coffee'
     html = requests.get(library_url)
     soup = BeautifulSoup(html.content, 'html.parser')
-    soup = soup.find('div', id='menu')
+    menu_div = soup.find('div', id='menu')
+
+    # Check if the 'menu' div exists
+    if not menu_div:
+        print("Error: 'menu' section not found on the page.")
+        return pd.DataFrame()
 
     # Initialize lists to store data
-    places = []
     days = []
     menu_items = []
     types = []
     prices = []
+    languages = []
 
-    # Find all place headers and extract menu information
-    place_headers = soup.find_all('h3')
-    for place in place_headers:
-        plc = place.get_text(strip=True)
-        day_headers = place.find_next('div').find_all('h4')
-        for header in day_headers:
-            day = header.get_text(strip=True)
-            menu_list = header.find_next('ul')
-            for item in menu_list.find_all('li'):
-                menu_item = item.get_text(strip=True)
-                if '€' in menu_item:
-                    item_parts = menu_item.split('€')
-                    name = item_parts[0].strip()
-                    price = item_parts[1].strip().replace(',', '.')
-                    if 'VEGGIE' in menu_item.upper():
-                        foodtype = 'Veggie'
-                    elif 'MEAT' in menu_item.upper():
-                        foodtype = 'Meat'
-                    elif 'VEGAN' in menu_item.upper():
-                        foodtype = 'Vegan'
-                    else:
-                        foodtype = 'Unspecified'
-                    places.append(plc)
-                    days.append(day)
-                    menu_items.append(name)
-                    types.append(foodtype)
-                    prices.append(price)
-                else:
-                    places.append(plc)
-                    days.append(day)
-                    menu_items.append(menu_item)
-                    types.append('UNKNOWN')
-                    prices.append('N/A')
-
-    # Create DataFrame and split menus into German and English
-    df = pd.DataFrame({
-        'Place': places,
-        'Day': days,
-        'menu': menu_items,
-        'foodtype': types,
-        'price': prices,
-        'location': 'Library',
-        'source': library_url
-    })
-    df[['menu', 'menu_eng']] = df['menu'].str.split('/', expand=True)
-    df = df[df['Place'] == 'Tagesmenü Lia Coffee am WU Campus']
-
-    # Separate German and English menus
-    df_german = df[['Place', 'Day', 'menu', 'foodtype',
-                    'price', 'location', 'source']].copy()
-    df_german['language'] = 'german'
-    df_english = df[['Place', 'Day', 'menu_eng',
-                     'foodtype', 'price', 'location', 'source']].copy()
-    df_english.rename(columns={'menu_eng': 'menu'}, inplace=True)
-    df_english['language'] = 'english'
-
-    # Combine DataFrames and map days to numbers
-    df_combined = pd.concat([df_german, df_english], ignore_index=True)
+    # Map for day names to numbers
     day_mapping = {
         'montag': 1,
         'dienstag': 2,
@@ -225,10 +173,101 @@ def get_library_menu():
         'samstag': 6,
         'sonntag': 7
     }
-    df_combined['day'] = df_combined['Day'].str.split(',').str[0].str.lower()
-    df_combined['day'] = df_combined['day'].map(day_mapping)
-    df_combined.drop(columns=['Day', 'Place'], inplace=True)
-    return df_combined
+
+    # Find all 'div's with class 'menueklasse' (the menus)
+    menu_sections = menu_div.find_all('div', class_='menueklasse')
+    translator = Translator()
+
+    for menu_section in menu_sections:
+        # Get the place name (from the previous 'h3')
+        h3 = menu_section.find_previous('h3')
+        plc = h3.get_text(strip=True) if h3 else 'Unknown Place'
+
+        # Only proceed if the place is 'Tagesmenü Lia Coffee am WU Campus'
+        if plc != 'Tagesmenü Lia Coffee am WU Campus':
+            continue  # Skip other locations
+
+        # Within 'menu_section', find all 'h4' headers and their subsequent 'ul's
+        headers = menu_section.find_all('h4')
+        for header in headers:
+            day_text = header.get_text(strip=True).lower()
+            day_name = day_text.split(',')[0]
+            day_number = day_mapping.get(day_name, None)
+            if day_number is None:
+                continue  # Skip if day is not recognized
+
+            # Find the next 'ul' after the 'h4'
+            menu_list = header.find_next_sibling('ul')
+            if not menu_list:
+                continue  # Skip if no menu list is found
+
+            for item in menu_list.find_all('li'):
+                menu_item = item.get_text(strip=True)
+
+                # Extract price and food type
+                price_match = re.search(r'€\s*([\d,]+)', menu_item)
+                price = price_match.group(1).replace(',', '.') if price_match else 'N/A'
+
+                if 'VEGGIE' in menu_item.upper():
+                    foodtype = 'Veggie'
+                elif 'MEAT' in menu_item.upper():
+                    foodtype = 'Meat'
+                elif 'VEGAN' in menu_item.upper():
+                    foodtype = 'Vegan'
+                else:
+                    foodtype = 'Unspecified'
+
+                # Split German and English menu items
+                if '/' in menu_item:
+                    german_menu, english_menu = menu_item.split('/', 1)
+                else:
+                    german_menu = menu_item
+                    english_menu = ''
+
+                # Clean up menu text
+                german_menu = german_menu.strip()
+                english_menu = english_menu.strip()
+
+                # Append German menu item
+                days.append(day_number)
+                menu_items.append(german_menu)
+                types.append(foodtype)
+                prices.append(price)
+                languages.append('german')
+
+                # Append English menu item
+                if english_menu:
+                    days.append(day_number)
+                    menu_items.append(english_menu)
+                    types.append(foodtype)
+                    prices.append(price)
+                    languages.append('english')
+                else:
+                    # Translate if no English version is provided
+                    translated_menu = translator.translate(german_menu, src='de', dest='en').text
+                    days.append(day_number)
+                    menu_items.append(translated_menu)
+                    types.append(foodtype)
+                    prices.append(price)
+                    languages.append('english')
+
+    # Create DataFrame
+    df = pd.DataFrame({
+        'location': 'Library',  # Set location to 'Library'
+        'day': days,
+        'menu': menu_items,
+        'foodtype': types,
+        'price': prices,
+        'language': languages,
+        'source': library_url
+    })
+
+    # Drop duplicates if any
+    df.drop_duplicates(inplace=True)
+
+    return df
+
+
 
 # Function to scrape Finn menu
 
