@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2024-10-29 13:05:02_
+_Last Update: 2024-10-30 12:01:07_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -59,7 +59,7 @@ _Last Update: 2024-10-29 13:05:02_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Chicken Gyoza with rice and salad</td>
+      <td>Chickens Gyoza with rice and salad</td>
       <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -382,7 +382,7 @@ _Last Update: 2024-10-29 13:05:02_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Chicken Gyoza with rice and salad</td>
+      <td>Chickens Gyoza with rice and salad</td>
       <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -733,7 +733,7 @@ _Last Update: 2024-10-29 13:05:02_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Chicken Gyoza with rice and salad</td>
+      <td>Chickens Gyoza with rice and salad</td>
       <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -1014,7 +1014,7 @@ _Last Update: 2024-10-29 13:05:02_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Chicken Gyoza with rice and salad</td>
+      <td>Chickens Gyoza with rice and salad</td>
       <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -1337,7 +1337,7 @@ _Last Update: 2024-10-29 13:05:02_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Chicken Gyoza with rice and salad</td>
+      <td>Chickens Gyoza with rice and salad</td>
       <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
