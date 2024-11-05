@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2024-11-04 11:01:20_
+_Last Update: 2024-11-05 10:00:44_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -17,30 +17,30 @@ _Last Update: 2024-11-04 11:01:20_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Tandoori Chicken Masala  mit Basmati-Reis (glutenfrei)</td>
+      <td>Chicken Tikka Masala mit Reis (gluten- und laktosefrei)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Tandoori Chicken Masala with BASMATI rice (gluten-free)</td>
+      <td>Chicken Tikka Masala with rice (gluten and lactose-free)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Cremiger Kichererbsen-Eintopf mit  Basmati-Reis (vegan, glutenfrei)</td>
+      <td>Chicken Tikka Masala mit Reis (gluten- und laktosefrei)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Creamy chickpea stew with BASMATI rice (vegan, gluten-free)</td>
+      <td>Chicken Tikka Masala with rice (gluten and lactose-free)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -340,30 +340,30 @@ _Last Update: 2024-11-04 11:01:20_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Butter Chicken Masala  mit Basmati-Reis (glutenfrei)</td>
+      <td>Chicken Tikka Masala mit Reis (gluten- und laktosefrei)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Butter chicken masala with basmati rice (gluten-free)</td>
+      <td>Chicken Tikka Masala with rice (gluten and lactose-free)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Kürbis-Risotto mit Parmesan auf Rucolasalat</td>
+      <td>Chicken Tikka Masala mit Reis (gluten- und laktosefrei)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Pumpkin risotto with parmesan on arugulas salad</td>
+      <td>Chicken Tikka Masala with rice (gluten and lactose-free)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -663,30 +663,30 @@ _Last Update: 2024-11-04 11:01:20_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Thai Kokos Red Chicken Curry  mit Basmati-Reis (vegan, glutenfrei)</td>
+      <td>Chicken Tikka Masala mit Reis (gluten- und laktosefrei)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Thai Kokos Red Chicken Curry with BASMATI rice (vegan, gluten-free)</td>
+      <td>Chicken Tikka Masala with rice (gluten and lactose-free)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Gemüse-Wok mit Frühlingsrolle und Teriyakisauce</td>
+      <td>Kichererbsen-Kartoffel-Eintopf mit Granatapfel und Reis (</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Vegetable wok with spring roller and teriyaki sauce</td>
+      <td>Chickpeas potato stew with pomegranate and rice (</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -986,30 +986,30 @@ _Last Update: 2024-11-04 11:01:20_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Gebackener Fisch  mit Petersilienkartoffeln</td>
+      <td>Chicken Tikka Masala mit Reis (gluten- und laktosefrei)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Baked fish with parsley potatoes</td>
+      <td>Chicken Tikka Masala with rice (gluten and lactose-free)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Falafel-Teller mit Pita</td>
+      <td>Chicken Tikka Masala mit Reis (gluten- und laktosefrei)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Falafel plate with pita</td>
+      <td>Chicken Tikka Masala with rice (gluten and lactose-free)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -1309,30 +1309,30 @@ _Last Update: 2024-11-04 11:01:20_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Feiertag</td>
+      <td>Chicken Tikka Masala mit Reis (gluten- und laktosefrei)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Holiday</td>
+      <td>Chicken Tikka Masala with rice (gluten and lactose-free)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Feiertag</td>
+      <td>Chicken Tikka Masala mit Reis (gluten- und laktosefrei)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Holiday</td>
+      <td>Chicken Tikka Masala with rice (gluten and lactose-free)</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/10/baschly-lunch-special-okt-28-2024.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/baschly-lunch-special-4-11-2024.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
