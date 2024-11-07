@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2024-11-05 10:00:44_
+_Last Update: 2024-11-07 10:01:18_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -880,14 +880,14 @@ _Last Update: 2024-11-05 10:00:44_
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Bao Buns Pulled Pork oder Planted Pulled BBQ A,F,G</td>
+      <td>Gefülltes Ciabatta Pulled Pork oder Planted Pulled BBQ A,F,G</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Bao Buns Pulled Pork or Planted Pulled BBQ A, F, G</td>
+      <td>Filled ciabatta pulled pork or planted pulled bbq a, f, g</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
