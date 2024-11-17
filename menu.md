@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2024-11-15 10:01:06_
+_Last Update: 2024-11-17 19:01:19_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -17,30 +17,30 @@ _Last Update: 2024-11-15 10:01:06_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Tandoori Chicken Masala mit Reis (gluten- und laktosefrei)</td>
+      <td>Thai-Chicken-Curry mit Kokos, Mango und Reis</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Tandoori Chicken Masala with rice (gluten and lactose-free)</td>
+      <td>Thai-chicken curry with coconut, mango and rice</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Quinoa Superfood-Salat mit Ziegenkäse und Pita (vegan ohne Käse)</td>
+      <td>Vollkorn-Penne Pomodorini mit Parmesan auf Rucola-Salat</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Quinoa superfood salad with goat cheese and pita (vegan without cheese)</td>
+      <td>Vollkorn-Penne Pomodorini with Parmesan on Rucola salad</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -52,56 +52,70 @@ _Last Update: 2024-11-15 10:01:06_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Tempura Garnelen mit Reis und Salat Arn</td>
-      <td></td>
+      <td>Gebratener Reis mit Tofu</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Tempura shrimp with rice and salad arn</td>
-      <td></td>
+      <td>Fried rice with tofu</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Kalbsgulasch mit Butlernockerln</td>
-      <td></td>
+      <td>Boeuf Stroganoff mit Tagllatelle</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Veal goulash with butlernock</td>
-      <td></td>
+      <td>Boeuf Stroganoff with tagliatelle</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Bifteki mit würzigem Bulgur mit Tzatziki</td>
-      <td></td>
+      <td>Faschierte Laibchen mit Erdäpfelpüree und Zwiebelsaft</td>
+      <td>11.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Bifteki with spicy Bulgur with tzatziki</td>
-      <td></td>
+      <td>Fogled loafs with potato puree and onion juice</td>
+      <td>11.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Kärntner Kasnudeln in Nussbutter Veggie</td>
-      <td></td>
+      <td>Käsespätzle mit Röstzwiebel Veggie</td>
+      <td>9.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Carinthian Kasnudeln in nut butter veggie</td>
+      <td>Käsespätzle with roasted onion veggie</td>
+      <td>9.9</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M4</td>
+      <td>Hühner Gyoza Bento</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M4</td>
+      <td>Chicken Gyoza Bento</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -122,14 +136,14 @@ _Last Update: 2024-11-15 10:01:06_
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Wlener Suppentopf</td>
+      <td>Klare Gemusesuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Wlener Suppentopf</td>
+      <td>Clear vegetable soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -326,30 +340,30 @@ _Last Update: 2024-11-15 10:01:06_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Gebräunte Hühnerbrust mit Champignonsauce und Reis</td>
+      <td>Butter Chicken Masala mit Reis</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Tanned chicken breast with mushroom sauce and rice</td>
+      <td>Butter chicken masala with rice</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Gebratener Gemüse-Wok mit Tofu und Teriyakisauce (vegan)</td>
+      <td>Gebratener Gemüse-Wok mit Reis und Frühlingsrolle</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Fried vegetable wok with tofu and teriyakis sauce (vegan)</td>
+      <td>Fried vegetable wok with rice and spring roll</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -361,56 +375,70 @@ _Last Update: 2024-11-15 10:01:06_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Tempura Garnelen mit Reis und Salat Arn</td>
-      <td></td>
+      <td>Gebratener Reis mit Tofu</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Tempura shrimp with rice and salad arn</td>
-      <td></td>
+      <td>Fried rice with tofu</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Kalbsgulasch mit Butlernockerln</td>
-      <td></td>
+      <td>Boeuf Stroganoff mit Tagllatelle</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Veal goulash with butlernock</td>
-      <td></td>
+      <td>Boeuf Stroganoff with tagliatelle</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Hühnerschnitzel mit Erdäpfel-Vogerisalat und Kernöl</td>
-      <td></td>
+      <td>Pasta Bolognese mit Parmesan</td>
+      <td>11.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Chicken schnitzel with potato vogerizal salad and core oil</td>
+      <td>Pasta Bolognese with Parmesan</td>
+      <td>11.9</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Green Thai Curry mit Jasminreis Vecan</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Schwammerlgulasch mit Semmelknödeln und Rahm Veggie</td>
+      <td>Green Thai Curry with Jasminreis Vecan</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M3</td>
-      <td>Mushroom goulash with bread dumplings and cream veggie</td>
+      <td>M4</td>
+      <td>Hühner Gyoza Bento</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M4</td>
+      <td>Chicken Gyoza Bento</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -431,14 +459,14 @@ _Last Update: 2024-11-15 10:01:06_
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Fran</td>
+      <td>Karotlencremesuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Fran</td>
+      <td>Carotle cream soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -635,30 +663,30 @@ _Last Update: 2024-11-15 10:01:06_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Thai Kokos Panang Chicken Curry mit Reis (gluten- und laktosefrei)</td>
+      <td>Cashew-Chicken-Curry mit Kokos und Reis</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Thai Kokos Panang Chicken Curry with rice (gluten and lactose-free)</td>
+      <td>Cashew chicken curry with coconut and rice</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Gefüllte Melanzani mit Basilikum- Tomatensauce (vegan)</td>
+      <td>Kürbis-Gnocchi mit Parmesan auf Rucola-Salat</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Filled melanzani with basil tomato sauce (vegan)</td>
+      <td>Pumpkin gnocchi with parmesan on rocket salad</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -670,56 +698,70 @@ _Last Update: 2024-11-15 10:01:06_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Tempura Garnelen mit Reis und Salat Arn</td>
-      <td></td>
+      <td>Gebratener Reis mit Tofu</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Tempura shrimp with rice and salad arn</td>
-      <td></td>
+      <td>Fried rice with tofu</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Kalbsgulasch mit Butlernockerln</td>
-      <td></td>
+      <td>Boeuf Stroganoff mit Tagllatelle</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Veal goulash with butlernock</td>
-      <td></td>
+      <td>Boeuf Stroganoff with tagliatelle</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Reisfleisch mit Paprikasaft</td>
-      <td></td>
+      <td>Grillhuhn mit Ofenerdäpfeln</td>
+      <td>11.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Rice meat with paprika juice</td>
+      <td>Grill chick</td>
+      <td>11.9</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Penne All’arrabbiata mit Parmesan Veggie</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Tortellini Tricolore in Blauschlmmelkase-</td>
+      <td>Penne all’arrabbiata with parmesan veggie</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M3</td>
-      <td>Tortellini tricolore in blue cheese cheese</td>
+      <td>M4</td>
+      <td>Hühner Gyoza Bento</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M4</td>
+      <td>Chicken Gyoza Bento</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -740,14 +782,14 @@ _Last Update: 2024-11-15 10:01:06_
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Mediterrane Gemüsesuppe</td>
+      <td>Broccolicremesuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Mediterranean vegetable soup</td>
+      <td>Broccolicremes soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -944,30 +986,30 @@ _Last Update: 2024-11-15 10:01:06_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Butter Chicken Masala mit Reis (gluten- und laktosefrei)</td>
+      <td>Thai-Massaman-Chicken-Curry mit Reis</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Butter chicken masala with rice (gluten and lactose-free)</td>
+      <td>Thai massaman chicken curry with rice</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Linsen-Gemüse-Eintopf mit Reis (vegan)</td>
+      <td>Gemüse-Tajine mit Reis und Granatapfelkernen</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Linsen-vegetable stew with rice (vegan)</td>
+      <td>Vegetable tajine with rice and pomegranate seeds</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -979,56 +1021,70 @@ _Last Update: 2024-11-15 10:01:06_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Tempura Garnelen mit Reis und Salat Arn</td>
-      <td></td>
+      <td>Gebratener Reis mit Tofu</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Tempura shrimp with rice and salad arn</td>
-      <td></td>
+      <td>Fried rice with tofu</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Kalbsgulasch mit Butlernockerln</td>
-      <td></td>
+      <td>Boeuf Stroganoff mit Tagllatelle</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Veal goulash with butlernock</td>
+      <td>Boeuf Stroganoff with tagliatelle</td>
+      <td>13.5</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M2</td>
+      <td>Puten Gyros mit Basmatireis und Tzatziki</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Zwiebelrostbraten mit Braterdäpfel und Röstzwiebel</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M2</td>
-      <td>Onion roast roast with frantic apples and roasted onions</td>
+      <td>Turkeys gyros with basmati rice and tzatziki</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Brokkoli-käse-laibchen mit Petersilerdäpfeln</td>
-      <td></td>
+      <td>Karfiol-erdapfel-curry mit Reis und Naan Vegan</td>
+      <td>9.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Broccoli cheese-loaf</td>
+      <td>Karfiol stuff curry with rice and Naan Vegan</td>
+      <td>9.9</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M4</td>
+      <td>Hühner Gyoza Bento</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M4</td>
+      <td>Chicken Gyoza Bento</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -1049,14 +1105,14 @@ _Last Update: 2024-11-15 10:01:06_
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Kurblscremesuppe</td>
+      <td>Malscremesuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Bracket cream soup</td>
+      <td>Painting soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -1255,28 +1311,28 @@ _Last Update: 2024-11-15 10:01:06_
       <td>Meat</td>
       <td>Gebackenes Schollenfilet mit Petersilienkartoffeln</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
       <td>Baked plaice fillet with parsley potatoes</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Falafel-Teller mit Pita</td>
+      <td>Basmati-Falafel-Teller mit Pita</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Falafel plate with pita</td>
+      <td>Basmati falafel plate with Pita</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/lunch-special-11-11-24.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/11/Lunch-Special-18-11-24.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -1288,56 +1344,70 @@ _Last Update: 2024-11-15 10:01:06_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Tempura Garnelen mit Reis und Salat Arn</td>
-      <td></td>
+      <td>Gebratener Reis mit Tofu</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Tempura shrimp with rice and salad arn</td>
-      <td></td>
+      <td>Fried rice with tofu</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Kalbsgulasch mit Butlernockerln</td>
-      <td></td>
+      <td>Boeuf Stroganoff mit Tagllatelle</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Veal goulash with butlernock</td>
-      <td></td>
+      <td>Boeuf Stroganoff with tagliatelle</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Pasta Frutti Di Mare mit Parmesan</td>
-      <td></td>
+      <td>Gegrillte Dorade mit Rosmarinerdäpfeln und Letscho</td>
+      <td>12.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Pasta Frutti di Mare with Parmesan</td>
-      <td></td>
+      <td>Grilled dorade with rosemary apples and letscho</td>
+      <td>12.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Couscous Schafskäse Bowl Veggie</td>
-      <td></td>
+      <td>Gnocchi in SchwammerlIsauce Veggie</td>
+      <td>9.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Couscous sheep's cheese bowl veggie</td>
+      <td>Gnocchi in mushroom veggie</td>
+      <td>9.9</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M4</td>
+      <td>Hühner Gyoza Bento</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M4</td>
+      <td>Chicken Gyoza Bento</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -1358,14 +1428,14 @@ _Last Update: 2024-11-15 10:01:06_
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Knoblauchcremesuppe</td>
+      <td>Minestrone</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Garlic cream soup</td>
+      <td>Minestrone</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
