@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2024-11-19 13:01:14_
+_Last Update: 2024-11-20 11:00:49_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -325,7 +325,7 @@ _Last Update: 2024-11-19 13:01:14_
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Clear vegetable soup |Insert a, c, g, l</td>
+      <td>Clear vegetable soup |Inlay A, C, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1603,7 +1603,7 @@ _Last Update: 2024-11-19 13:01:14_
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Clear vegetable soup |Insert a, c, g, l</td>
+      <td>Clear vegetable soup |Inlay A, C, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
