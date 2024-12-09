@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2024-12-05 11:00:48_
+_Last Update: 2024-12-09 11:20:03_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -17,30 +17,30 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Tandoori Chicken Masala mit Reis</td>
+      <td>Kokos-Massaman-Hähnchencurry mit Reis</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Tandoori Chicken Masala with rice</td>
+      <td>Kokos Massaman chicken curry with rice</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Linsen-Gemüse-Curry mit Reis</td>
+      <td>Gebratener Gemüse-Wok mit Frühlingsrolle</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Linsen-vegetable curry with rice</td>
+      <td>Fried vegetable wok with spring roller</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -52,126 +52,126 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Frühlingsrollen mit Reis und Salat</td>
-      <td></td>
+      <td>Hühner Gyoza mit Reis und Salat</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Spring rolls with rice and salad</td>
-      <td></td>
+      <td>Chickens Gyoza with rice and salad</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Rehragout mit Kroket'ten und Prelselbeeren</td>
-      <td></td>
+      <td>Geschmorter Kalbstafelspitz mit Erdäpfelgratin</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Rehragout with croketo and press berries</td>
-      <td></td>
+      <td>Braied veal iron spitz with potato gratin</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Bauern Cordon Bleu mit Erbsenreis</td>
-      <td></td>
+      <td>Hausgröstl mit einem Spiegelei</td>
+      <td>11.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Farmers Cordon Bleu with pea rice</td>
-      <td></td>
+      <td>Hausgröstl with a fried egg</td>
+      <td>11.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Chili Sin Carne mit Baguet'le Vegan</td>
-      <td></td>
+      <td>Kichererbsen-kürbisragout mit RosinenreiSs Vecan</td>
+      <td>9.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Chili sin carne with Baguet'le vegan</td>
-      <td></td>
+      <td>Chickpeas psorben ragout with raisin-free vecan</td>
+      <td>9.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Bulgogi Bento</td>
-      <td></td>
+      <td>California Maki Bento</td>
+      <td>10.4</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Bulgogi Bento</td>
-      <td></td>
+      <td>California Maki Bento</td>
+      <td>10.4</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
       <td>Lachs Bento</td>
-      <td>9.0</td>
+      <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
       <td>Salmon Bento</td>
-      <td>9.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>Soup</td>
-      <td>Gemusecremesuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Gem</td>
+      <td>Kohlrablcremesuppe</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>Soup</td>
+      <td>Cabbage</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Vanillehuhnmit Karottenpüree (AGL)</td>
+      <td>Melanzani Schnitzelin Sesampanade mit Aioli (ACG)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Vanillehuhnmit Carrot Puree (AGL)</td>
+      <td>Melanzani Schnitzelin Sesampanade with Aioli (ACG)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Spinat-Feta Quichemit Blattsalat und Schnittlauchdip (AGLMO)</td>
+      <td>Chicken Burgermit Glashaus Fries (AGL)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Spinat-feta quichemit leaf salad and chives dip (AGLMO)</td>
+      <td>Chicken Burgermit Glashaus Fries (AGL)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -206,14 +206,14 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Erdäpfel-Würstelgulasch | Gebäck (Schwein) G,L</td>
+      <td>Faschierter Braten (Schwein) | Kartoffelpüree | Saft | Röstzwiebel A,C,G,L,M,O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Potal sausage goulash |Gebäck (pig) g, l</td>
+      <td>Fascated roast (pig) |Potato puree |Juice |RöstWiebel A, C, G, L, M, O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -234,28 +234,28 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Puten Gyros Pita | Tsatsiki | Tomaten, Gurken, Zwiebel, Kraut | Wedges A,G,L</td>
+      <td>Sloppy Joe Burger | minced Beef | Wedges | Knoblauchdip A,G,N</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Turkey gyros pita |Tsatsiki |Tomatoes, cucumbers, onion, herb |Wedges A, G, L</td>
+      <td>Sloppy Joe Burger |Minced Beef |Wedges |Knoblauchdip A, G, N</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Erdäpfel-Würstelgulasch | Gebäck (Schwein) G,L</td>
+      <td>Faschierter Braten (Schwein) | Kartoffelpüree | Saft | Röstzwiebel A,C,G,L,M,O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Potal sausage goulash |Gebäck (pig) g, l</td>
+      <td>Fascated roast (pig) |Potato puree |Juice |RöstWiebel A, C, G, L, M, O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -276,14 +276,14 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Rote Linsen & Spinat Dal | Süsskartoffel | Duftreis A,C,G,L,M,O</td>
+      <td>Makkaroni-Käse-Auflauf | Tomatensauce A,C,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Red lentils and spinach dal |Sweet potato |Billeris A, C, G, L, M, O</td>
+      <td>Macaroni cheese casserole |Tomato sauce A, C, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -328,28 +328,28 @@ _Last Update: 2024-12-05 11:00:48_
       <td>Meat</td>
       <td>Butter Chicken Masala mit Reis</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
       <td>Butter chicken masala with rice</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Gemüse-Wok mit Frühlingsrolle</td>
+      <td>Vollkorn-Penne Pomodorini mit Parmesan und Rucola-Salat</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Vegetable wok with spring roller</td>
+      <td>Vollkorn-Penne Pomodorini with Parmesan and Rucola salad</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -361,126 +361,126 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Frühlingsrollen mit Reis und Salat</td>
-      <td></td>
+      <td>Hühner Gyoza mit Reis und Salat</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Spring rolls with rice and salad</td>
-      <td></td>
+      <td>Chickens Gyoza with rice and salad</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Rehragout mit Kroket'ten und Prelselbeeren</td>
-      <td></td>
+      <td>Geschmorter Kalbstafelspitz mit Erdäpfelgratin</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Rehragout with croketo and press berries</td>
-      <td></td>
+      <td>Braied veal iron spitz with potato gratin</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Hühner Geschnetzeltes mit Spätzle</td>
-      <td></td>
+      <td>Reisfleisch mit Paprikasaft</td>
+      <td>11.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Chickens sliced ​​with spaetzle</td>
+      <td>Rice meat with paprika juice</td>
+      <td>11.9</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Vegetarische Pasta Bolognese mit Parmesan Veggie</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Überbackene Spinat-käse-palatschinken Veggie</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M3</td>
-      <td>Baked spinach-cheese-pale skashes veggie</td>
+      <td>Vegetarian pasta bolognese with parmesan veggie</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Bulgogi Bento</td>
-      <td></td>
+      <td>California Maki Bento</td>
+      <td>10.4</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Bulgogi Bento</td>
-      <td></td>
+      <td>California Maki Bento</td>
+      <td>10.4</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
       <td>Lachs Bento</td>
-      <td>9.0</td>
+      <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
       <td>Salmon Bento</td>
-      <td>9.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>Soup</td>
-      <td>Kurblscremesuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Bracket cream soup</td>
+      <td>W|rsmgsuppe</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>Soup</td>
+      <td>W | RSMGSuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Lasagne Bolognesemit Rucola und Grana (AGL)</td>
+      <td>Zucchini-Tagliatellemit frischem Grana (AGF)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Lasagne Bolognese with Rucola and Grana (AGL)</td>
+      <td>Zucchini-Tagliatelle with fresh grana (AGF)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Karfiol Kormamit Basmati Reis (FLO)</td>
+      <td>Faschierte Laibchenmit Erdäpfelstampf & Röstzwiebeln (ACGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Karfiol Kormamit basmati rice (flo)</td>
+      <td>Fascaled loaf mit potato stomp & roasted onions (aclo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -515,56 +515,56 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Penne | Carbonara (Schwein) | Parmesan A,L,M,F</td>
+      <td>Käsekrainer | Pommes | Zwiebelsenf A,G,L,M</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Penne |Carbonara (pig) |Parmesan A, L, M, F</td>
-      <td></td>
-      <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
-    </tr>
-    <tr>
-      <td>Mensa</td>
-      <td>Bowls & Co</td>
-      <td>Penne | Carbonara (Schwein) | Parmesan A,L,M,F</td>
+      <td>Käsekrainer |Fries |Onion mustard a, g, l, m</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Bowls & Co</td>
-      <td>Penne |Carbonara (pig) |Parmesan A, L, M, F</td>
+      <td>Käsekrainer | Pommes | Zwiebelsenf A,G,L,M</td>
+      <td></td>
+      <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
+    </tr>
+    <tr>
+      <td>Mensa</td>
+      <td>Bowls & Co</td>
+      <td>Käsekrainer |Fries |Onion mustard a, g, l, m</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Chili Beef Burrito | Bohnenreis | Cheddar Cheese Sauce | Dips | Tortilla Chips A,F,G,L,M</td>
+      <td>Gebratene Eiernudeln mit Gemüse | Tofu oder Putenfleisch | Teriyaki oder Curry Sauce A,C,F,L,H,O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Chili Beef Burrito |Bean rice |Cheddar cheese sauce |Dips |Tortilla chips a, f, g, l, m</td>
+      <td>Fried egg noodles with vegetablesTofu or turkey meat |Teriyaki or curry sauce a, c, f, l, h, o</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Penne | Carbonara (Schwein) | Parmesan A,L,M,F</td>
+      <td>Käsekrainer | Pommes | Zwiebelsenf A,G,L,M</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Penne |Carbonara (pig) |Parmesan A, L, M, F</td>
+      <td>Käsekrainer |Fries |Onion mustard a, g, l, m</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -585,42 +585,42 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Champignonsauce | Serviettenknödel A,L</td>
+      <td>Orientalische Bulgur- Gemüsepfanne A,E,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Mushroom sauce |Napkin dumplings A, L</td>
+      <td>Oriental Bulgur Vegetable Pan A, E, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Selleriecremesuppe A,L</td>
+      <td>Gemüsecremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Celery cream soup a, l</td>
+      <td>Vegetable cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Selleriecremesuppe A,L</td>
+      <td>Gemüsecremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Celery cream soup a, l</td>
+      <td>Vegetable cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -635,30 +635,30 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Hühner-Cordon-Bleu mit Pommes</td>
+      <td>Hähnchen-Gemüse-Wok mit Reis und Teriyaki-Sauce</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Chicken Cordon Bleu with fries</td>
+      <td>Chicken-vegetable wok with rice and teriyaki sauce</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Thai-Kokos-Gemüse-Curry mit Reis</td>
+      <td>Thai-Kokos-Gemüsecurry mit Reis</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Thai-Kokos-vegetable curry with rice</td>
+      <td>Thai-coconut vegetable curry with rice</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -670,126 +670,126 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Frühlingsrollen mit Reis und Salat</td>
-      <td></td>
+      <td>Hühner Gyoza mit Reis und Salat</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Spring rolls with rice and salad</td>
-      <td></td>
+      <td>Chickens Gyoza with rice and salad</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Rehragout mit Kroket'ten und Prelselbeeren</td>
-      <td></td>
+      <td>Geschmorter Kalbstafelspitz mit Erdäpfelgratin</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Rehragout with croketo and press berries</td>
-      <td></td>
+      <td>Braied veal iron spitz with potato gratin</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Kümmelbraten mit Knödeln und Sauerkraut</td>
-      <td></td>
+      <td>Schinkenfleckerl</td>
+      <td>11.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Caraway roast with dumplings and sauerkraut</td>
+      <td>Ham</td>
+      <td>11.9</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Karfiol-okra-eintopf mit Zartweizen Vegan</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Karamellisierte Krautfleckerl Veggie</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M3</td>
-      <td>Caramelized herb fleckerl veggie</td>
+      <td>Karfiol-Rokra stew with tender wheat vegan</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Bulgogi Bento</td>
-      <td></td>
+      <td>California Maki Bento</td>
+      <td>10.4</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Bulgogi Bento</td>
-      <td></td>
+      <td>California Maki Bento</td>
+      <td>10.4</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
       <td>Lachs Bento</td>
-      <td>9.0</td>
+      <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
       <td>Salmon Bento</td>
-      <td>9.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>Soup</td>
-      <td>Frlﬂatensuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>FRLBRETSTISTIG</td>
+      <td>GrießnockerIsuppe</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>Soup</td>
+      <td>Locker soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Hühnergeschnetzeltesmit Basmati Reis (GLO)</td>
+      <td>Kichererbsen-Gemüsecurrymit Basmati Reis (FLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Chicken sliced ​​with Basmati Reis (Glo)</td>
+      <td>Chickpeas vegetable curry with basmati rice (flo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Linsen Dalmit Naan Brot (AGF)</td>
+      <td>Spaghetti Carbonara(ACG)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Linsen Dalmit Naan Brot (AGF)</td>
+      <td>Spaghetti Carbonara (ACG)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -894,14 +894,14 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Spaghetti | Soja-Gemüse Bolognese A,F,H,M,P</td>
+      <td>Kürbis-Kartoffelgulasch | Wachauer A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Spaghetti |Soy-vegetable Bolognese A, F, H, M, P</td>
+      <td>Pumpkin potato goulash |Wachauer A, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -944,30 +944,30 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Indisches Beef-Curry mit Reis</td>
+      <td>Rotes Thai-Hähnchencurry mit Reis</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Indian beef curry with rice</td>
+      <td>Red Thai chicken curry with rice</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Gefüllte Couscous-Paprika mit Feta auf Tomatensauce</td>
+      <td>Veganes Chana Masala mit Reis</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Filled couscous pepper with feta on tomato sauce</td>
+      <td>Vegan Chana Masala with rice</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -979,126 +979,126 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Frühlingsrollen mit Reis und Salat</td>
-      <td></td>
+      <td>Hühner Gyoza mit Reis und Salat</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Spring rolls with rice and salad</td>
-      <td></td>
+      <td>Chickens Gyoza with rice and salad</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Rehragout mit Kroket'ten und Prelselbeeren</td>
-      <td></td>
+      <td>Geschmorter Kalbstafelspitz mit Erdäpfelgratin</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Rehragout with croketo and press berries</td>
-      <td></td>
+      <td>Braied veal iron spitz with potato gratin</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Pulled Turkey Burger mit Coleslaw und Wedges</td>
-      <td></td>
+      <td>Red Thai Chicken mit Reis</td>
+      <td>11.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Pulled Turkey Burger with Coleslaw and Wedges</td>
-      <td></td>
+      <td>Red Thai Chicken with rice</td>
+      <td>11.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Gemüselaibchen mit Sußkartofrelwree und marinierter Rucola</td>
-      <td></td>
+      <td>Tortellini Funghi Veggie</td>
+      <td>9.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Vegetable with Sußkartofrelwree and marinated arugula</td>
-      <td></td>
+      <td>Tortellini funghi veggie</td>
+      <td>9.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Bulgogi Bento</td>
-      <td></td>
+      <td>California Maki Bento</td>
+      <td>10.4</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Bulgogi Bento</td>
-      <td></td>
+      <td>California Maki Bento</td>
+      <td>10.4</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
       <td>Lachs Bento</td>
-      <td>9.0</td>
+      <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
       <td>Salmon Bento</td>
-      <td>9.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>Soup</td>
-      <td>Stelnpllzcremesuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Porcini</td>
+      <td>Zucchlnlcremesuppe</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>Soup</td>
+      <td>Zucchlnlcremes soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Schweinsschnitzelmit Salzerdäpfel (ACGLO)</td>
+      <td>Spinat-Raviolian Käsesauce (AGL)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Pork schnitzel with salzerdecke (aclo)</td>
+      <td>Spinat raviolian cheese sauce (AGL)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Süßkartoffelgratinmit Feta und Rucola (GLO)</td>
+      <td>Schweinsgulaschmit Salzeräpfel (LO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Sweet potato gratin with feta and arugula (glo)</td>
+      <td>Piggulaschmit Salzanksaps (LO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -1133,28 +1133,28 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Chili Con Carne vom Rind | Gebäck A,L,O</td>
+      <td>Schinkenfleckerl | Schnittlauch A,C,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Chili con carne from beef |Gebäck A, L, O</td>
-      <td></td>
-      <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
-    </tr>
-    <tr>
-      <td>Mensa</td>
-      <td>Bowls & Co</td>
-      <td>Chili Con Carne vom Rind | Gebäck A,L,O</td>
+      <td>Schinkenfleckerl |Chives A, C, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Bowls & Co</td>
-      <td>Chili con carne from beef |Gebäck A, L, O</td>
+      <td>Schinkenfleckerl | Schnittlauch A,C,G,L</td>
+      <td></td>
+      <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
+    </tr>
+    <tr>
+      <td>Mensa</td>
+      <td>Bowls & Co</td>
+      <td>Schinkenfleckerl |Chives A, C, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1175,14 +1175,14 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Chili Con Carne vom Rind | Gebäck A,L,O</td>
+      <td>Schinkenfleckerl | Schnittlauch A,C,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Chili con carne from beef |Gebäck A, L, O</td>
+      <td>Schinkenfleckerl |Chives A, C, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1203,42 +1203,42 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Cremespinat | Rührei | Röstkartoffel (VEGAN OHNE RÜHREI) L</td>
+      <td>Hausgemachter Kaiserschmarrn | Apfelmus oder Zwetschkenröster A,C,G</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>CREMESPINAT |Vocide |Roasted potato (vegan without scrambled eggs) l</td>
+      <td>Homemade Kaiserschmarrn |Applei or plum roaster A, C, G</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Paprikacremesuppe A,L</td>
+      <td>Tomatencremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Paprikecremes soup a, l</td>
+      <td>Tomato cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Paprikacremesuppe A,L</td>
+      <td>Tomatencremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Paprikecremes soup a, l</td>
+      <td>Tomato cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1253,30 +1253,30 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Gebackenes Schollenfilet mit Petersilienkartoffeln</td>
+      <td>Gebackener Fisch mit Petersilienkartoffeln</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Baked plaice fillet with parsley potatoes</td>
+      <td>Baked fish with parsley potatoes</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Falafel-Teller mit Pita</td>
+      <td>Bunter Falafelteller mit Pita</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Falafel plate with pita</td>
+      <td>Colorful Falafeltelle with Pita</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-2.12.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2024/12/Lunch-Special-9.12.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -1288,126 +1288,126 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Frühlingsrollen mit Reis und Salat</td>
-      <td></td>
+      <td>Hühner Gyoza mit Reis und Salat</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Spring rolls with rice and salad</td>
-      <td></td>
+      <td>Chickens Gyoza with rice and salad</td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Rehragout mit Kroket'ten und Prelselbeeren</td>
-      <td></td>
+      <td>Geschmorter Kalbstafelspitz mit Erdäpfelgratin</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Rehragout with croketo and press berries</td>
-      <td></td>
+      <td>Braied veal iron spitz with potato gratin</td>
+      <td>13.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Gebackener Alaska-seelachs mit Erdäpfel-Mayosalat</td>
-      <td></td>
+      <td>Gegrilltes Lachsfilet mit Mangolderdäpfeln und Sauce</td>
+      <td>12.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Baked Alaska Sea axle with potato-Mayo salad</td>
+      <td>Grilled salmon fillet with mangold sticks and sauce</td>
+      <td>12.5</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Halloumi Quinoa Bowl mit Granatapfelkernen Veggie</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Ziegenkäse Bowl mit Walnüssen und Honig-Limetten-Dressing</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M3</td>
-      <td>Goat cheese Bowl with walnuts and honey-lime dressing</td>
+      <td>Halloumi Quinoa Bowl with pomegranate seeds veggie</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Bulgogi Bento</td>
-      <td></td>
+      <td>California Maki Bento</td>
+      <td>10.4</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Bulgogi Bento</td>
-      <td></td>
+      <td>California Maki Bento</td>
+      <td>10.4</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
       <td>Lachs Bento</td>
-      <td>9.0</td>
+      <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M5</td>
       <td>Salmon Bento</td>
-      <td>9.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>Soup</td>
-      <td>Brokkollcremesuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Brocade</td>
+      <td>Knoblauchcremesuppe</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>Soup</td>
+      <td>Garlic cream soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Gebackenes Seelachsfiletmit Erdäpfelsalat (ACDGMLO)</td>
+      <td>Gemüsestrudelmit Blattsalat & Schnittlauchdip (ACFG)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Baked Sauachnachsfiletmit Päupfelsalad (ACDGMLO)</td>
+      <td>Vegetable strudel with leaf salad & chives dip (ACFG)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Spinatknödelmit Parmesan Sauce (ACGLO)</td>
+      <td>Gebackenes Seelachsfiletmit Erdäpfel-Mayo Salat (ACDGMLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Spinat dumplings with parmesan sauce (aclo)</td>
+      <td>Baked pollachers' fillet with potato mayo salad (ACDC MLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -1470,14 +1470,14 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Food Waste Day</td>
+      <td>xxx</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Food Waste Day</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1512,14 +1512,14 @@ _Last Update: 2024-12-05 11:00:48_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Kichererbsen-Gemüse Curry | Bulgur A,F,L</td>
+      <td>Knoblauchdip</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Chickpea vegetables curry |Bulgur a, f, l</td>
+      <td>Garlic dip</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
