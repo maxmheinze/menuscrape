@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2024-12-09 11:20:03_
+_Last Update: 2024-12-10 16:01:05_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -178,28 +178,28 @@ _Last Update: 2024-12-09 11:20:03_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Rind-Enchiladas, serviert mit Reis, Bohnenmus, Guacamole, Salsa und Salat</td>
+      <td>Mexikanische Schüssel mit Hühnchen: Hühnchen serviert mit Reis, Bohnenmus, Guacamole, Salsa und Salat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Beef Enchiladas served with rice, refried beans, guacamole, salsa and salad (A, G)MEAT€ 10,00</td>
+      <td>Chicken mexican bowl: chicken served rith rice, refried beans, guacamole, salsa and salad (A, G)MEAT€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Bohnen-Enchiladas, serviert mit Reis, Bohnenmus, Guacamole, Salsa und Salat</td>
+      <td>Mexikanische Bohnenbögen, serviert mit Reis, Bohnenmus, Guacamole, Salsa und Salat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Bean Enchiladas served with rice, refried beans, guacamole, salsa and salad (A, G)VEGGIE€ 10,00</td>
+      <td>Bean mexican bow served with rice, refried beans, guacamole, salsa and salad (A, G)VEGGIE€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -487,28 +487,28 @@ _Last Update: 2024-12-09 11:20:03_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Westafrikanische Erdnusssauce mit Hühnchen, gedünstetem Reis und einem gemischten grünen Salat als Beilage</td>
+      <td>Klassische Lasagne Bolognese mit einem gemischten grünen Salat als Beilage</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>West african peanut sauce with chicken, steamed rice with a side mixed green salad (A, G)MEAT€ 10,00</td>
+      <td>Classic lasagne bolognese with a side mixed green salad (A, G)MEAT€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Cremiger Pilz-Stroganoff: Nudelgericht mit Gemüse-Sahne-Sauce, dazu gemischter grüner Salat</td>
+      <td>Spinatlasagne mit gemischtem grünen Salat als Beilage</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Creamy Mushroom Stroganoff: pasta dish with vegetable-cream-sauce, with a side mixed green salad (A, G)VEGGIE€ 10,00</td>
+      <td>Spinach lasagne with a side mixed green salad (A, G)VEGGIE€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -796,28 +796,28 @@ _Last Update: 2024-12-09 11:20:03_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Sloppy Joes (ein amerikanischer Messy-Beef-Burger, Mac ’n Cheese, gedämpfter Brokkoli</td>
+      <td>Lachs-Reis-Bowl: Mit Miso marinierter Lachs, Avocado, Edamame, Karotten, Baby-Spicnach auf gedämpftem Reis mit einer würzigen Mayo-Sauce</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Sloppy Joes (an american messy beef burger, mac ´n cheese, steamed broccoli (A, G)MEAT€ 10,00</td>
+      <td>Salmon rice bowl: Miso marinated salmon, avocado, edamame, carrots, baby spicnach on steamed rice with a spicy mayo sauce (A, G)MEAT€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Mac’n-Cheese-Auflauf, frittiertes Gemüse-Patty, Soße und gedünsteter Brokkoli</td>
+      <td>Tofu-Reisschüssel: Mit Sesam marinierter Tofu, Avocado, Edamame, Karotten, Babyspinat auf gedämpftem Reis mit einer würzigen Mayo-Sauce</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Mac ´n cheese casserole, fried vegetable patty, gravy and steamed broccoli(A, G)VEGGIE€ 10,00</td>
+      <td>Tofu rice bowl: Sesame marinated tofu, avocado, edamame, carrots, baby spinach on steamed rice with a spicy mayo sauce(A, B, C, D, F, N)VEGGIE€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -1105,28 +1105,28 @@ _Last Update: 2024-12-09 11:20:03_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Butterhuhn: Indisches Curry mit Hühnchen und Blumenkohl, frischer Jasminreis, Naan-Brot und eine Beilage Mango-Joghurt</td>
+      <td>Schweinefilet mit Eiernudeln, Soße und sautierten grünen Bohnen</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Beef goulash with steamed potatoes and sauteed green beans (A, G)MEAT€ 10,00</td>
+      <td>Pork tenderloin with egg noodles, gravy and sauteed green beans (A, G)MEAT€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Pilzgulasch mit Dampfkartoffeln und sautierten grünen Bohnen</td>
+      <td>Käse-Eiernudeln und Pilzsoße mit sautierten grünen Bohnen</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Mushroom goulash with steamed potatoes and sauteed green beans (A)VEGGIE€ 10,00</td>
+      <td>Cheesy-egg noodle and mushroom gravy with sauteed green beans (A)VEGGIE€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -1414,28 +1414,28 @@ _Last Update: 2024-12-09 11:20:03_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Tomaten-Fischeintopf auf Polenta: Tomaten-Fisch-Sauce mit Garnelen und Gemüse, Couscous und Beilagensalat</td>
+      <td>Gegrillter Zucchini-Ziegenkäse-Burger: mit Pommes Frites und Krautsalat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Tomato fish stew on polenta: Tomato-fish-sauce with shrimp and vegetable, couscous and a side salad (A, D, C, G)MEAT€ 10,00</td>
+      <td>Fried fish burger with french fries and coleslaw (A, D, C, G)MEAT€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tunesisches Gemüse-Cous-Cous: Tomaten-Gemüse-Sauce mit Cous-Cous und einem Beilagensalat</td>
+      <td>Gegrillte Zucchini-Ziegenkäse-Burger: mit Pommes Frites und Krautsalat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tomato stew on polenta: Tomato-vegetable-sauce with chickpeas, cheesy polenta and a side salad (A, C, G)VEGGIE€ 10,00</td>
+      <td>Grilled zucchini-goat cheese burgers: with french fries and coleslaw (A, C, G)VEGGIE€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
