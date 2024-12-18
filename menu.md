@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2024-12-17 15:01:06_
+_Last Update: 2024-12-18 12:00:33_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -171,7 +171,7 @@ _Last Update: 2024-12-17 15:01:06_
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Baked mushroom with leaf salad and sauce tartare (acl)</td>
+      <td>Baked mushroom letters and sauce tartare (acl)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
