@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-01-07 11:05:16_
+_Last Update: 2025-01-08 12:00:37_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -417,7 +417,7 @@ _Last Update: 2025-01-07 11:05:16_
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Gemüsecurrymit Basmati Reis (FH)</td>
+      <td>Gemüsecurrymit Basmati Reis (FH)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -1035,7 +1035,7 @@ _Last Update: 2025-01-07 11:05:16_
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Kürbis-Lasagnemit Rucola und Grana (ACGLO)</td>
+      <td>Kürbis-Lasagnemit Rucola und Grana (ACGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
