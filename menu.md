@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-01-09 11:00:59_
+_Last Update: 2025-01-11 20:01:19_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -52,98 +52,182 @@ _Last Update: 2025-01-09 11:00:59_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Gebratener Reis mit Tofu</td>
+      <td>Hühner Gyoza mit Reis und Salat</td>
       <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Fried rice with tofu</td>
+      <td>Chickens Gyoza with rice and salad</td>
       <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M4</td>
-      <td>Huhner Gyoza Bento</td>
-      <td></td>
+      <td>M1</td>
+      <td>Pasta Bolognese garniert mit Parmesan</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Rollbraten Vom Spanferkel mit Semmelknödeln und Sauerkraut</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Teriyaki Ente mit Jasminreis und asiatischen Gurkensalat</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Truthan-gyros mit Reis und Tzatziki</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Pasta Frutti Di Mare mit Pecorino</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Pasta Bolognese garnished with Parmesan</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Roll roast from the suckling pig with bread dumplings and sauerkraut</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Teriyaki duck with jasmine rice and Asian cucumber salad</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Truthahn gyros with rice and tzatziki</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Pasta Frutti di Mare with Pecorino</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M2</td>
+      <td>Gnocchi in einer Schwammerlsauce Veggie</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M2</td>
+      <td>Gnocchi in a mushroom sauce veggie</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Chicken Gyoza Bento</td>
-      <td></td>
+      <td>Lachs Bento„</td>
+      <td>5.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M5</td>
-      <td>Lachs Bento</td>
-      <td></td>
+      <td>M4</td>
+      <td>Salmon Bento "</td>
+      <td>5.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M5</td>
-      <td>Salmon Bento</td>
+      <td>Soup</td>
+      <td>Pikante Stangensellerie-Suppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Geschlossen</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>Soup</td>
-      <td>Closed</td>
+      <td>Spicy barsllore soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
+      <td>Fisch & Fleisch</td>
+      <td>Ingwer-Huhn,mit Couscous mit Rosinen (FLO)</td>
+      <td>14.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Fisch & Fleisch</td>
+      <td>Ginger chicken, with cousins ​​with raisins (flo)</td>
+      <td>14.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Feiertag</td>
+      <td>Tagliatellealla Norma (ALO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Holiday</td>
+      <td>Tagliatelle Alla Norma (alo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Zitronen-Hähnchen-Reis-Auflauf: Ein Eintopf-Reisgericht mit gebratenen Hähnchenschenkeln und Gemüse, serviert mit einem frischen Tomaten-Zwiebel-Salat</td>
+      <td>Beef-Quinoa-Bowl: Gebackene Süßkartoffel, Rindfleisch, Rotkohl, Karotten, Edamame und eine Miso-Avocado-Sauce</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Lemon chicken rice casserole: A one-pot rice dish with roasted chicken thighs and vegetables, served with a fresh tomato-onion salad (A, L)MEAT€ 10,00</td>
+      <td>Beef-quinoa-bowl: Baked sweet potato, beef, red cabbage, carrots, edamame and a miso-avocado sauce (A, F)MEAT€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Portobello-Reisauflauf: Ein Eintopf-Reisgericht mit gerösteten Pilzen und Gemüse, serviert mit einem frischen Tomaten-Zwiebel-Salat</td>
+      <td>Tofu-Quinoa-Bowl: Gebackene Süßkartoffel, Tofu, Rotkohl, Karotten, Edamame und Miso-Avocado-Sauce</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Portobello rice casserole: A one-pot rice dish with roastet mushroom and vegetables, served with a fresh tomato-onion salad (A, L)VEGGIE€ 10,00</td>
+      <td>Tofu-quinoa-bowl: Baked sweet potato, tofu, red cabbage, carrots, edamame and miso-avocado sauce(A, F)VEGGIE€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -319,112 +403,154 @@ _Last Update: 2025-01-09 11:00:59_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Gebratener Reis mit Tofu</td>
+      <td>Hühner Gyoza mit Reis und Salat</td>
       <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Fried rice with tofu</td>
+      <td>Chickens Gyoza with rice and salad</td>
       <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M2</td>
-      <td>Grünes Thai-curry mit Garnelen und Jasminreis</td>
+      <td>M1</td>
+      <td>Pasta Bolognese garniert mit Parmesan</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Rollbraten Vom Spanferkel mit Semmelknödeln und Sauerkraut</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Teriyaki Ente mit Jasminreis und asiatischen Gurkensalat</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Truthan-gyros mit Reis und Tzatziki</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Pasta Frutti Di Mare mit Pecorino</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Pasta Bolognese garnished with Parmesan</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Roll roast from the suckling pig with bread dumplings and sauerkraut</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Teriyaki duck with jasmine rice and Asian cucumber salad</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Truthahn gyros with rice and tzatziki</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Pasta Frutti di Mare with Pecorino</td>
       <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Green Thai curry with shrimp and jasmine rice</td>
+      <td>Veganes Schnitzel mit Erdäpfelsalat Vegan</td>
       <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M3</td>
-      <td>Eintopf mit Stangensellerie und Kichererbsen mit Gemüsebulgur</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M3</td>
-      <td>Stew with a celery and chickpeas with vegetable bump</td>
-      <td></td>
+      <td>M2</td>
+      <td>Vegan schnitzel with a potato salad vegan</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Huhner Gyoza Bento</td>
-      <td></td>
+      <td>Lachs Bento„</td>
+      <td>5.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Chicken Gyoza Bento</td>
-      <td></td>
+      <td>Salmon Bento "</td>
+      <td>5.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M5</td>
-      <td>Lachs Bento</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M5</td>
-      <td>Salmon Bento</td>
+      <td>Soup</td>
+      <td>Karflolcremesuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Rote Llnsensuppe</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>Soup</td>
-      <td>Red lentil soup</td>
-      <td>10.0</td>
+      <td>Carfiol cream soup</td>
+      <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Gegrillte Hendlbrustmit Zitronen-Erdäpfelgratin, Pilze und Erbsen (GLO)</td>
+      <td>Faschierte Laibchenmit Erdäpfelstampf (ACG)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Grilled Hendlbrustmit lemon peculiar gratin, mushrooms and peas (glo)</td>
+      <td>Fascaled Laibchen with potato stomp (ACG)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Gemüsecurrymit Basmati Reis (FH)</td>
+      <td>ErdäpfelgulaschSzegediner Art (O)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Vegetable currymit basmati rice (FH)</td>
+      <td>Potal goulashzedin art (o)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -628,112 +754,154 @@ _Last Update: 2025-01-09 11:00:59_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Gebratener Reis mit Tofu</td>
+      <td>Hühner Gyoza mit Reis und Salat</td>
       <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Fried rice with tofu</td>
+      <td>Chickens Gyoza with rice and salad</td>
       <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M2</td>
-      <td>Hausgröstl mit Spiegelei</td>
+      <td>M1</td>
+      <td>Pasta Bolognese garniert mit Parmesan</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Rollbraten Vom Spanferkel mit Semmelknödeln und Sauerkraut</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Teriyaki Ente mit Jasminreis und asiatischen Gurkensalat</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Truthan-gyros mit Reis und Tzatziki</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Pasta Frutti Di Mare mit Pecorino</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Pasta Bolognese garnished with Parmesan</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Roll roast from the suckling pig with bread dumplings and sauerkraut</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Teriyaki duck with jasmine rice and Asian cucumber salad</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Truthahn gyros with rice and tzatziki</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Pasta Frutti di Mare with Pecorino</td>
       <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Hausgröstl with fried egg</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M3</td>
-      <td>Penne All'’arrabbiata garniert mit Rucola und Parmesan Veggie</td>
+      <td>Linseneintopf mit Couscous und Minzjoghurt Veggie</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M3</td>
-      <td>Penne all'arabbiata garnished with Rucola and Parmesan veggie</td>
+      <td>M2</td>
+      <td>Lentil stew with couscous and mint yogurt veggie</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Huhner Gyoza Bento</td>
-      <td></td>
+      <td>Lachs Bento„</td>
+      <td>5.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Chicken Gyoza Bento</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M5</td>
-      <td>Lachs Bento</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M5</td>
-      <td>Salmon Bento</td>
-      <td></td>
+      <td>Salmon Bento "</td>
+      <td>5.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Brokkohcremesuppe</td>
-      <td></td>
+      <td>Paradeissuppe</td>
+      <td>4.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Brocca cream soup</td>
-      <td></td>
+      <td>Parade soup</td>
+      <td>4.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Cordon Bleumit Petersilerdäpfeln (ACGM)</td>
+      <td>Hühnerschnitzelmit Erdäpfelsalat (ACGMLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Cordon Bleumit Petersilerdäpfeln (ACGM)</td>
+      <td>Chicken Schnitzel with a potato salad (acgmlo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Linseneintopfmit Serviettenknödel (ACGLO)</td>
+      <td>Brokkoli-Quichemit Gorgonzola (ACG)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Lentil stew with napkin dumplings (aclo)</td>
+      <td>Brokkoli Quichemit Gorgonzola (ACG)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -937,112 +1105,154 @@ _Last Update: 2025-01-09 11:00:59_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Gebratener Reis mit Tofu</td>
+      <td>Hühner Gyoza mit Reis und Salat</td>
       <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Fried rice with tofu</td>
+      <td>Chickens Gyoza with rice and salad</td>
       <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M2</td>
-      <td>Kalbsrahmgulasch mit Spätzle</td>
+      <td>M1</td>
+      <td>Pasta Bolognese garniert mit Parmesan</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Rollbraten Vom Spanferkel mit Semmelknödeln und Sauerkraut</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Teriyaki Ente mit Jasminreis und asiatischen Gurkensalat</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Truthan-gyros mit Reis und Tzatziki</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Pasta Frutti Di Mare mit Pecorino</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Pasta Bolognese garnished with Parmesan</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Roll roast from the suckling pig with bread dumplings and sauerkraut</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Teriyaki duck with jasmine rice and Asian cucumber salad</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Truthahn gyros with rice and tzatziki</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Pasta Frutti di Mare with Pecorino</td>
       <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Calf -cream goulash with spaetzle</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M3</td>
-      <td>Geschmorte Melanzani in Paradeissauce mit Splnat</td>
+      <td>Gemüseleibchen mit Kelbelerdapfeln und JunQZWIebel</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M3</td>
-      <td>Braied Melanzani in parade ice sauce with spinach</td>
+      <td>M2</td>
+      <td>Vegetable coibs with sewers and young onions</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Huhner Gyoza Bento</td>
-      <td></td>
+      <td>Lachs Bento„</td>
+      <td>5.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Chicken Gyoza Bento</td>
-      <td></td>
+      <td>Salmon Bento "</td>
+      <td>5.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M5</td>
-      <td>Lachs Bento</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M5</td>
-      <td>Salmon Bento</td>
+      <td>Soup</td>
+      <td>Kräftige Hühnersuppe mit Gemüse und Reibteig</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Gemüse-Einmachsuppe</td>
-      <td>4.5</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>Soup</td>
-      <td>Vegetable soup</td>
-      <td>4.5</td>
+      <td>Strong chicken soup with vegetables and rubbing dough</td>
+      <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Ripperlmariniert mit Mint-Honig & Bier, mit Wedges und Knoblauchbrot (AGMO)</td>
+      <td>Rosa gebratenes Schweinsfiletim Speckmantel mit Erdäpfelgratin (GLMO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Ripper-marinated with mint honey & beer, with wedges and garlic bread (AGMO)</td>
+      <td>Pink fried porkfilitime bacon coat with potato gratin (GLMO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Kürbis-Lasagnemit Rucola und Grana (ACGLO)</td>
+      <td>Zucchini-Spinat-Gnocchi(AG)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Pumpkin Lasagnemiti Rucola and Grana (Aclo)</td>
+      <td>Zucchini spinach gnocchi (AG)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -1246,112 +1456,168 @@ _Last Update: 2025-01-09 11:00:59_
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Gebratener Reis mit Tofu</td>
+      <td>Hühner Gyoza mit Reis und Salat</td>
       <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
-      <td>Fried rice with tofu</td>
+      <td>Chickens Gyoza with rice and salad</td>
       <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M2</td>
-      <td>Gegrillte Dorade mit Rosmarinerdäpfeln und Ratatouille</td>
+      <td>M1</td>
+      <td>Pasta Bolognese garniert mit Parmesan</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Rollbraten Vom Spanferkel mit Semmelknödeln und Sauerkraut</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Teriyaki Ente mit Jasminreis und asiatischen Gurkensalat</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Truthan-gyros mit Reis und Tzatziki</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Pasta Frutti Di Mare mit Pecorino</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Pasta Bolognese garnished with Parmesan</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Roll roast from the suckling pig with bread dumplings and sauerkraut</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Teriyaki duck with jasmine rice and Asian cucumber salad</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Truthahn gyros with rice and tzatziki</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Pasta Frutti di Mare with Pecorino</td>
       <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Grilled dorade with rosemary apples and ratatouille</td>
+      <td>Palak Paneer mit Basmatireis und Naan Vegan</td>
+      <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M2</td>
+      <td>Palak Paneer with Basmatizreis and Naan Vegan</td>
       <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Antipasti Teller mit Ziegenkäse mit frisches Gebäck Veggie</td>
-      <td>10.0</td>
+      <td>Huhnerfleisch mn Pfeffersauoe und Re</td>
+      <td>4.06</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Antipasti plates with goat cheese with fresh pastries veggie</td>
-      <td>10.0</td>
+      <td>Chicken meat in pepper sauce and RE</td>
+      <td>4.06</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Huhner Gyoza Bento</td>
-      <td></td>
+      <td>Lachs Bento„</td>
+      <td>5.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td>Chicken Gyoza Bento</td>
-      <td></td>
+      <td>Salmon Bento "</td>
+      <td>5.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M5</td>
-      <td>Lachs Bento</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M5</td>
-      <td>Salmon Bento</td>
+      <td>Soup</td>
+      <td>Altwiener Schwammerlsuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Karot'lencremesuppe</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>Soup</td>
-      <td>Carotic</td>
+      <td>Altwiener mushroom soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Gebackenes Seelachsfiletmit Erdäpfel-Mayo-Salat (ACDGLMO)</td>
+      <td>Gebratener Reismit Wokgemüse und Shrimps (ACDGLMO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Baked pollar fillet with potato-Mayo salad (ACD ELMO)</td>
+      <td>Fried rice with wok vegetables and shrimp (acdglmo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Kaspressknödelmit Blattsalat und Kräuterdip (ACGMO)</td>
+      <td>Steinpilzravioli(AGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Kaspressknödelmit leaf salad and herbal dip (acgmo)</td>
+      <td>Stone mushroom ravioli (Aglo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>

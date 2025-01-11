@@ -109,10 +109,10 @@ Pizza Margherita Pizza Speciale,5,Pizza & Co,english,Mensa,https://www.wumensa.a
 Pizza Margherita Pizza Speciale,5,Bowls & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
 "Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge",5,Pasta & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
 Food Waste Day,5,Global & Grill,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Portobello-Reisauflauf: Ein Eintopf-Reisgericht mit gerösteten Pilzen und Gemüse, serviert mit einem frischen Tomaten-Zwiebel-Salat",1,Veggie,german,Library,https://lia.coffee,10.00
-"Portobello rice casserole: A one-pot rice dish with roastet mushroom and vegetables, served with a fresh tomato-onion salad (A, L)VEGGIE€ 10,00",1,Veggie,english,Library,https://lia.coffee,10.00
-"Zitronen-Hähnchen-Reis-Auflauf: Ein Eintopf-Reisgericht mit gebratenen Hähnchenschenkeln und Gemüse, serviert mit einem frischen Tomaten-Zwiebel-Salat",1,Meat,german,Library,https://lia.coffee,10.00
-"Lemon chicken rice casserole: A one-pot rice dish with roasted chicken thighs and vegetables, served with a fresh tomato-onion salad (A, L)MEAT€ 10,00",1,Meat,english,Library,https://lia.coffee,10.00
+"Tofu-Quinoa-Bowl: Gebackene Süßkartoffel, Tofu, Rotkohl, Karotten, Edamame und Miso-Avocado-Sauce",1,Veggie,german,Library,https://lia.coffee,10.00
+"Tofu-quinoa-bowl: Baked sweet potato, tofu, red cabbage, carrots, edamame and miso-avocado sauce(A, F)VEGGIE€ 10,00",1,Veggie,english,Library,https://lia.coffee,10.00
+"Beef-Quinoa-Bowl: Gebackene Süßkartoffel, Rindfleisch, Rotkohl, Karotten, Edamame und eine Miso-Avocado-Sauce",1,Meat,german,Library,https://lia.coffee,10.00
+"Beef-quinoa-bowl: Baked sweet potato, beef, red cabbage, carrots, edamame and a miso-avocado sauce (A, F)MEAT€ 10,00",1,Meat,english,Library,https://lia.coffee,10.00
 "Portobello-Reisauflauf: Ein Eintopf-Reisgericht mit gerösteten Pilzen und Gemüse, serviert mit einem frischen Tomaten-Zwiebel-Salat",2,Veggie,german,Library,https://lia.coffee,10.00
 "Portobello rice casserole: A one-pot rice dish with roastet mushroom and vegetables, served with a fresh tomato-onion salad (A, L)VEGGIE€ 10,00",2,Veggie,english,Library,https://lia.coffee,10.00
 "Zitronen-Hähnchen-Reis-Auflauf: Ein Eintopf-Reisgericht mit gebratenen Hähnchenschenkeln und Gemüse, serviert mit einem frischen Tomaten-Zwiebel-Salat",2,Meat,german,Library,https://lia.coffee,10.00
@@ -129,80 +129,118 @@ Food Waste Day,5,Global & Grill,english,Mensa,https://www.wumensa.at/menuplan-de
 "White bean soup: A thick bean soup filled with vegetables and served with a grilled cheese sandwich (A, L, G)VEGGIE€ 10,00",5,Veggie,english,Library,https://lia.coffee,10.00
 "Meeresfrüchtesuppe: Eine cremige, dicke Suppe aus Garnelen, Kartoffeln und Gemüse, serviert mit einem gegrillten Käsesandwich",5,Meat,german,Library,https://lia.coffee,10.00
 "Seafood chowder: A cream, thick soup made with shrimp, potatoes and vegetables, served with a grilled cheese sandwich ( A, G, L)MEAT€ 10,00",5,Meat,english,Library,https://lia.coffee,10.00
-Geschlossen,1,Soup,german,Finn,https://finn.wien/collections/mittagsmenu,
-Rote Llnsensuppe,2,Soup,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Grünes Thai-curry mit Garnelen und Jasminreis,2,M2,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Eintopf mit Stangensellerie und Kichererbsen mit Gemüsebulgur,2,M3,german,Finn,https://finn.wien/collections/mittagsmenu,
-Brokkohcremesuppe,3,Soup,german,Finn,https://finn.wien/collections/mittagsmenu,
-Hausgröstl mit Spiegelei,3,M2,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Penne All'’arrabbiata garniert mit Rucola und Parmesan Veggie,3,M3,german,Finn,https://finn.wien/collections/mittagsmenu,
-Gemüse-Einmachsuppe,4,Soup,german,Finn,https://finn.wien/collections/mittagsmenu,4.5
-Kalbsrahmgulasch mit Spätzle,4,M2,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Geschmorte Melanzani in Paradeissauce mit Splnat,4,M3,german,Finn,https://finn.wien/collections/mittagsmenu,
-Karot'lencremesuppe,5,Soup,german,Finn,https://finn.wien/collections/mittagsmenu,
-Gegrillte Dorade mit Rosmarinerdäpfeln und Ratatouille,5,M2,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Antipasti Teller mit Ziegenkäse mit frisches Gebäck Veggie,5,M3,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Huhner Gyoza Bento,1,M4,german,Finn,https://finn.wien/collections/mittagsmenu,
-Huhner Gyoza Bento,2,M4,german,Finn,https://finn.wien/collections/mittagsmenu,
-Huhner Gyoza Bento,3,M4,german,Finn,https://finn.wien/collections/mittagsmenu,
-Huhner Gyoza Bento,4,M4,german,Finn,https://finn.wien/collections/mittagsmenu,
-Huhner Gyoza Bento,5,M4,german,Finn,https://finn.wien/collections/mittagsmenu,
-Lachs Bento,1,M5,german,Finn,https://finn.wien/collections/mittagsmenu,
-Lachs Bento,2,M5,german,Finn,https://finn.wien/collections/mittagsmenu,
-Lachs Bento,3,M5,german,Finn,https://finn.wien/collections/mittagsmenu,
-Lachs Bento,4,M5,german,Finn,https://finn.wien/collections/mittagsmenu,
-Lachs Bento,5,M5,german,Finn,https://finn.wien/collections/mittagsmenu,
-Gebratener Reis mit Tofu,1,ASIA BOX TO GO,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Gebratener Reis mit Tofu,2,ASIA BOX TO GO,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Gebratener Reis mit Tofu,3,ASIA BOX TO GO,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Gebratener Reis mit Tofu,4,ASIA BOX TO GO,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Gebratener Reis mit Tofu,5,ASIA BOX TO GO,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Closed,1,Soup,english,Finn,https://finn.wien/collections/mittagsmenu,
-Red lentil soup,2,Soup,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Green Thai curry with shrimp and jasmine rice,2,M2,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Stew with a celery and chickpeas with vegetable bump,2,M3,english,Finn,https://finn.wien/collections/mittagsmenu,
-Brocca cream soup,3,Soup,english,Finn,https://finn.wien/collections/mittagsmenu,
-Hausgröstl with fried egg,3,M2,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Penne all'arabbiata garnished with Rucola and Parmesan veggie,3,M3,english,Finn,https://finn.wien/collections/mittagsmenu,
-Vegetable soup,4,Soup,english,Finn,https://finn.wien/collections/mittagsmenu,4.5
-Calf -cream goulash with spaetzle,4,M2,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Braied Melanzani in parade ice sauce with spinach,4,M3,english,Finn,https://finn.wien/collections/mittagsmenu,
-Carotic,5,Soup,english,Finn,https://finn.wien/collections/mittagsmenu,
-Grilled dorade with rosemary apples and ratatouille,5,M2,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Antipasti plates with goat cheese with fresh pastries veggie,5,M3,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Chicken Gyoza Bento,1,M4,english,Finn,https://finn.wien/collections/mittagsmenu,
-Chicken Gyoza Bento,2,M4,english,Finn,https://finn.wien/collections/mittagsmenu,
-Chicken Gyoza Bento,3,M4,english,Finn,https://finn.wien/collections/mittagsmenu,
-Chicken Gyoza Bento,4,M4,english,Finn,https://finn.wien/collections/mittagsmenu,
-Chicken Gyoza Bento,5,M4,english,Finn,https://finn.wien/collections/mittagsmenu,
-Salmon Bento,1,M5,english,Finn,https://finn.wien/collections/mittagsmenu,
-Salmon Bento,2,M5,english,Finn,https://finn.wien/collections/mittagsmenu,
-Salmon Bento,3,M5,english,Finn,https://finn.wien/collections/mittagsmenu,
-Salmon Bento,4,M5,english,Finn,https://finn.wien/collections/mittagsmenu,
-Salmon Bento,5,M5,english,Finn,https://finn.wien/collections/mittagsmenu,
-Fried rice with tofu,1,ASIA BOX TO GO,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Fried rice with tofu,2,ASIA BOX TO GO,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Fried rice with tofu,3,ASIA BOX TO GO,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Fried rice with tofu,4,ASIA BOX TO GO,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Fried rice with tofu,5,ASIA BOX TO GO,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Feiertag,1,Vegetarisch,german,Glashaus,https://www.dasglashaus.at/menues,13.90
-Gemüsecurrymit Basmati Reis (FH),2,Vegetarisch,german,Glashaus,https://www.dasglashaus.at/menues,13.90
-"Gegrillte Hendlbrustmit Zitronen-Erdäpfelgratin, Pilze und Erbsen (GLO)",2,Fisch & Fleisch,german,Glashaus,https://www.dasglashaus.at/menues,14.90
-Linseneintopfmit Serviettenknödel (ACGLO),3,Vegetarisch,german,Glashaus,https://www.dasglashaus.at/menues,13.90
-Cordon Bleumit Petersilerdäpfeln (ACGM),3,Fisch & Fleisch,german,Glashaus,https://www.dasglashaus.at/menues,14.90
-Kürbis-Lasagnemit Rucola und Grana (ACGLO),4,Vegetarisch,german,Glashaus,https://www.dasglashaus.at/menues,13.90
-"Ripperlmariniert mit Mint-Honig & Bier, mit Wedges und Knoblauchbrot (AGMO)",4,Fisch & Fleisch,german,Glashaus,https://www.dasglashaus.at/menues,14.90
-Kaspressknödelmit Blattsalat und Kräuterdip (ACGMO),5,Vegetarisch,german,Glashaus,https://www.dasglashaus.at/menues,13.90
-Gebackenes Seelachsfiletmit Erdäpfel-Mayo-Salat (ACDGLMO),5,Fisch & Fleisch,german,Glashaus,https://www.dasglashaus.at/menues,14.90
-Holiday,1,Vegetarisch,english,Glashaus,https://www.dasglashaus.at/menues,13.90
-Vegetable currymit basmati rice (FH),2,Vegetarisch,english,Glashaus,https://www.dasglashaus.at/menues,13.90
-"Grilled Hendlbrustmit lemon peculiar gratin, mushrooms and peas (glo)",2,Fisch & Fleisch,english,Glashaus,https://www.dasglashaus.at/menues,14.90
-Lentil stew with napkin dumplings (aclo),3,Vegetarisch,english,Glashaus,https://www.dasglashaus.at/menues,13.90
-Cordon Bleumit Petersilerdäpfeln (ACGM),3,Fisch & Fleisch,english,Glashaus,https://www.dasglashaus.at/menues,14.90
-Pumpkin Lasagnemiti Rucola and Grana (Aclo),4,Vegetarisch,english,Glashaus,https://www.dasglashaus.at/menues,13.90
-"Ripper-marinated with mint honey & beer, with wedges and garlic bread (AGMO)",4,Fisch & Fleisch,english,Glashaus,https://www.dasglashaus.at/menues,14.90
-Kaspressknödelmit leaf salad and herbal dip (acgmo),5,Vegetarisch,english,Glashaus,https://www.dasglashaus.at/menues,13.90
-Baked pollar fillet with potato-Mayo salad (ACD ELMO),5,Fisch & Fleisch,english,Glashaus,https://www.dasglashaus.at/menues,14.90
+Pikante Stangensellerie-Suppe,1,Soup,german,Finn,https://finn.wien/collections/mittagsmenu,
+Pasta Bolognese garniert mit Parmesan,1,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Pasta Bolognese garniert mit Parmesan,2,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Pasta Bolognese garniert mit Parmesan,3,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Pasta Bolognese garniert mit Parmesan,4,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Pasta Bolognese garniert mit Parmesan,5,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Gnocchi in einer Schwammerlsauce Veggie,1,M2,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Karflolcremesuppe,2,Soup,german,Finn,https://finn.wien/collections/mittagsmenu,
+Rollbraten Vom Spanferkel mit Semmelknödeln und Sauerkraut,1,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Rollbraten Vom Spanferkel mit Semmelknödeln und Sauerkraut,2,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Rollbraten Vom Spanferkel mit Semmelknödeln und Sauerkraut,3,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Rollbraten Vom Spanferkel mit Semmelknödeln und Sauerkraut,4,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Rollbraten Vom Spanferkel mit Semmelknödeln und Sauerkraut,5,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Veganes Schnitzel mit Erdäpfelsalat Vegan,2,M2,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Paradeissuppe,3,Soup,german,Finn,https://finn.wien/collections/mittagsmenu,4.5
+Teriyaki Ente mit Jasminreis und asiatischen Gurkensalat,1,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Teriyaki Ente mit Jasminreis und asiatischen Gurkensalat,2,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Teriyaki Ente mit Jasminreis und asiatischen Gurkensalat,3,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Teriyaki Ente mit Jasminreis und asiatischen Gurkensalat,4,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Teriyaki Ente mit Jasminreis und asiatischen Gurkensalat,5,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Linseneintopf mit Couscous und Minzjoghurt Veggie,3,M2,german,Finn,https://finn.wien/collections/mittagsmenu,
+Kräftige Hühnersuppe mit Gemüse und Reibteig,4,Soup,german,Finn,https://finn.wien/collections/mittagsmenu,
+Truthan-gyros mit Reis und Tzatziki,1,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Truthan-gyros mit Reis und Tzatziki,2,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Truthan-gyros mit Reis und Tzatziki,3,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Truthan-gyros mit Reis und Tzatziki,4,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Truthan-gyros mit Reis und Tzatziki,5,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Gemüseleibchen mit Kelbelerdapfeln und JunQZWIebel,4,M2,german,Finn,https://finn.wien/collections/mittagsmenu,
+Altwiener Schwammerlsuppe,5,Soup,german,Finn,https://finn.wien/collections/mittagsmenu,
+Pasta Frutti Di Mare mit Pecorino,1,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Pasta Frutti Di Mare mit Pecorino,2,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Pasta Frutti Di Mare mit Pecorino,3,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Pasta Frutti Di Mare mit Pecorino,4,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Pasta Frutti Di Mare mit Pecorino,5,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Palak Paneer mit Basmatireis und Naan Vegan,5,M2,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Huhnerfleisch mn Pfeffersauoe und Re,5,M3,german,Finn,https://finn.wien/collections/mittagsmenu,4.06
+Lachs Bento„,1,M4,german,Finn,https://finn.wien/collections/mittagsmenu,5.0
+Lachs Bento„,2,M4,german,Finn,https://finn.wien/collections/mittagsmenu,5.0
+Lachs Bento„,3,M4,german,Finn,https://finn.wien/collections/mittagsmenu,5.0
+Lachs Bento„,4,M4,german,Finn,https://finn.wien/collections/mittagsmenu,5.0
+Lachs Bento„,5,M4,german,Finn,https://finn.wien/collections/mittagsmenu,5.0
+Hühner Gyoza mit Reis und Salat,1,ASIA BOX TO GO,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
+Hühner Gyoza mit Reis und Salat,2,ASIA BOX TO GO,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
+Hühner Gyoza mit Reis und Salat,3,ASIA BOX TO GO,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
+Hühner Gyoza mit Reis und Salat,4,ASIA BOX TO GO,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
+Hühner Gyoza mit Reis und Salat,5,ASIA BOX TO GO,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
+Spicy barsllore soup,1,Soup,english,Finn,https://finn.wien/collections/mittagsmenu,
+Pasta Bolognese garnished with Parmesan,1,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Pasta Bolognese garnished with Parmesan,2,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Pasta Bolognese garnished with Parmesan,3,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Pasta Bolognese garnished with Parmesan,4,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Pasta Bolognese garnished with Parmesan,5,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Gnocchi in a mushroom sauce veggie,1,M2,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Carfiol cream soup,2,Soup,english,Finn,https://finn.wien/collections/mittagsmenu,
+Roll roast from the suckling pig with bread dumplings and sauerkraut,1,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Roll roast from the suckling pig with bread dumplings and sauerkraut,2,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Roll roast from the suckling pig with bread dumplings and sauerkraut,3,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Roll roast from the suckling pig with bread dumplings and sauerkraut,4,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Roll roast from the suckling pig with bread dumplings and sauerkraut,5,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Vegan schnitzel with a potato salad vegan,2,M2,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Parade soup,3,Soup,english,Finn,https://finn.wien/collections/mittagsmenu,4.5
+Teriyaki duck with jasmine rice and Asian cucumber salad,1,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Teriyaki duck with jasmine rice and Asian cucumber salad,2,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Teriyaki duck with jasmine rice and Asian cucumber salad,3,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Teriyaki duck with jasmine rice and Asian cucumber salad,4,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Teriyaki duck with jasmine rice and Asian cucumber salad,5,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Lentil stew with couscous and mint yogurt veggie,3,M2,english,Finn,https://finn.wien/collections/mittagsmenu,
+Strong chicken soup with vegetables and rubbing dough,4,Soup,english,Finn,https://finn.wien/collections/mittagsmenu,
+Truthahn gyros with rice and tzatziki,1,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Truthahn gyros with rice and tzatziki,2,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Truthahn gyros with rice and tzatziki,3,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Truthahn gyros with rice and tzatziki,4,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Truthahn gyros with rice and tzatziki,5,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Vegetable coibs with sewers and young onions,4,M2,english,Finn,https://finn.wien/collections/mittagsmenu,
+Altwiener mushroom soup,5,Soup,english,Finn,https://finn.wien/collections/mittagsmenu,
+Pasta Frutti di Mare with Pecorino,1,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Pasta Frutti di Mare with Pecorino,2,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Pasta Frutti di Mare with Pecorino,3,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Pasta Frutti di Mare with Pecorino,4,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Pasta Frutti di Mare with Pecorino,5,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Palak Paneer with Basmatizreis and Naan Vegan,5,M2,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
+Chicken meat in pepper sauce and RE,5,M3,english,Finn,https://finn.wien/collections/mittagsmenu,4.06
+"Salmon Bento """,1,M4,english,Finn,https://finn.wien/collections/mittagsmenu,5.0
+"Salmon Bento """,2,M4,english,Finn,https://finn.wien/collections/mittagsmenu,5.0
+"Salmon Bento """,3,M4,english,Finn,https://finn.wien/collections/mittagsmenu,5.0
+"Salmon Bento """,4,M4,english,Finn,https://finn.wien/collections/mittagsmenu,5.0
+"Salmon Bento """,5,M4,english,Finn,https://finn.wien/collections/mittagsmenu,5.0
+Chickens Gyoza with rice and salad,1,ASIA BOX TO GO,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
+Chickens Gyoza with rice and salad,2,ASIA BOX TO GO,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
+Chickens Gyoza with rice and salad,3,ASIA BOX TO GO,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
+Chickens Gyoza with rice and salad,4,ASIA BOX TO GO,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
+Chickens Gyoza with rice and salad,5,ASIA BOX TO GO,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
+Tagliatellealla Norma (ALO),1,Vegetarisch,german,Glashaus,https://www.dasglashaus.at/menues,13.90
+"Ingwer-Huhn,mit Couscous mit Rosinen (FLO)",1,Fisch & Fleisch,german,Glashaus,https://www.dasglashaus.at/menues,14.90
+ErdäpfelgulaschSzegediner Art (O),2,Vegetarisch,german,Glashaus,https://www.dasglashaus.at/menues,13.90
+Faschierte Laibchenmit Erdäpfelstampf (ACG),2,Fisch & Fleisch,german,Glashaus,https://www.dasglashaus.at/menues,14.90
+Brokkoli-Quichemit Gorgonzola (ACG),3,Vegetarisch,german,Glashaus,https://www.dasglashaus.at/menues,13.90
+Hühnerschnitzelmit Erdäpfelsalat (ACGMLO),3,Fisch & Fleisch,german,Glashaus,https://www.dasglashaus.at/menues,14.90
+Zucchini-Spinat-Gnocchi(AG),4,Vegetarisch,german,Glashaus,https://www.dasglashaus.at/menues,13.90
+Rosa gebratenes Schweinsfiletim Speckmantel mit Erdäpfelgratin (GLMO),4,Fisch & Fleisch,german,Glashaus,https://www.dasglashaus.at/menues,14.90
+Steinpilzravioli(AGLO),5,Vegetarisch,german,Glashaus,https://www.dasglashaus.at/menues,13.90
+Gebratener Reismit Wokgemüse und Shrimps (ACDGLMO),5,Fisch & Fleisch,german,Glashaus,https://www.dasglashaus.at/menues,14.90
+Tagliatelle Alla Norma (alo),1,Vegetarisch,english,Glashaus,https://www.dasglashaus.at/menues,13.90
+"Ginger chicken, with cousins ​​with raisins (flo)",1,Fisch & Fleisch,english,Glashaus,https://www.dasglashaus.at/menues,14.90
+Potal goulashzedin art (o),2,Vegetarisch,english,Glashaus,https://www.dasglashaus.at/menues,13.90
+Fascaled Laibchen with potato stomp (ACG),2,Fisch & Fleisch,english,Glashaus,https://www.dasglashaus.at/menues,14.90
+Brokkoli Quichemit Gorgonzola (ACG),3,Vegetarisch,english,Glashaus,https://www.dasglashaus.at/menues,13.90
+Chicken Schnitzel with a potato salad (acgmlo),3,Fisch & Fleisch,english,Glashaus,https://www.dasglashaus.at/menues,14.90
+Zucchini spinach gnocchi (AG),4,Vegetarisch,english,Glashaus,https://www.dasglashaus.at/menues,13.90
+Pink fried porkfilitime bacon coat with potato gratin (GLMO),4,Fisch & Fleisch,english,Glashaus,https://www.dasglashaus.at/menues,14.90
+Stone mushroom ravioli (Aglo),5,Vegetarisch,english,Glashaus,https://www.dasglashaus.at/menues,13.90
+Fried rice with wok vegetables and shrimp (acdglmo),5,Fisch & Fleisch,english,Glashaus,https://www.dasglashaus.at/menues,14.90
 "Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.",1,,,Das Campus Hot Stuff,https://www.facebook.com/dchotstuff,
 "Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.",2,,,Das Campus Hot Stuff,https://www.facebook.com/dchotstuff,
 "Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.",3,,,Das Campus Hot Stuff,https://www.facebook.com/dchotstuff,
