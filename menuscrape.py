@@ -420,7 +420,7 @@ def get_finn_menu():
             dish = clean_dish(dish)
             if type_ == 'MS':
                 type_ = 'M5'
-            if type_ in ['M1', 'M4', 'M5']:
+            if type_ in ['M3', 'M4']:
                 for day_number in [1, 2, 3, 4, 5]:
                     dish_list.append(
                         {'day': day_number, 'foodtype': type_, 'menu': dish, 'price': price})

@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-01-15 14:01:04_
+_Last Update: 2025-01-16 10:25:19_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -73,63 +73,7 @@ _Last Update: 2025-01-15 14:01:04_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Rollbraten Vom Spanferkel mit Semmelknödeln und Sauerkraut</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Teriyaki Ente mit Jasminreis und asiatischer Gurkensalat</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Truthan-gyros mit Reis und Tzatziki</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Pasta Frutti Di Mare mit Pecorino</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
       <td>Pasta Bolognese garnished with Parmesan</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Roll roast from the suckling pig with bread dumplings and sauerkraut</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Teriyaki duck with jasmine rice and Asian cucumber salad</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Truthahn gyros with rice and tzatziki</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Pasta Frutti di Mare with Pecorino</td>
       <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -145,6 +89,20 @@ _Last Update: 2025-01-15 14:01:04_
       <td>M2</td>
       <td>Gnocchi in a mushroom sauce veggie</td>
       <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Huhnerfleisch mn Pfeﬁersame md Rels</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Hill meat mn pfe ﬁ ﬁ ünsame md rels</td>
+      <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
@@ -417,13 +375,6 @@ _Last Update: 2025-01-15 14:01:04_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Pasta Bolognese garniert mit Parmesan</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
       <td>Rollbraten Vom Spanferkel mit Semmelknödeln und Sauerkraut</td>
       <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
@@ -431,56 +382,7 @@ _Last Update: 2025-01-15 14:01:04_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Teriyaki Ente mit Jasminreis und asiatischer Gurkensalat</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Truthan-gyros mit Reis und Tzatziki</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Pasta Frutti Di Mare mit Pecorino</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Pasta Bolognese garnished with Parmesan</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
       <td>Roll roast from the suckling pig with bread dumplings and sauerkraut</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Teriyaki duck with jasmine rice and Asian cucumber salad</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Truthahn gyros with rice and tzatziki</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Pasta Frutti di Mare with Pecorino</td>
       <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -496,6 +398,20 @@ _Last Update: 2025-01-15 14:01:04_
       <td>M2</td>
       <td>Vegan schnitzel with a potato salad vegan</td>
       <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Huhnerfleisch mn Pfeﬁersame md Rels</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Hill meat mn pfe ﬁ ﬁ ünsame md rels</td>
+      <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
@@ -768,20 +684,6 @@ _Last Update: 2025-01-15 14:01:04_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Pasta Bolognese garniert mit Parmesan</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Rollbraten Vom Spanferkel mit Semmelknödeln und Sauerkraut</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
       <td>Teriyaki Ente mit Jasminreis und asiatischer Gurkensalat</td>
       <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
@@ -789,49 +691,7 @@ _Last Update: 2025-01-15 14:01:04_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Truthan-gyros mit Reis und Tzatziki</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Pasta Frutti Di Mare mit Pecorino</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Pasta Bolognese garnished with Parmesan</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Roll roast from the suckling pig with bread dumplings and sauerkraut</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
       <td>Teriyaki duck with jasmine rice and Asian cucumber salad</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Truthahn gyros with rice and tzatziki</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Pasta Frutti di Mare with Pecorino</td>
       <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -847,6 +707,20 @@ _Last Update: 2025-01-15 14:01:04_
       <td>M2</td>
       <td>Lentil stew with couscous and M</td>
       <td>10.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Huhnerfleisch mn Pfeﬁersame md Rels</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Hill meat mn pfe ﬁ ﬁ ünsame md rels</td>
+      <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
@@ -1119,27 +993,6 @@ _Last Update: 2025-01-15 14:01:04_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Pasta Bolognese garniert mit Parmesan</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Rollbraten Vom Spanferkel mit Semmelknödeln und Sauerkraut</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Teriyaki Ente mit Jasminreis und asiatischer Gurkensalat</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
       <td>Truthan-gyros mit Reis und Tzatziki</td>
       <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
@@ -1147,42 +1000,7 @@ _Last Update: 2025-01-15 14:01:04_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Pasta Frutti Di Mare mit Pecorino</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Pasta Bolognese garnished with Parmesan</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Roll roast from the suckling pig with bread dumplings and sauerkraut</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Teriyaki duck with jasmine rice and Asian cucumber salad</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
       <td>Truthahn gyros with rice and tzatziki</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Pasta Frutti di Mare with Pecorino</td>
       <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -1197,6 +1015,20 @@ _Last Update: 2025-01-15 14:01:04_
       <td>Finn</td>
       <td>M2</td>
       <td>Vegetable coibs with sailing cups and young tedule</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Huhnerfleisch mn Pfeﬁersame md Rels</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Hill meat mn pfe ﬁ ﬁ ünsame md rels</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -1470,63 +1302,7 @@ _Last Update: 2025-01-15 14:01:04_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Pasta Bolognese garniert mit Parmesan</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Rollbraten Vom Spanferkel mit Semmelknödeln und Sauerkraut</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Teriyaki Ente mit Jasminreis und asiatischer Gurkensalat</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Truthan-gyros mit Reis und Tzatziki</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
       <td>Pasta Frutti Di Mare mit Pecorino</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Pasta Bolognese garnished with Parmesan</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Roll roast from the suckling pig with bread dumplings and sauerkraut</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Teriyaki duck with jasmine rice and Asian cucumber salad</td>
-      <td>10.0</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Truthahn gyros with rice and tzatziki</td>
       <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
