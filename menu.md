@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-01-17 10:01:03_
+_Last Update: 2025-01-19 19:01:18_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -164,28 +164,28 @@ _Last Update: 2025-01-17 10:01:03_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Pulled-Chicken Chimichanga: gebacken in Tomatensauce und Käse, serviert mit Reis und Guacamole, Salsa und Salat</td>
+      <td>Rindfleisch-Enchiladas: Reis, Bohnen, Guacamole, Salsa und Salat.</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Pulled-chicken Chimichanga: baked in tomato sauce and cheese, served with rice and guacamole, salsa and salad (A, G)MEAT€ 10,00</td>
+      <td>Beef Enchiladas: rice, beans, guacamole, salsa and lettuce. (A, F, G)MEAT€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Bohnen-Käse-Chimichanga: gebacken in Tomatensauce und Käse, serviert mit Reis und Guacamole, Salsa und Salat</td>
+      <td>Bohnen-Enchiladas: Reis, Bohnen, Guacamole, Salsa und Salat.</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Bean-cheese chimichanga: baked in tomato sauce and cheese, served with rice and guacamole, salsa and salad(A, G)VEGGIE€ 10,00</td>
+      <td>Bean Enchiladas: rice, beans, guacamole, salsa and lettuce.(A, F, G)VEGGIE€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -473,28 +473,28 @@ _Last Update: 2025-01-17 10:01:03_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Tomaten-Rinderbrust-Ragout auf Polenta: butteriger Polentabrei mit grünen Erbsen und Rinderragout und einem Joghurt-Gurken-Salat</td>
+      <td>Westafrikanische Erdnusssauce mit Hähnchen: geschmorte Hähnchenschenkel in Erdnusssauce, Karotten, Reis und Obstsalat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Tomato-breast beef ragout on polenta: buttery polenta porridge with green peas and beef ragout and a yogurt-cucumber salad (A, G, L)MEAT€ 10,00</td>
+      <td>West-african peanut sauce with chicken: braised chicken thighs in peanut sauce, carrots, rice and fruit salad (E)MEAT€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tomaten-Kichererbsen-Eintopf auf Polenta: butteriger Polentabrei mit Blumenkohl-Kichererbsen-Eintopf und Joghurt-Gurken-Salat</td>
+      <td>Westafrikanische Erdnusssauce: gegrillte Zucchini und Kichererbsen in Erdnusssauce, dazu Reis und Obstsalat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tomato-chickpeas stew on polenta: buttery polenta porridge with cauliflower and chickpea stew and a yogurt-cucumber salad (A, G, L)VEGGIE€ 10,00</td>
+      <td>West-african peanut sauce: grilled zucchini and chickpeas in peanut sauce, with rice and fruit salad (E)VEGGIE€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -782,28 +782,28 @@ _Last Update: 2025-01-17 10:01:03_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Pho-Nudelsuppe-Rind: Reisnudeln in Knochenbrühe mit Rindfleisch und frischen Kräutern</td>
+      <td>Rindfleischpfanne: Rindfleisch und Gemüse, sautiert in einer süßen Sesam-Sojasauce mit gedämpftem Reis und Frühlingsrollen</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Pho-noodle-soup-beef: rice noodles in bone broth with beef and fresh herbs (A, F)MEAT€ 10,00</td>
+      <td>Beef stir fry: beef and vegetables, sauteed in a sweet sesame-soya sauce with steamed rice and spring rolls. (A, B, L, N)MEAT€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tofu-Quinoa-Bowl: Gebackene Süßkartoffel, Tofu, Rotkohl, Karotten, Edamame und Miso-Avocado-Sauce</td>
+      <td>Tofu-Gemüsepfanne: gemischtes Gemüse, sautiert in einer süßen Sesam-Sojasauce mit gedämpftem Reis und Frühlingsrollen</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Pho-noodle-soup-tofu: rice noodles in beef bone broth with tofu and fresh herbs(A, F)VEGGIE€ 10,00</td>
+      <td>Tofu-vegetable stir fry: mixed vegetables, sauteed in a sweet sesame-soya sauce with steamed rice and spring rolls.(A, B, F, L, N)VEGGIE€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -1091,28 +1091,28 @@ _Last Update: 2025-01-17 10:01:03_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Chicken Tikka-Masala: Basmatireis, Naan und Mangojoghurt</td>
+      <td>Griechisches Bowl-Chicken: Bulgur-Tabbouleh, Gurken-Tomaten-Salat, gegrilltes Hähnchen, Feta, Hummus und Oliven</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Chicken tikka-masala: basmati rice, naan and mango yogurt ( A, C, F, N)MEAT€ 10,00</td>
+      <td>Greek bowl-chicken: bulgur-tabbouleh, cucumber-tomato salad, grilled chicken, feta, hummus and olive ( A, N)MEAT€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Spinat-Käse-Curry: Basmatireis, Naan und Mangojoghurt</td>
+      <td>Griechische Bowl-Falafel: Bulgur-Tabbouleh, Gurken-Tomaten-Salat, Falafel, Feta, Hummus und Oliven</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Spinach and cheese curry: basmati rice, naan and mango yogurt (A, C, F, N)VEGGIE€ 10,00</td>
+      <td>Greek bowl-falafel: bulgur-tabbouleh, cucumber-tomato salad, falafel, feta, hummus and olive. (A, N)VEGGIE€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -1400,28 +1400,28 @@ _Last Update: 2025-01-17 10:01:03_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Cremige Meeresfrüchte-Gnocchi: Garnelen-Alfredo-Sauce, Babyspinat auf Gnocchi und grüner Salat</td>
+      <td>Meeresfrüchte-Tomaten-Eintopf: Couscous und frischer grüner Salat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Creamy seafood gnocchi: shrimp-alfredo sauce, baby spinach on gnocchi and green salad ( A, B, G)MEAT€ 10,00</td>
+      <td>Seafood tomato-stew: couscous and fresh green salad ( A, B, G)MEAT€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Cremige Pilzgnocchi: Alfredo-Sauce, Babyspinat auf Gnocchi und grüner Salat</td>
+      <td>Cremige Gemüsenudeln: weiße Käsesauce, Gemüse, Nudeln und frischer grüner Salat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Creamy mushroom gnocchi: alfredo sauce, baby spinach on gnocchi and green salad (A, G)VEGGIE€ 10,00</td>
+      <td>Creamy vegetable pasta: white cheese sauce, vegetables, pasta and fresh green salad (A, G)VEGGIE€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>

@@ -109,26 +109,26 @@ Pizza Margherita Pizza Speciale,5,Pizza & Co,english,Mensa,https://www.wumensa.a
 Pizza Margherita Pizza Speciale,5,Bowls & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
 "Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge",5,Pasta & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
 Food Waste Day,5,Global & Grill,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Bohnen-Käse-Chimichanga: gebacken in Tomatensauce und Käse, serviert mit Reis und Guacamole, Salsa und Salat",1,Veggie,german,Library,https://lia.coffee,10.00
-"Bean-cheese chimichanga: baked in tomato sauce and cheese, served with rice and guacamole, salsa and salad(A, G)VEGGIE€ 10,00",1,Veggie,english,Library,https://lia.coffee,10.00
-"Pulled-Chicken Chimichanga: gebacken in Tomatensauce und Käse, serviert mit Reis und Guacamole, Salsa und Salat",1,Meat,german,Library,https://lia.coffee,10.00
-"Pulled-chicken Chimichanga: baked in tomato sauce and cheese, served with rice and guacamole, salsa and salad (A, G)MEAT€ 10,00",1,Meat,english,Library,https://lia.coffee,10.00
-Tomaten-Kichererbsen-Eintopf auf Polenta: butteriger Polentabrei mit Blumenkohl-Kichererbsen-Eintopf und Joghurt-Gurken-Salat,2,Veggie,german,Library,https://lia.coffee,10.00
-"Tomato-chickpeas stew on polenta: buttery polenta porridge with cauliflower and chickpea stew and a yogurt-cucumber salad (A, G, L)VEGGIE€ 10,00",2,Veggie,english,Library,https://lia.coffee,10.00
-Tomaten-Rinderbrust-Ragout auf Polenta: butteriger Polentabrei mit grünen Erbsen und Rinderragout und einem Joghurt-Gurken-Salat,2,Meat,german,Library,https://lia.coffee,10.00
-"Tomato-breast beef ragout on polenta: buttery polenta porridge with green peas and beef ragout and a yogurt-cucumber salad (A, G, L)MEAT€ 10,00",2,Meat,english,Library,https://lia.coffee,10.00
-"Tofu-Quinoa-Bowl: Gebackene Süßkartoffel, Tofu, Rotkohl, Karotten, Edamame und Miso-Avocado-Sauce",3,Veggie,german,Library,https://lia.coffee,10.00
-"Pho-noodle-soup-tofu: rice noodles in beef bone broth with tofu and fresh herbs(A, F)VEGGIE€ 10,00",3,Veggie,english,Library,https://lia.coffee,10.00
-Pho-Nudelsuppe-Rind: Reisnudeln in Knochenbrühe mit Rindfleisch und frischen Kräutern,3,Meat,german,Library,https://lia.coffee,10.00
-"Pho-noodle-soup-beef: rice noodles in bone broth with beef and fresh herbs (A, F)MEAT€ 10,00",3,Meat,english,Library,https://lia.coffee,10.00
-"Spinat-Käse-Curry: Basmatireis, Naan und Mangojoghurt",4,Veggie,german,Library,https://lia.coffee,10.00
-"Spinach and cheese curry: basmati rice, naan and mango yogurt (A, C, F, N)VEGGIE€ 10,00",4,Veggie,english,Library,https://lia.coffee,10.00
-"Chicken Tikka-Masala: Basmatireis, Naan und Mangojoghurt",4,Meat,german,Library,https://lia.coffee,10.00
-"Chicken tikka-masala: basmati rice, naan and mango yogurt ( A, C, F, N)MEAT€ 10,00",4,Meat,english,Library,https://lia.coffee,10.00
-"Cremige Pilzgnocchi: Alfredo-Sauce, Babyspinat auf Gnocchi und grüner Salat",5,Veggie,german,Library,https://lia.coffee,10.00
-"Creamy mushroom gnocchi: alfredo sauce, baby spinach on gnocchi and green salad (A, G)VEGGIE€ 10,00",5,Veggie,english,Library,https://lia.coffee,10.00
-"Cremige Meeresfrüchte-Gnocchi: Garnelen-Alfredo-Sauce, Babyspinat auf Gnocchi und grüner Salat",5,Meat,german,Library,https://lia.coffee,10.00
-"Creamy seafood gnocchi: shrimp-alfredo sauce, baby spinach on gnocchi and green salad ( A, B, G)MEAT€ 10,00",5,Meat,english,Library,https://lia.coffee,10.00
+"Bohnen-Enchiladas: Reis, Bohnen, Guacamole, Salsa und Salat.",1,Veggie,german,Library,https://lia.coffee,10.00
+"Bean Enchiladas: rice, beans, guacamole, salsa and lettuce.(A, F, G)VEGGIE€ 10,00",1,Veggie,english,Library,https://lia.coffee,10.00
+"Rindfleisch-Enchiladas: Reis, Bohnen, Guacamole, Salsa und Salat.",1,Meat,german,Library,https://lia.coffee,10.00
+"Beef Enchiladas: rice, beans, guacamole, salsa and lettuce. (A, F, G)MEAT€ 10,00",1,Meat,english,Library,https://lia.coffee,10.00
+"Westafrikanische Erdnusssauce: gegrillte Zucchini und Kichererbsen in Erdnusssauce, dazu Reis und Obstsalat",2,Veggie,german,Library,https://lia.coffee,10.00
+"West-african peanut sauce: grilled zucchini and chickpeas in peanut sauce, with rice and fruit salad (E)VEGGIE€ 10,00",2,Veggie,english,Library,https://lia.coffee,10.00
+"Westafrikanische Erdnusssauce mit Hähnchen: geschmorte Hähnchenschenkel in Erdnusssauce, Karotten, Reis und Obstsalat",2,Meat,german,Library,https://lia.coffee,10.00
+"West-african peanut sauce with chicken: braised chicken thighs in peanut sauce, carrots, rice and fruit salad (E)MEAT€ 10,00",2,Meat,english,Library,https://lia.coffee,10.00
+"Tofu-Gemüsepfanne: gemischtes Gemüse, sautiert in einer süßen Sesam-Sojasauce mit gedämpftem Reis und Frühlingsrollen",3,Veggie,german,Library,https://lia.coffee,10.00
+"Tofu-vegetable stir fry: mixed vegetables, sauteed in a sweet sesame-soya sauce with steamed rice and spring rolls.(A, B, F, L, N)VEGGIE€ 10,00",3,Veggie,english,Library,https://lia.coffee,10.00
+"Rindfleischpfanne: Rindfleisch und Gemüse, sautiert in einer süßen Sesam-Sojasauce mit gedämpftem Reis und Frühlingsrollen",3,Meat,german,Library,https://lia.coffee,10.00
+"Beef stir fry: beef and vegetables, sauteed in a sweet sesame-soya sauce with steamed rice and spring rolls. (A, B, L, N)MEAT€ 10,00",3,Meat,english,Library,https://lia.coffee,10.00
+"Griechische Bowl-Falafel: Bulgur-Tabbouleh, Gurken-Tomaten-Salat, Falafel, Feta, Hummus und Oliven",4,Veggie,german,Library,https://lia.coffee,10.00
+"Greek bowl-falafel: bulgur-tabbouleh, cucumber-tomato salad, falafel, feta, hummus and olive. (A, N)VEGGIE€ 10,00",4,Veggie,english,Library,https://lia.coffee,10.00
+"Griechisches Bowl-Chicken: Bulgur-Tabbouleh, Gurken-Tomaten-Salat, gegrilltes Hähnchen, Feta, Hummus und Oliven",4,Meat,german,Library,https://lia.coffee,10.00
+"Greek bowl-chicken: bulgur-tabbouleh, cucumber-tomato salad, grilled chicken, feta, hummus and olive ( A, N)MEAT€ 10,00",4,Meat,english,Library,https://lia.coffee,10.00
+"Cremige Gemüsenudeln: weiße Käsesauce, Gemüse, Nudeln und frischer grüner Salat",5,Veggie,german,Library,https://lia.coffee,10.00
+"Creamy vegetable pasta: white cheese sauce, vegetables, pasta and fresh green salad (A, G)VEGGIE€ 10,00",5,Veggie,english,Library,https://lia.coffee,10.00
+Meeresfrüchte-Tomaten-Eintopf: Couscous und frischer grüner Salat,5,Meat,german,Library,https://lia.coffee,10.00
+"Seafood tomato-stew: couscous and fresh green salad ( A, B, G)MEAT€ 10,00",5,Meat,english,Library,https://lia.coffee,10.00
 Pikante Stangensellerie-Suppe,1,Soup,german,Finn,https://finn.wien/collections/mittagsmenu,
 Pasta Bolognese garniert mit Parmesan,1,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
 Gnocchi in einer Schwammerlsauce Veggie,1,M2,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
