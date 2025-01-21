@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-01-20 10:01:01_
+_Last Update: 2025-01-21 14:01:08_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -17,30 +17,30 @@ _Last Update: 2025-01-20 10:01:01_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Crispy Chicken Burger   mit Pommes</td>
+      <td>Penne Bolognese  mit hausgemachter Fleischsoße, serviert   mit grünem Salat</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Crispy chicken burgers with fries</td>
+      <td>Penne Bolognese with homemade meat sauce, served with green salad</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Baschly Falafel Burger Falafel-Patty, Hummus, israelischer  Salat, Tahina-Soße, Burger-Bun,  Pommes)</td>
+      <td>Penne Arrabiata  mit würziger Tomatensoße und einem  Hauch Chili, serviert mit grünem Salat</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>BACHLY FALAFEL Burger Falafel-Patty, Hummus, Israeli Salad, Tafina-Sosse, Burger-Bun, French fries)</td>
+      <td>Penne Arrabiata with spicy tomato sauce and a hint of chilli, served with green salad</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -326,30 +326,30 @@ _Last Update: 2025-01-20 10:01:01_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Unser Special Beefburger Rindfleisch, Salat, Tomate,  Special-Soße, Pommes</td>
+      <td>Hühner-Schnitzel natur mit Reis  zartes Hühnerschnitzel und lockerem   Reis</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Our special beefburg beef, salad, tomato, special sauce, fries</td>
+      <td>Chicken schnitzel nature with rice tender chicken chicken and loose rice</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Beyond Meat Burger  Pflanzlicher Patty, Salat, Tomate, vegane Soße, Pommes</td>
+      <td>Orientalischer Gemüse- Kichererbsen-Eintopf herzhaft gewürzt, serviert mit Couscous</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Beyond Meat Burger plant -based patty, salad, tomato, vegan sauce, fries</td>
+      <td>Oriental vegetable chickpea stew seasoned heartily, served with couscous</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -487,7 +487,7 @@ _Last Update: 2025-01-20 10:01:01_
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Gemüselasagne(AGLO)</td>
+      <td>Gemüselasagne(AGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -663,30 +663,30 @@ _Last Update: 2025-01-20 10:01:01_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Shawarma Chicken Teller Hummus, Tahina, israelischer Salat,   Pita-Brot, Pommes</td>
+      <td>Oriental Beef Kebab Bowl  mit zartem Rindfleisch, Hummus,   Tahina und israelischem Salat</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Shawarma Chicken Hummus, Tafina, Israeli Salad, Pita bread, fries</td>
+      <td>Oriental Beef Kebab Bowl with delicate beef, hummus, tahina and Israeli salad</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Baschly Falafel Teller  Falafel, Hummus, israelischer Salat,  Petersilie, Tahina, Pita-Brot, Pommes</td>
+      <td>Hummus Sabich  mit Hummus, Melanzani, israelischem  Salat, 3 Falafel und Pita-Brot</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Baschly Falafel Tell Falafel, Hummus, Israeli Salad, Petersley, Tafina, Pita bread, fries</td>
+      <td>Hummus Sabich with hummus, Melanzani, Israeli salad, 3 Falafel and Pita bread</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -740,7 +740,7 @@ _Last Update: 2025-01-20 10:01:01_
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Hühnerschnitzelin Sesampanade mit Erdäpfel-Mayo-Salat (ACGMLNO)</td>
+      <td>Hühnerschnitzelin Sesampanade mit Erdäpfel-Mayo-Salat (ACGMLNO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -930,30 +930,30 @@ _Last Update: 2025-01-20 10:01:01_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Challah Chicken Schnitzel  Challah-Brot, Hummus, Tahina, Amba,   Melanzani, israelischer Salat, Pommes</td>
+      <td>Chicken Tikka Masala  auf Basmati-Reis  cremig gewürzt mit feinen  orientalischen Gewürzen</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Challah Chicken Schnitzel Challah-Bread, Hummus, Tafina, Amba, Melanzani, Israeli Salad, Fries</td>
+      <td>Chicken Tikka Masala on BASMATI-RISS CREMIG SHOUT THE THE FINES OF FINE OUTS</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Challah Veggie Schnitzel  Challah-Brot, Hummus, Tahina, Amba,  Melanzani, israelischer Salat, Pommes</td>
+      <td>Gefüllte Süßkartoffel  mit Wok-Gemüse und Tahini-Soße</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Challah Veggie Schnitzel Challah-Brot, Hummus, Tafina, Amba, Melanzani, Israeli Salad, Fries</td>
+      <td>Filled sweet potato with wok vegetables and tagini sauce</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -1063,14 +1063,14 @@ _Last Update: 2025-01-20 10:01:01_
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Thai-Wok-Nudelnmit Gemüse und Sojasauce (ACFLO)</td>
+      <td>Thai-Wok-Nudelnmit Gemüse und Sojasauce (ACFLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Thai-wok noodle with vegetables and soy sauce (acflo)</td>
+      <td>Thai wok noodle with vegetables and soy sauce (AC Flo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -1239,30 +1239,30 @@ _Last Update: 2025-01-20 10:01:01_
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Fish MEK Fisch-Patty, Salat, Tomate,   cremige Soße, Pommes</td>
+      <td>Fischfilet  mit Kartoffelsalat, goldbraun gebraten   und erfrischendem Kartoffelsalat</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Meat</td>
-      <td>Fish MEK Fisch-Patty, Salad, Tomate, creamy sauce, fries</td>
+      <td>Fish fillet with potato salad, fried golden brown and refreshing potato salad</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Baschly Falafel Teller  Falafel, Hummus, israelischer Salat,  Petersilie, Tahina, Pita-Brot, Pommes</td>
+      <td>Baschly Falafel Teller  mit Falafel, Hummus, israelischem Salat,  Tahina und Pita-Brot</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
-      <td>Baschly Falafel Tell Falafel, Hummus, Israeli Salad, Petersley, Tafina, Pita bread, fries</td>
+      <td>Baschly Falafel Telle with Falafel, Hummus, Israeli Salad, Tafina and Pita bread</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher.pdf">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -1358,7 +1358,7 @@ _Last Update: 2025-01-20 10:01:01_
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Fish & Chipsmit Erbsenpüree (ACDG)</td>
+      <td>Fish & Chipsmit Erbsenpüree (ACDG)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
