@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-01-22 10:00:49_
+_Last Update: 2025-01-23 10:01:10_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -1379,7 +1379,7 @@ _Last Update: 2025-01-22 10:00:49_
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Stone Mushroom Gorgonzola Arancini (GLO)</td>
+      <td>Stone mushroom gorgonzola Arancini (Glo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
