@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-01-25 13:01:10_
+_Last Update: 2025-01-26 14:00:50_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -164,28 +164,28 @@ _Last Update: 2025-01-25 13:01:10_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Rindfleisch-Enchiladas: Reis, Bohnen, Guacamole, Salsa und Salat.</td>
+      <td>Chili con Carne: Reis, Guacamole, Cheddar-Käse, Pommes und Salat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Beef Enchiladas: rice, beans, guacamole, salsa and lettuce. (A, F, G)MEAT€ 10,00</td>
+      <td>Chili con carne: rice, guacamole, cheddar cheese, chips and lettuce (A, G)MEAT€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Bohnen-Enchiladas: Reis, Bohnen, Guacamole, Salsa und Salat.</td>
+      <td>Chili-Bowl: Reis, Guacamole, Cheddar-Käse, Pommes und Salat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Bean Enchiladas: rice, beans, guacamole, salsa and lettuce.(A, F, G)VEGGIE€ 10,00</td>
+      <td>Chili bowl: rice, guacamole, cheddar cheese, chips and lettuce (A, F, G)VEGGIE€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -501,28 +501,28 @@ _Last Update: 2025-01-25 13:01:10_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Westafrikanische Erdnusssauce mit Hähnchen: geschmorte Hähnchenschenkel in Erdnusssauce, Karotten, Reis und Obstsalat</td>
+      <td>Hähnchenschnitzel: Bratkartoffeln, grüne Bohnen und Kohlsalat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>West-african peanut sauce with chicken: braised chicken thighs in peanut sauce, carrots, rice and fruit salad (E)MEAT€ 10,00</td>
+      <td>Chicken schnitzel: roasted potato, green beans and cabbage salad (E)MEAT€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Westafrikanische Erdnusssauce: gegrillte Zucchini und Kichererbsen in Erdnusssauce, dazu Reis und Obstsalat</td>
+      <td>Veggie-Patty: Bratkartoffeln, Soße, grüne Bohnen und Kohlsalat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>West-african peanut sauce: grilled zucchini and chickpeas in peanut sauce, with rice and fruit salad (E)VEGGIE€ 10,00</td>
+      <td>Veggie patty: roasted potato, gravy, green beans and cabbage salad (E)VEGGIE€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -768,28 +768,28 @@ _Last Update: 2025-01-25 13:01:10_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Rindfleischpfanne: Rindfleisch und Gemüse, sautiert in einer süßen Sesam-Sojasauce mit gedämpftem Reis und Frühlingsrollen</td>
+      <td>Beef Panang Curry: mit Rindfleisch, Gemüse, Reis und Naan-Brot</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Beef stir fry: beef and vegetables, sauteed in a sweet sesame-soya sauce with steamed rice and spring rolls. (A, B, L, N)MEAT€ 10,00</td>
+      <td>Beef panang curry: with beef, vegetables, rice and naan bread (C, E)MEAT€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tofu-Gemüsepfanne: gemischtes Gemüse, sautiert in einer süßen Sesam-Sojasauce mit gedämpftem Reis und Frühlingsrollen</td>
+      <td>Tofu-Panang-Curry: mit Tofu und Gemüse, Reis und Naan-Brot</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tofu-vegetable stir fry: mixed vegetables, sauteed in a sweet sesame-soya sauce with steamed rice and spring rolls.(A, B, F, L, N)VEGGIE€ 10,00</td>
+      <td>Tofu panang curry: with tofu and vegetables, rice and naan bread(C, E, F)VEGGIE€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -1077,28 +1077,28 @@ _Last Update: 2025-01-25 13:01:10_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Griechisches Bowl-Chicken: Bulgur-Tabbouleh, Gurken-Tomaten-Salat, gegrilltes Hähnchen, Feta, Hummus und Oliven</td>
+      <td>Gebratenes Hähnchenrisotto: Risotto, Erbsen, Hähnchen, Parmesan und Rucola</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Greek bowl-chicken: bulgur-tabbouleh, cucumber-tomato salad, grilled chicken, feta, hummus and olive ( A, N)MEAT€ 10,00</td>
+      <td>Roasted chicken risotto: risotto, peas, chicken, parmesan and rucola ( A, G)MEAT€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Griechische Bowl-Falafel: Bulgur-Tabbouleh, Gurken-Tomaten-Salat, Falafel, Feta, Hummus und Oliven</td>
+      <td>Kürbisrisotto: gegrillte Pilze, Kürbisrisotto und Rucola</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Greek bowl-falafel: bulgur-tabbouleh, cucumber-tomato salad, falafel, feta, hummus and olive. (A, N)VEGGIE€ 10,00</td>
+      <td>Pumpkin risotto: grilled mushromms, pumpkin risotto and rucola (A, G)VEGGIE€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -1386,28 +1386,28 @@ _Last Update: 2025-01-25 13:01:10_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Meeresfrüchte-Tomaten-Eintopf: Couscous und frischer grüner Salat</td>
+      <td>Fischknusperli: Pommes frites, Remoulade und Krautsalat</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Seafood tomato-stew: couscous and fresh green salad ( A, B, G)MEAT€ 10,00</td>
+      <td>Fish knusperli: french fries, tartar sauce and coleslaw ( A, G)MEAT€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Cremige Gemüsenudeln: weiße Käsesauce, Gemüse, Nudeln und frischer grüner Salat</td>
+      <td>Gebratener Blumenkohl, Pommes Frites, Remoulade und grüne Bohnen</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Creamy vegetable pasta: white cheese sauce, vegetables, pasta and fresh green salad (A, G)VEGGIE€ 10,00</td>
+      <td>Fried cauliflower, french fries, tartar sauce and green beans (A, G)VEGGIE€ 10,00</td>
       <td>10.00</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
