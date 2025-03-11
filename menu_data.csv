@@ -1,206 +1,204 @@
-menu,day,foodtype,language,location,source,price
-"Penne Bolognese  mit hausgemachter Fleischsoße, serviert   mit grünem Salat",1,Meat,german,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-Hühner-Schnitzel natur mit Reis  zartes Hühnerschnitzel und lockerem   Reis,2,Meat,german,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-"Oriental Beef Kebab Bowl  mit zartem Rindfleisch, Hummus,   Tahina und israelischem Salat",3,Meat,german,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-Chicken Tikka Masala  auf Basmati-Reis  cremig gewürzt mit feinen  orientalischen Gewürzen,4,Meat,german,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-"Fischfilet  mit Kartoffelsalat, goldbraun gebraten   und erfrischendem Kartoffelsalat",5,Meat,german,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-"Penne Arrabiata  mit würziger Tomatensoße und einem  Hauch Chili, serviert mit grünem Salat",1,Veggie,german,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-"Orientalischer Gemüse- Kichererbsen-Eintopf herzhaft gewürzt, serviert mit Couscous",2,Veggie,german,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-"Hummus Sabich  mit Hummus, Melanzani, israelischem  Salat, 3 Falafel und Pita-Brot",3,Veggie,german,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-Gefüllte Süßkartoffel  mit Wok-Gemüse und Tahini-Soße,4,Veggie,german,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-"Baschly Falafel Teller  mit Falafel, Hummus, israelischem Salat,  Tahina und Pita-Brot",5,Veggie,german,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-"Penne Bolognese with homemade meat sauce, served with green salad",1,Meat,english,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-Chicken schnitzel nature with rice tender chicken chicken and loose rice,2,Meat,english,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-"Oriental Beef Kebab Bowl with delicate beef, hummus, tahina and Israeli salad",3,Meat,english,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-Chicken Tikka Masala on BASMATI-RISS CREMIG SHOUT THE THE FINES OF FINE OUTS,4,Meat,english,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-"Fish fillet with potato salad, fried golden brown and refreshing potato salad",5,Meat,english,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-"Penne Arrabiata with spicy tomato sauce and a hint of chilli, served with green salad",1,Veggie,english,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-"Oriental vegetable chickpea stew seasoned heartily, served with couscous",2,Veggie,english,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-"Hummus Sabich with hummus, Melanzani, Israeli salad, 3 Falafel and Pita bread",3,Veggie,english,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-Filled sweet potato with wok vegetables and tagini sauce,4,Veggie,english,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-"Baschly Falafel Telle with Falafel, Hummus, Israeli Salad, Tafina and Pita bread",5,Veggie,english,Baschly,https://baschly.com/wpb/wp-content/uploads/2025/01/baschly-lunch-special-jan-2025-kosher-2025-01-20.pdf,
-"Klare Gemüsesuppe | Einlage A,C,G,L",1,Tagesuppe,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-laut Tagesaushang,1,Soup Deal,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Marrokanische Tajine mit Süsskartoffel, Karotten & Aprikosen | Chili Cous Cous A,L",1,Powered by plants 100% plant based or Veggie,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Köttbullar | Kartoffelpüree | Zuckererbsen | Jus A,C,G,L,M",1,Meaty,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Köttbullar | Kartoffelpüree | Zuckererbsen | Jus A,C,G,L,M",1,,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Pizza Margherita Pizza Speciale,1,Pizza & Co,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-,1,Bowls & Co,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis",1,Pasta & Co,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Philliy Turkey Cheese Steak Sandwich | Steakhouse Fries| Dip | Red Slaw A,G,L,H",1,Global & Grill,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Karfiolcremesuppe A,L",2,Tagesuppe,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Karfiolcremesuppe A,L",2,Soup Deal,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Geröstete Knödel mit Ei | Schnittlauch A,C,G",2,Powered by plants 100% plant based or Veggie,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Ungarisches Reisfleisch | Rote Paprikasauce L,2,Meaty,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Ungarisches Reisfleisch | Rote Paprikasauce L,2,,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Pizza Margherita Pizza Speciale,2,Pizza & Co,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Pizza Margherita Pizza Speciale,2,Bowls & Co,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis",2,Pasta & Co,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Souvlakispiesse vom Huhn | Grillgemüse | Curcumareis | Tsatsiki G,L",2,Global & Grill,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Klare Gemüsesuppe | Einlage A,C,G,L",3,Tagesuppe,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Klare Gemüsesuppe | Einlage A,C,G,L",3,Soup Deal,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Gemüserisotto | Ruccola & Sonnenblumenkerne A,O,L",3,Powered by plants 100% plant based or Veggie,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Gebackenes Hühnerschnitzel | Petersilkartoffel A,C,G",3,Meaty,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Gebackenes Hühnerschnitzel | Petersilkartoffel A,C,G",3,,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Pizza Margherita Pizza Speciale,3,Pizza & Co,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-,3,Bowls & Co,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis",3,Pasta & Co,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Bao Buns Pulled Pork oder Planted Pulled BBQ A,F,G",3,Global & Grill,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Kohlrabicremesuppe A,L",4,Tagesuppe,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Kohlrabicremesuppe A,L",4,Soup Deal,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Bunte Gemüse- Eblypfanne | Kräuter- Sojajoghurt A,F",4,Powered by plants 100% plant based or Veggie,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Schweinsbraten | Sauerkraut | Knödel A,C,G,L,O",4,Meaty,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Schweinsbraten | Sauerkraut | Knödel A,C,G,L,O",4,,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Pizza Margherita Pizza Speciale,4,Pizza & Co,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Pizza Margherita Pizza Speciale,4,Bowls & Co,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis",4,Pasta & Co,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Mensa Burger | Pommes Beef oder Planted 'Crispy Chicken style' A,G",4,Global & Grill,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Klare Gemüsesuppe | Einlage A,C,G,L",5,Tagesuppe,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Klare Gemüsesuppe | Einlage A,C,G,L",5,Soup Deal,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Chili Con Planted | Ciabatta A,F,L,M",5,Powered by plants 100% plant based or Veggie,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Gebackener Seelachs | Petersil-Erdäpfel | Sc. Tartare A,C,D,G,M",5,Meaty,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Gebackener Seelachs | Petersil-Erdäpfel | Sc. Tartare A,C,D,G,M",5,,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Pizza Margherita Pizza Speciale,5,Pizza & Co,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Pizza Margherita Pizza Speciale,5,Bowls & Co,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis",5,Pasta & Co,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Food Waste Day,5,Global & Grill,german,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Clear vegetable soup |Inlay A, C, G, L",1,Tagesuppe,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-According to the daylike,1,Soup Deal,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Moroccan tajine with sweet potato, carrots & apricots |Chili couscous a, l",1,Powered by plants 100% plant based or Veggie,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Köttbullar |Potato puree |Sugar peas |JUS A, C, G, L, M",1,Meaty,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Köttbullar |Potato puree |Sugar peas |JUS A, C, G, L, M",1,,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Pizza Margherita Pizza Speciale,1,Pizza & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-,1,Bowls & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge",1,Pasta & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Philly Turkey Cheese Steak Sandwich |Steakhouse Fries |DIP |Red Slaw A, G, L, H",1,Global & Grill,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Carfiol cream soup a, l",2,Tagesuppe,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Carfiol cream soup a, l",2,Soup Deal,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Roasted dumplings with egg |Chives A, C, G",2,Powered by plants 100% plant based or Veggie,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Hungarian rice meat |Red paprika sauce L,2,Meaty,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Hungarian rice meat |Red paprika sauce L,2,,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Pizza Margherita Pizza Speciale,2,Pizza & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Pizza Margherita Pizza Speciale,2,Bowls & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge",2,Pasta & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"SouvlakiSpiess from the chicken |Grill vegetables |Curcumareis |Tsatsiki g, l",2,Global & Grill,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Clear vegetable soup |Inlay A, C, G, L",3,Tagesuppe,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Clear vegetable soup |Inlay A, C, G, L",3,Soup Deal,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Vegetable Serisotto |Rucola and sunflower seeds A, O, L",3,Powered by plants 100% plant based or Veggie,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Baked chicken schnitzel |Petersil potato A, C, G",3,Meaty,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Baked chicken schnitzel |Petersil potato A, C, G",3,,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Pizza Margherita Pizza Speciale,3,Pizza & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-,3,Bowls & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge",3,Pasta & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Bao Buns Pulled Pork or Planted Pulled BBQ A, F, G",3,Global & Grill,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"KohlrabicRemesuppe A, L",4,Tagesuppe,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"KohlrabicRemesuppe A, L",4,Soup Deal,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Colorful vegetable EBLY pan |Herbal soy yogurt a, f",4,Powered by plants 100% plant based or Veggie,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Roast pork |Sauerkraut |Dumplings A, C, G, L, O",4,Meaty,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Roast pork |Sauerkraut |Dumplings A, C, G, L, O",4,,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Pizza Margherita Pizza Speciale,4,Pizza & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Pizza Margherita Pizza Speciale,4,Bowls & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge",4,Pasta & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Cafeteria burger |French fries beef or planted 'crispy chicken style' a, g",4,Global & Grill,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Clear vegetable soup |Inlay A, C, G, L",5,Tagesuppe,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Clear vegetable soup |Inlay A, C, G, L",5,Soup Deal,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Chili con planningCiabatta A, F, L, M",5,Powered by plants 100% plant based or Veggie,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Baked salmon |Petersil Erdäpfel |Sc.Tartare A, C, D, G, M",5,Meaty,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Baked salmon |Petersil Erdäpfel |Sc.Tartare A, C, D, G, M",5,,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Pizza Margherita Pizza Speciale,5,Pizza & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Pizza Margherita Pizza Speciale,5,Bowls & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge",5,Pasta & Co,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-Food Waste Day,5,Global & Grill,english,Mensa,https://www.wumensa.at/menuplan-deutsch,
-"Chili-Bowl: Reis, Guacamole, Cheddar-Käse, Chips und Salat",1,Veggie,german,Library,https://lia.coffee,10.00
-"Chili bowl: rice, guacamole, cheddar cheese, chips and lettuce (A, F, G)VEGGIE€ 10,00",1,Veggie,english,Library,https://lia.coffee,10.00
-"Chili con Carne: Reis, Guacamole, Cheddar-Käse, Chips und Salat",1,Meat,german,Library,https://lia.coffee,10.00
-"Chili con carne: rice, guacamole, cheddar cheese, chips and lettuce (A, G)MEAT€ 10,00",1,Meat,english,Library,https://lia.coffee,10.00
-"Veggie-Patty: Bratkartoffeln, Soße, grüne Bohnen und Kohlsalat",2,Veggie,german,Library,https://lia.coffee,10.00
-"Veggie patty: roasted potato, gravy, green beans and cabbage salad (E)VEGGIE€ 10,00",2,Veggie,english,Library,https://lia.coffee,10.00
-"Hähnchenschnitzel: Bratkartoffeln, grüne Bohnen und Kohlsalat",2,Meat,german,Library,https://lia.coffee,10.00
-"Chicken schnitzel: roasted potato, green beans and cabbage salad (E)MEAT€ 10,00",2,Meat,english,Library,https://lia.coffee,10.00
-"Tofu-Panang-Curry: mit Tofu und Gemüse, Reis und Naan-Brot",3,Veggie,german,Library,https://lia.coffee,10.00
-"Tofu panang curry: with tofu and vegetables, rice and naan bread(C, E, F)VEGGIE€ 10,00",3,Veggie,english,Library,https://lia.coffee,10.00
-"Beef Panang Curry: mit Rindfleisch, Gemüse, Reis und Naan-Brot",3,Meat,german,Library,https://lia.coffee,10.00
-"Beef panang curry: with beef, vegetables, rice and naan bread (C, E)MEAT€ 10,00",3,Meat,english,Library,https://lia.coffee,10.00
-"Kürbisrisotto: gegrillte Pilze, Kürbisrisotto und Rucola",4,Veggie,german,Library,https://lia.coffee,10.00
-"Pumpkin risotto: grilled mushromms, pumpkin risotto and rucola (A, G)VEGGIE€ 10,00",4,Veggie,english,Library,https://lia.coffee,10.00
-"Gebratenes Hähnchenrisotto: Risotto, Erbsen, Hähnchen, Parmesan und Rucola",4,Meat,german,Library,https://lia.coffee,10.00
-"Roasted chicken risotto: risotto, peas, chicken, parmesan and rucola ( A, G)MEAT€ 10,00",4,Meat,english,Library,https://lia.coffee,10.00
-"Gebratener Blumenkohl, Pommes Frites, Remoulade und grüne Bohnen",5,Veggie,german,Library,https://lia.coffee,10.00
-"Fried cauliflower, french fries, tartar sauce and green beans (A, G)VEGGIE€ 10,00",5,Veggie,english,Library,https://lia.coffee,10.00
-"Fischknusperli: Pommes frites, Remoulade und Krautsalat",5,Meat,german,Library,https://lia.coffee,10.00
-"Fish knusperli: french fries, tartar sauce and coleslaw ( A, G)MEAT€ 10,00",5,Meat,english,Library,https://lia.coffee,10.00
-Kohlrabisuppe,1,Soup,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Geschmorter Kalbstafelspitz mit Schupfnudeln,1,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Vegetarische Bolognese mit Parmesan und Pesto Veggie,1,M2,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Gemuse Elerstlch—,2,Soup,german,Finn,https://finn.wien/collections/mittagsmenu,
-Butter Chicken mit Rosinenreis und Cashewcreme,2,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Gnocchi mit Österkron-Spinat-Sauce Veggie,2,M2,german,Finn,https://finn.wien/collections/mittagsmenu,
-Elngemachte Gneßsuppe,3,Soup,german,Finn,https://finn.wien/collections/mittagsmenu,
-Pad Kra Pao vom Schwein mit Jasminreis und Spiegelei,3,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Karamellisierte Krautfleckerl Veggie,3,M2,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Zucchlnlcremesuppe,4,Soup,german,Finn,https://finn.wien/collections/mittagsmenu,4.5
-Maishendl mit Letscho und Erdäpfelpüree,4,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Kärntner Kasnudeln in brauner Minzbutter Veggie,4,M2,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Französische Zwiebelsuppe mit Käsecroutons,5,Soup,german,Finn,https://finn.wien/collections/mittagsmenu,
-Gegrillte Dorade mit Salbeibutter und Sauce Hollandaise,5,M1,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Erdäpfelgulasch mit Baguette Vegan,5,M2,german,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Karaage Bento,1,M3,german,Finn,https://finn.wien/collections/mittagsmenu,
-Karaage Bento,2,M3,german,Finn,https://finn.wien/collections/mittagsmenu,
-Karaage Bento,3,M3,german,Finn,https://finn.wien/collections/mittagsmenu,
-Karaage Bento,4,M3,german,Finn,https://finn.wien/collections/mittagsmenu,
-Karaage Bento,5,M3,german,Finn,https://finn.wien/collections/mittagsmenu,
-Hühner Gyoza mit Reis und Salat,1,ASIA BOX TO GO,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Hühner Gyoza mit Reis und Salat,2,ASIA BOX TO GO,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Hühner Gyoza mit Reis und Salat,3,ASIA BOX TO GO,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Hühner Gyoza mit Reis und Salat,4,ASIA BOX TO GO,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Hühner Gyoza mit Reis und Salat,5,ASIA BOX TO GO,german,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Coal,1,Soup,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Braied veal iron spitz with Schupfnudeln,1,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Vegetarian Bolognese with Parmesan and Pesto veggie,1,M2,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Vegetable egg cocks,2,Soup,english,Finn,https://finn.wien/collections/mittagsmenu,
-Butter chicken with raisin rice and cashew cream,2,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Gnocchi with Austrian spinach sauce veggie,2,M2,english,Finn,https://finn.wien/collections/mittagsmenu,
-Gneß soup,3,Soup,english,Finn,https://finn.wien/collections/mittagsmenu,
-Pad Kra Pao from the pig with jasmine rice and fried egg,3,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Caramelized herb fleckerl veggie,3,M2,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Zucchlnlcremes soup,4,Soup,english,Finn,https://finn.wien/collections/mittagsmenu,4.5
-Maishendl with Letscho and potato puree,4,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Carinthian Kasnudeln in brown mint butter veggie,4,M2,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
-French onion soup with cheese croutons,5,Soup,english,Finn,https://finn.wien/collections/mittagsmenu,
-Grilled dorade with sage butter and sauce hollandaise,5,M1,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Potal goulash with baguette vegan,5,M2,english,Finn,https://finn.wien/collections/mittagsmenu,10.0
-Karaage Bento,1,M3,english,Finn,https://finn.wien/collections/mittagsmenu,
-Karaage Bento,2,M3,english,Finn,https://finn.wien/collections/mittagsmenu,
-Karaage Bento,3,M3,english,Finn,https://finn.wien/collections/mittagsmenu,
-Karaage Bento,4,M3,english,Finn,https://finn.wien/collections/mittagsmenu,
-Karaage Bento,5,M3,english,Finn,https://finn.wien/collections/mittagsmenu,
-Chickens Gyoza with rice and salad,1,ASIA BOX TO GO,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Chickens Gyoza with rice and salad,2,ASIA BOX TO GO,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Chickens Gyoza with rice and salad,3,ASIA BOX TO GO,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Chickens Gyoza with rice and salad,4,ASIA BOX TO GO,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Chickens Gyoza with rice and salad,5,ASIA BOX TO GO,english,Finn,https://finn.wien/collections/mittagsmenu,5.9
-Rote Linsen Dalmit Naan Brot(AGLO),1,Vegetarisch,german,Glashaus,https://www.dasglashaus.at/menues,13.90
-Paprikahendlmit Nockerl (ACGLO),1,Fisch & Fleisch,german,Glashaus,https://www.dasglashaus.at/menues,14.90
-Eiernockerlmit Blattsalat (ACGMLO),2,Vegetarisch,german,Glashaus,https://www.dasglashaus.at/menues,13.90
-Griechisches Moussaka(G),2,Fisch & Fleisch,german,Glashaus,https://www.dasglashaus.at/menues,14.90
-Spanakopita– griechischer Spinatstrudel (AG),3,Vegetarisch,german,Glashaus,https://www.dasglashaus.at/menues,13.90
-Cordon Bleumit Petersilienerdäpfeln (ACGM),3,Fisch & Fleisch,german,Glashaus,https://www.dasglashaus.at/menues,14.90
-Schwammerl à la Crèmemit Serviettenknödel (ACFLO),4,Vegetarisch,german,Glashaus,https://www.dasglashaus.at/menues,13.90
-Hühnerfilet Italianamit Basmati Reis (GLO),4,Fisch & Fleisch,german,Glashaus,https://www.dasglashaus.at/menues,14.90
-Gemüsestrudelmit Blattsalat (ACGMLO),5,Vegetarisch,german,Glashaus,https://www.dasglashaus.at/menues,13.90
-Fish & Chipsmit Erbsenpüree (ACDG),5,Fisch & Fleisch,german,Glashaus,https://www.dasglashaus.at/menues,14.90
-Red lenses Dal with Naan Brot (Aglo),1,Vegetarisch,english,Glashaus,https://www.dasglashaus.at/menues,13.90
-Paprikaendlmit Nockerl (Aclo),1,Fisch & Fleisch,english,Glashaus,https://www.dasglashaus.at/menues,14.90
-Eierockerl with leaf salad (aclo),2,Vegetarisch,english,Glashaus,https://www.dasglashaus.at/menues,13.90
-Greek Moussaka (G),2,Fisch & Fleisch,english,Glashaus,https://www.dasglashaus.at/menues,14.90
-Spanakopita - Greek spinach rudel (AG),3,Vegetarisch,english,Glashaus,https://www.dasglashaus.at/menues,13.90
-Cordon Bleumit parsley apples (ACGM),3,Fisch & Fleisch,english,Glashaus,https://www.dasglashaus.at/menues,14.90
-Schwammerl à la crèmemit napkin dumplings (acflo),4,Vegetarisch,english,Glashaus,https://www.dasglashaus.at/menues,13.90
-Chicken fillet Italianamit Basmati Reis (Glo),4,Fisch & Fleisch,english,Glashaus,https://www.dasglashaus.at/menues,14.90
-Vegetable strudel with leaf salad (acgmlo),5,Vegetarisch,english,Glashaus,https://www.dasglashaus.at/menues,13.90
-Fish & Chipsmit Erbsen puree (ACDG),5,Fisch & Fleisch,english,Glashaus,https://www.dasglashaus.at/menues,14.90
-"Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.",1,,,Das Campus Hot Stuff,https://www.facebook.com/dchotstuff,
-"Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.",2,,,Das Campus Hot Stuff,https://www.facebook.com/dchotstuff,
-"Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.",3,,,Das Campus Hot Stuff,https://www.facebook.com/dchotstuff,
-"Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.",4,,,Das Campus Hot Stuff,https://www.facebook.com/dchotstuff,
-"Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.",5,,,Das Campus Hot Stuff,https://www.facebook.com/dchotstuff,
+foodtype,menu,language,location,day,source,price
+Meat,Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.,english,Baschly,1,https://baschly.com/wpb/wp-content/uploads/2025/03/baschly-lunch-special-jan-2025-03-10.jpg,
+Veggie,Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.,english,Baschly,2,https://baschly.com/wpb/wp-content/uploads/2025/03/baschly-lunch-special-jan-2025-03-10.jpg,
+Meat,Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.,english,Baschly,3,https://baschly.com/wpb/wp-content/uploads/2025/03/baschly-lunch-special-jan-2025-03-10.jpg,
+Veggie,Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.,english,Baschly,4,https://baschly.com/wpb/wp-content/uploads/2025/03/baschly-lunch-special-jan-2025-03-10.jpg,
+Meat,Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.,english,Baschly,5,https://baschly.com/wpb/wp-content/uploads/2025/03/baschly-lunch-special-jan-2025-03-10.jpg,
+Veggie,Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.,english,Baschly,1,https://baschly.com/wpb/wp-content/uploads/2025/03/baschly-lunch-special-jan-2025-03-10.jpg,
+Meat,Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.,english,Baschly,2,https://baschly.com/wpb/wp-content/uploads/2025/03/baschly-lunch-special-jan-2025-03-10.jpg,
+Veggie,Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.,english,Baschly,3,https://baschly.com/wpb/wp-content/uploads/2025/03/baschly-lunch-special-jan-2025-03-10.jpg,
+Meat,Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.,english,Baschly,4,https://baschly.com/wpb/wp-content/uploads/2025/03/baschly-lunch-special-jan-2025-03-10.jpg,
+Veggie,Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.,english,Baschly,5,https://baschly.com/wpb/wp-content/uploads/2025/03/baschly-lunch-special-jan-2025-03-10.jpg,
+Tagesuppe,"Klare Gemüsesuppe | Einlage A,C,G,L",german,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+Soup Deal,laut Tagesaushang,german,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+Powered by plants 100% plant based or Veggie,"Marrokanische Tajine mit Süsskartoffel, Karotten & Aprikosen | Chili Cous Cous A,L",german,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+,"Köttbullar | Kartoffelpüree | Zuckererbsen | Jus A,C,G,L,M",german,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+,"Köttbullar | Kartoffelpüree | Zuckererbsen | Jus A,C,G,L,M",german,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+Pizza & Co,Pizza Margherita Pizza Speciale,german,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+Bowls & Co,,german,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+Pasta & Co,"Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis",german,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+Global & Grill,"Philliy Turkey Cheese Steak Sandwich | Steakhouse Fries| Dip | Red Slaw A,G,L,H",german,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+Tagesuppe,"Karfiolcremesuppe A,L",german,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+Soup Deal,"Karfiolcremesuppe A,L",german,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+Powered by plants 100% plant based or Veggie,"Geröstete Knödel mit Ei | Schnittlauch A,C,G",german,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+,Ungarisches Reisfleisch | Rote Paprikasauce L,german,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+,Ungarisches Reisfleisch | Rote Paprikasauce L,german,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+Pizza & Co,Pizza Margherita Pizza Speciale,german,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+Bowls & Co,Pizza Margherita Pizza Speciale,german,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+Pasta & Co,"Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis",german,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+Global & Grill,"Souvlakispiesse vom Huhn | Grillgemüse | Curcumareis | Tsatsiki G,L",german,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+Tagesuppe,"Klare Gemüsesuppe | Einlage A,C,G,L",german,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+Soup Deal,"Klare Gemüsesuppe | Einlage A,C,G,L",german,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+Powered by plants 100% plant based or Veggie,"Bärlauch-Gemüserisotto | Ruccola & Sonnenblumenkerne A,O,L",german,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+,"Gebackenes Hühnerschnitzel | Petersilkartoffel A,C,G",german,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+,"Gebackenes Hühnerschnitzel | Petersilkartoffel A,C,G",german,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+Pizza & Co,Pizza Margherita Pizza Speciale,german,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+Bowls & Co,,german,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+Pasta & Co,"Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis",german,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+Global & Grill,"Bao Buns Pulled Pork oder Planted Pulled BBQ A,F,G",german,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+Tagesuppe,"Kohlrabicremesuppe A,L",german,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+Soup Deal,"Kohlrabicremesuppe A,L",german,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+Powered by plants 100% plant based or Veggie,"Erdnuss-Gemüse-Curry | Basmatireis E,F,L,N",german,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+,"Schweinsbraten | Sauerkraut | Knödel A,C,G,L,O",german,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+,"Schweinsbraten | Sauerkraut | Knödel A,C,G,L,O",german,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+Pizza & Co,Pizza Margherita Pizza Speciale,german,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+Bowls & Co,Pizza Margherita Pizza Speciale,german,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+Pasta & Co,"Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis",german,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+Global & Grill,"Mensa Burger | Pommes Beef oder Planted 'Crispy Chicken style' A,G",german,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+Tagesuppe,"Klare Gemüsesuppe | Einlage A,C,G,L",german,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+Soup Deal,"Klare Gemüsesuppe | Einlage A,C,G,L",german,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+Powered by plants 100% plant based or Veggie,"Chili Con Planted | Ciabatta A,F,L,M",german,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+,"Gebackener Seelachs | Petersil-Erdäpfel | Sc. Tartare A,C,D,G,M",german,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+,"Gebackener Seelachs | Petersil-Erdäpfel | Sc. Tartare A,C,D,G,M",german,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+Pizza & Co,Pizza Margherita Pizza Speciale,german,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+Bowls & Co,Pizza Margherita Pizza Speciale,german,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+Pasta & Co,"Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis",german,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+Global & Grill,Food Waste Day,german,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+Tagesuppe,"Clear vegetable soup |Inlay A, C, G, L",english,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+Soup Deal,According to the daylike,english,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+Powered by plants 100% plant based or Veggie,"Moroccan tajine with sweet potato, carrots & apricots |Chili couscous a, l",english,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+,"Köttbullar |Potato puree |Sugar peas |JUS A, C, G, L, M",english,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+,"Köttbullar |Potato puree |Sugar peas |JUS A, C, G, L, M",english,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+Pizza & Co,Pizza Margherita Pizza Speciale,english,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+Bowls & Co,,english,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+Pasta & Co,"Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge",english,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+Global & Grill,"Philly Turkey Cheese Steak Sandwich |Steakhouse Fries |DIP |Red Slaw A, G, L, H",english,Mensa,1,https://www.wumensa.at/menuplan-deutsch,
+Tagesuppe,"Carfiol cream soup a, l",english,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+Soup Deal,"Carfiol cream soup a, l",english,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+Powered by plants 100% plant based or Veggie,"Roasted dumplings with egg |Chives A, C, G",english,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+,Hungarian rice meat |Red paprika sauce L,english,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+,Hungarian rice meat |Red paprika sauce L,english,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+Pizza & Co,Pizza Margherita Pizza Speciale,english,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+Bowls & Co,Pizza Margherita Pizza Speciale,english,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+Pasta & Co,"Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge",english,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+Global & Grill,"SouvlakiSpiess from the chicken |Grill vegetables |Curcumareis |Tsatsiki g, l",english,Mensa,2,https://www.wumensa.at/menuplan-deutsch,
+Tagesuppe,"Clear vegetable soup |Inlay A, C, G, L",english,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+Soup Deal,"Clear vegetable soup |Inlay A, C, G, L",english,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+Powered by plants 100% plant based or Veggie,"Bärlauch-vegetable risotto |Rucola and sunflower seeds A, O, L",english,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+,"Baked chicken schnitzel |Petersil potato A, C, G",english,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+,"Baked chicken schnitzel |Petersil potato A, C, G",english,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+Pizza & Co,Pizza Margherita Pizza Speciale,english,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+Bowls & Co,,english,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+Pasta & Co,"Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge",english,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+Global & Grill,"Bao Buns Pulled Pork or Planted Pulled BBQ A, F, G",english,Mensa,3,https://www.wumensa.at/menuplan-deutsch,
+Tagesuppe,"KohlrabicRemesuppe A, L",english,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+Soup Deal,"KohlrabicRemesuppe A, L",english,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+Powered by plants 100% plant based or Veggie,"Olaby vegetable curry |Basmatireis e, f, l, n",english,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+,"Roast pork |Sauerkraut |Dumplings A, C, G, L, O",english,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+,"Roast pork |Sauerkraut |Dumplings A, C, G, L, O",english,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+Pizza & Co,Pizza Margherita Pizza Speciale,english,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+Bowls & Co,Pizza Margherita Pizza Speciale,english,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+Pasta & Co,"Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge",english,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+Global & Grill,"Cafeteria burger |French fries beef or planted 'crispy chicken style' a, g",english,Mensa,4,https://www.wumensa.at/menuplan-deutsch,
+Tagesuppe,"Clear vegetable soup |Inlay A, C, G, L",english,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+Soup Deal,"Clear vegetable soup |Inlay A, C, G, L",english,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+Powered by plants 100% plant based or Veggie,"Chili con planningCiabatta A, F, L, M",english,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+,"Baked salmon |Petersil Erdäpfel |Sc.Tartare A, C, D, G, M",english,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+,"Baked salmon |Petersil Erdäpfel |Sc.Tartare A, C, D, G, M",english,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+Pizza & Co,Pizza Margherita Pizza Speciale,english,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+Bowls & Co,Pizza Margherita Pizza Speciale,english,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+Pasta & Co,"Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge",english,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+Global & Grill,Food Waste Day,english,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
+Veggie,"Gegrillte Tofu-Mais-Tacos:Mexikanischer Reis, gem. Bohnenpüree und frische Salsa mit Koriander",german,Library,1,https://lia.coffee,10.00
+Veggie,"Grilled Tofu-Corn-Tacos with rice, mixed bean puree and fresh salsa with cilantro (A, G)VEGGIE€ 10,00",english,Library,1,https://lia.coffee,10.00
+Meat,"Carna Asada (Rind) Mais-Tacos:Mexikanischer Reis, gem. Bohnenpüree und frische Salsa mit Koriander",german,Library,1,https://lia.coffee,10.00
+Meat,"Carne Asada (Beef) Corn-Tacos with rice, mixed bean puree and fresh salsa with cilantro (A,G)MEAT€ 10,00",english,Library,1,https://lia.coffee,10.00
+Veggie,"Sauce Arachide mit Zucchini:Westafrikanische Erdnusssoße mit Zucchini, Karotten, Blumenkohl und gedämpftem Reis",german,Library,2,https://lia.coffee,10.00
+Veggie,"Sauce Arachide with zucchini: West African peanut sauce with zucchini, carrots, cauliflower and steamed rice (E)VEGGIE€ 10,00",english,Library,2,https://lia.coffee,10.00
+Meat,"Sauce Arachide mit Huhn:Westafrikanische Erdnusssoße mit Hühnerkeule, Karotten, Blumenkohl und gedämpftem Reis",german,Library,2,https://lia.coffee,10.00
+Meat,"Sauce Arachide with chicken: West African peanut sauce with chicken thighs, carrots, cauliflower and steamed rice (E)MEAT€ 10,00",english,Library,2,https://lia.coffee,10.00
+Veggie,"Frühlings-Buddha-Bowl:Quinoa-Spargel mit Kichererbsen, Fetakäse, Salatblätter und Avocado-Sahnesoße",german,Library,3,https://lia.coffee,10.00
+Veggie,"Spring Buddha Bowl: Quinoa-asparagus-herb salad with chickpeas, Feta cheese, greens and avocado cream sauce (G)VEGGIE€ 10,00",english,Library,3,https://lia.coffee,10.00
+Meat,"Frühlings-Buddha-Bowl mit Hähnchenstreifen:Quinoa-Spargel mit Kichererbsen, Fetakäse, Salatblätter und Avocado-Sahne-Sauce",german,Library,3,https://lia.coffee,10.00
+Meat,"Spring Buddha Bowl with chicken strips: Quinoa-asparagus-herb salad with chickpeas, Feta cheese, greens, and avocado cream sauce (G)MEAT€ 10,00",english,Library,3,https://lia.coffee,10.00
+Veggie,"Bún Chả Giò:Vietnamesisches Gericht mit knusprig gebratenen Frühlingsrollen (chảgiò), serviert auf Vermicelli-Nudeln (bún) mit frischen Kräutern, Gemüse und einer würzigen nước chấm (vietnamesische Dip-Sauce) mit Koriander",german,Library,4,https://lia.coffee,10.00
+Veggie,"Bún Chả Giò: a Vietnamese dish featuring crispy fried Spring Rolls (chả giò) served over Vermicelli Noodles (bún) with fresh Herbs, Vegetables, and a flavorful nước chấm (Vietnamese dipping sauce) with Cilantro (D, E, F, G, N)VEGGIE€ 10,00",english,Library,4,https://lia.coffee,10.00
+Meat,"Bún Chả Giò Tôm Nướng:Vietnamesisches Gericht mit gegrillten Garnelen, knusprig gebratenen Frühlingsrollen (chả giò), serviert auf Vermicelli-Nudeln (bún) mit frischen Kräutern, Gemüse und einer würzigen nước chấm (vietnamesische Dip-Sauce) mit Koriander",german,Library,4,https://lia.coffee,10.00
+Meat,"Bún Chả Giò Tôm Nướng: a Vietnamese dish featuring grilled Shrimp, crispy fried Spring Rolls (chả giò) served over Vermicelli Noodles (bún) with fresh Herbs, Vegetables, and a flavorful nước chấm (Vietnamese dipping sauce) with Cilantro (D, E, F, G, N)MEAT€ 10,00",english,Library,4,https://lia.coffee,10.00
+Veggie,Kücheninspiration: Das heutige Menü wird spontan vom Koch zusammengestellt,german,Library,5,https://lia.coffee,10.00
+Veggie,"Kitchen Inspiration: today´s menu will be crafted spontaneously by the ChefVEGGIE€ 10,00",english,Library,5,https://lia.coffee,10.00
+Meat,Kücheninspiration: Das heutige Menü wird spontan vom Koch zusammengestellt,german,Library,5,https://lia.coffee,10.00
+Meat,"Kitchen Inspiration: today´s menu will be crafted spontaneously by the ChefMEAT€ 10,00",english,Library,5,https://lia.coffee,10.00
+Soup,Kohlrabicremesuppe,german,Finn,1,https://finn.wien/collections/mittagsmenu,
+M1,Pasta Bolognese mit Parmesan und Basilikum,german,Finn,1,https://finn.wien/collections/mittagsmenu,
+M2,Preiselbeeren,german,Finn,1,https://finn.wien/collections/mittagsmenu,
+M1,Sauerampfer,german,Finn,1,https://finn.wien/collections/mittagsmenu,
+M2,Kichererbsen-karfiol-eintopf mit Paradeisbulgur,german,Finn,1,https://finn.wien/collections/mittagsmenu,
+Soup,Pikante Bohnensuppe,german,Finn,3,https://finn.wien/collections/mittagsmenu,
+M1,Spareribs mit Braterdäpfeln,german,Finn,3,https://finn.wien/collections/mittagsmenu,
+M2,Karamellisierte Krautfleckerl,german,Finn,3,https://finn.wien/collections/mittagsmenu,
+Soup,Zucchinicremesuppe,german,Finn,4,https://finn.wien/collections/mittagsmenu,
+M1,Geschmorter Tafelspitz mit Schupfnudeln,german,Finn,4,https://finn.wien/collections/mittagsmenu,
+M2,Sauce Tartare Veggie,german,Finn,4,https://finn.wien/collections/mittagsmenu,
+Soup,Gemüse-Eierstich-Suppe,german,Finn,5,https://finn.wien/collections/mittagsmenu,
+M1,Pulpo-garnelen-grillteller mit Braterdäpfel und Aioli,german,Finn,5,https://finn.wien/collections/mittagsmenu,
+M2,Erdäpfelgulasch mit Weißbrot,german,Finn,5,https://finn.wien/collections/mittagsmenu,
+M3,California Maki Bento,german,Finn,1,https://finn.wien/collections/mittagsmenu,
+M3,California Maki Bento,german,Finn,2,https://finn.wien/collections/mittagsmenu,
+M3,California Maki Bento,german,Finn,3,https://finn.wien/collections/mittagsmenu,
+M3,California Maki Bento,german,Finn,4,https://finn.wien/collections/mittagsmenu,
+M3,California Maki Bento,german,Finn,5,https://finn.wien/collections/mittagsmenu,
+M4,Lachs Bento,german,Finn,1,https://finn.wien/collections/mittagsmenu,
+M4,Lachs Bento,german,Finn,2,https://finn.wien/collections/mittagsmenu,
+M4,Lachs Bento,german,Finn,3,https://finn.wien/collections/mittagsmenu,
+M4,Lachs Bento,german,Finn,4,https://finn.wien/collections/mittagsmenu,
+M4,Lachs Bento,german,Finn,5,https://finn.wien/collections/mittagsmenu,
+ASIA BOX TO GO,,german,Finn,1,https://finn.wien/collections/mittagsmenu,
+ASIA BOX TO GO,,german,Finn,2,https://finn.wien/collections/mittagsmenu,
+ASIA BOX TO GO,,german,Finn,3,https://finn.wien/collections/mittagsmenu,
+ASIA BOX TO GO,,german,Finn,4,https://finn.wien/collections/mittagsmenu,
+ASIA BOX TO GO,,german,Finn,5,https://finn.wien/collections/mittagsmenu,
+Soup,Coal,english,Finn,1,https://finn.wien/collections/mittagsmenu,
+M1,Pasta Bolognese with Parmesan and basil,english,Finn,1,https://finn.wien/collections/mittagsmenu,
+M2,Cranberries,english,Finn,1,https://finn.wien/collections/mittagsmenu,
+M1,sorrel,english,Finn,1,https://finn.wien/collections/mittagsmenu,
+M2,Chickpeas carfiol stew with a paradeisbulgur,english,Finn,1,https://finn.wien/collections/mittagsmenu,
+Soup,Spicy bean soup,english,Finn,3,https://finn.wien/collections/mittagsmenu,
+M1,Spare ribs with brater shocks,english,Finn,3,https://finn.wien/collections/mittagsmenu,
+M2,Caramelized herb stain,english,Finn,3,https://finn.wien/collections/mittagsmenu,
+Soup,Zucchini,english,Finn,4,https://finn.wien/collections/mittagsmenu,
+M1,Braied tapper with Schupfnudeln,english,Finn,4,https://finn.wien/collections/mittagsmenu,
+M2,Sauce Tartare veggie,english,Finn,4,https://finn.wien/collections/mittagsmenu,
+Soup,Vegetable egg stitch soup,english,Finn,5,https://finn.wien/collections/mittagsmenu,
+M1,Pulpo shrimp grill plate with brateral apples and Aioli,english,Finn,5,https://finn.wien/collections/mittagsmenu,
+M2,Potal goulash with white bread,english,Finn,5,https://finn.wien/collections/mittagsmenu,
+M3,California Maki Bento,english,Finn,1,https://finn.wien/collections/mittagsmenu,
+M3,California Maki Bento,english,Finn,2,https://finn.wien/collections/mittagsmenu,
+M3,California Maki Bento,english,Finn,3,https://finn.wien/collections/mittagsmenu,
+M3,California Maki Bento,english,Finn,4,https://finn.wien/collections/mittagsmenu,
+M3,California Maki Bento,english,Finn,5,https://finn.wien/collections/mittagsmenu,
+M4,Salmon Bento,english,Finn,1,https://finn.wien/collections/mittagsmenu,
+M4,Salmon Bento,english,Finn,2,https://finn.wien/collections/mittagsmenu,
+M4,Salmon Bento,english,Finn,3,https://finn.wien/collections/mittagsmenu,
+M4,Salmon Bento,english,Finn,4,https://finn.wien/collections/mittagsmenu,
+M4,Salmon Bento,english,Finn,5,https://finn.wien/collections/mittagsmenu,
+ASIA BOX TO GO,,english,Finn,1,https://finn.wien/collections/mittagsmenu,
+ASIA BOX TO GO,,english,Finn,2,https://finn.wien/collections/mittagsmenu,
+ASIA BOX TO GO,,english,Finn,3,https://finn.wien/collections/mittagsmenu,
+ASIA BOX TO GO,,english,Finn,4,https://finn.wien/collections/mittagsmenu,
+ASIA BOX TO GO,,english,Finn,5,https://finn.wien/collections/mittagsmenu,
+Vegetarisch,Linsendalmit Naan Brot (AGLO),german,Glashaus,1,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Griechisches Moussaka(G),german,Glashaus,1,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,Gemüselasagne(AGLO),german,Glashaus,2,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Biftekimit Tsatsiki und Wedges (AGL),german,Glashaus,2,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,Spinatknödelin Butter geschwenkt mit Grana & Blattsalat (ACGLO),german,Glashaus,3,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Hühnerschnitzel in Sesampanademit Erdäpfel-Mayo Salat (ACGLMNO),german,Glashaus,3,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,Thai Wok-Nudelnmit Gemüse und Sojasauce (ACFLO),german,Glashaus,4,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Chili con Carnemit Reis (LO),german,Glashaus,4,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,Steinpilzravioli(AGLO),german,Glashaus,5,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Fish & Chipsmit Erbsenpüree (ACDG),german,Glashaus,5,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,Linsendalmit Naan Brot (Aglo),english,Glashaus,1,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Greek Moussaka (G),english,Glashaus,1,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,Vegetable sagne (AGLO),english,Glashaus,2,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Biftekimit Tsatsiki and Wedges (AGL),english,Glashaus,2,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,Spinat dumplings swiveled with grana & leaf salad (aclo),english,Glashaus,3,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Chicken schnitzel in sesampanade with potato mayo salad (Aclmno),english,Glashaus,3,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,Thai wok noodles with vegetables and soy sauce (acflo),english,Glashaus,4,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Chili con carne with rice (lo),english,Glashaus,4,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,Stone mushroom ravioli (Aglo),english,Glashaus,5,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Fish & Chipsmit Erbsen puree (ACDG),english,Glashaus,5,https://www.dasglashaus.at/menues,14.90
+,"Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.",,Das Campus Hot Stuff,1,https://www.facebook.com/dchotstuff,
+,"Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.",,Das Campus Hot Stuff,2,https://www.facebook.com/dchotstuff,
+,"Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.",,Das Campus Hot Stuff,3,https://www.facebook.com/dchotstuff,
+,"Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.",,Das Campus Hot Stuff,4,https://www.facebook.com/dchotstuff,
+,"Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.",,Das Campus Hot Stuff,5,https://www.facebook.com/dchotstuff,

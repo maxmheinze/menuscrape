@@ -29,6 +29,18 @@ def get_baschly_menu():
         r'\s*Lunch\s*Special\s*', re.IGNORECASE))
     pdf_url = link['href']
 
+    # If the link isn't a PDF, assume it's image-based and return the message.
+    if not pdf_url.lower().endswith('.pdf'):
+        df_image_pdf = pd.DataFrame({
+            'foodtype': ['Meat', 'Veggie'] * 5,
+            'menu': ['Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.'] * 10,
+            'language': ['english'] * 10,
+            'location': ['Baschly'] * 10,
+            'day': [1, 2, 3, 4, 5] * 2,
+            'source': [pdf_url] * 10
+        })
+        return df_image_pdf
+
     # Try to extract tables from the PDF
     tables = camelot.read_pdf(pdf_url, pages='all')
 
@@ -49,10 +61,11 @@ def get_baschly_menu():
     df_table = tables[0].df
 
     # Select relevant rows and columns
-    df_subset = df_table.iloc[1:6, [0,2]]
+    df_subset = df_table.iloc[1:6, [0, 2]]
     df_split = df_subset.replace('\n', ' ', regex=True)
 
-    days_to_remove = ['Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag']
+    days_to_remove = ['Montag', 'Dienstag',
+                      'Mittwoch', 'Donnerstag', 'Freitag']
     df_split = df_split.replace(days_to_remove, '', regex=True)
 
     df_melted = df_split.melt(ignore_index=False).assign(
@@ -84,8 +97,8 @@ def get_baschly_menu():
     df_combined['source'] = pdf_url
 
     return df_combined
-    
-    
+
+
 # Function to scrape Mensa menu
 
 
@@ -206,7 +219,8 @@ def get_library_menu():
 
                 # Extract price and food type
                 price_match = re.search(r'€\s*([\d,]+)', menu_item)
-                price = price_match.group(1).replace(',', '.') if price_match else 'N/A'
+                price = price_match.group(1).replace(
+                    ',', '.') if price_match else 'N/A'
 
                 if 'VEGGIE' in menu_item.upper():
                     foodtype = 'Veggie'
@@ -244,7 +258,8 @@ def get_library_menu():
                     languages.append('english')
                 else:
                     # Translate if no English version is provided
-                    translated_menu = translator.translate(german_menu, src='de', dest='en').text
+                    translated_menu = translator.translate(
+                        german_menu, src='de', dest='en').text
                     days.append(day_number)
                     menu_items.append(translated_menu)
                     types.append(foodtype)
@@ -266,7 +281,6 @@ def get_library_menu():
     df.drop_duplicates(inplace=True)
 
     return df
-
 
 
 # Function to scrape Finn menu
@@ -464,8 +478,8 @@ def get_finn_menu():
         'dazu', 'mit', case=False)
     df['language'] = 'german'
     df_translated = df.copy()
-    df_translated['menu'] = df_translated['menu'].apply(
-        lambda x: translator.translate(x, src='de', dest='en').text)
+    df_translated['menu'] = df_translated['menu'].apply(lambda x: translator.translate(
+        x, src='de', dest='en').text if pd.notnull(x) and x != '' else x)
     df_translated['language'] = 'english'
 
     # Step 10: Combine DataFrames and add location and source
@@ -473,7 +487,6 @@ def get_finn_menu():
     df_combined['location'] = 'Finn'
     df_combined['source'] = page_url
 
-    print(imagetext)
     return df_combined
 
 
