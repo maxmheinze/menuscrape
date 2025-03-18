@@ -38,7 +38,6 @@ def get_baschly_menu():
             'source': [pdf_url] * 10
         })
         return df_image_pdf
-        print(df_image_pdf)
 
     # Try to extract tables from the PDF
     tables = camelot.read_pdf(pdf_url, pages='all')

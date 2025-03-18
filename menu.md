@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-03-17 11:00:32_
+_Last Update: 2025-03-18 14:00:25_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
