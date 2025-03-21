@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-03-18 14:00:25_
+_Last Update: 2025-03-21 11:00:26_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -677,7 +677,7 @@ _Last Update: 2025-03-18 14:00:25_
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Spinatnocchi's Verdura sauce (Aglio)</td>
+      <td>Spinat Gnocchi Verdura sauce (Aglio)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
