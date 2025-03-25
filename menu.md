@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-03-23 10:00:25_
+_Last Update: 2025-03-25 12:00:32_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -164,42 +164,42 @@ _Last Update: 2025-03-23 10:00:25_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Hühnchen-Enchiladas:Im Ofen gebackener Hühnchen-Burrito mit Tomaten-Käse-Soße, begleitet von mexikanischem Reis, gemischtem Bohnenpüree und frischer Salsa mit Koriander</td>
-      <td>10.00</td>
+      <td>Chili con Carne:Bohnen- und Hackfleisch-Chili auf gedämpftem Reis, Salat, Tortilla-Chips, Käse und Sauerrahm</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Pulled Chicken Enchiladas: Chicken Burrito baked in the oven in a cheesy sauce, accompanied by Mexican Rice, mixed Bean Puree,and fresh Salsa with Coriander (A,G)MEAT€ 10,00</td>
-      <td>10.00</td>
+      <td>Chili con Carne: Beans and Minced Beef chili on top of Steamed Rice, Lettuce, Tortilla Chips, Cheese, and Sour Cream (A, G)MEAT€ 10,50</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Bohnen-Enchiladas:Im Ofen gebackener Käse-Bohnen-Burrito mit Tomaten-Käse-Soße, begleitet von mexikanischem Reis, gemischtem Bohnenpüree und frischer Salsa mit Koriander</td>
-      <td>10.00</td>
+      <td>Bohnen-Chili:Bohnen- und Paprika-Chili auf gedämpftem Reis, Salat, Tortilla-Chips, Käse und Sauerrahm</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Bean Enchiladas: Cheese and Bean Burrito baked in the oven in a cheesy sauce, accompanied by Mexican Rice, mixed Bean Puree, and fresh Salsa with Coriander (A, G)VEGGIE€ 10,00</td>
-      <td>10.00</td>
+      <td>Bean Chili: Beans and Bell Peppers chili on top of Steamed Rice, Lettuce, Tortilla Chips, Cheese, and Sour Cream (A, G)VEGGIE€ 10,50</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Selchfleischknödel | Sauerkraut | Kümmelsaft G,L</td>
+      <td>Gebratenes Hühnerfilet | Reis | Frühlings- Grillgemüse | Kerbelrahmsauce A,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Selch meat dumplings |Sauerkraut |Caraway juice g, l</td>
+      <td>Fried chicken fillet |Rice |Spring grilled vegetables |Kerbel cream sauce a, g, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -220,42 +220,42 @@ _Last Update: 2025-03-23 10:00:25_
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Puten Gyros Pita | Tsatsiki | Tomaten,Gurken,Zwiebel,K raut | Wedges A,G,L</td>
+      <td>Sous vide Bio Schweinsfilet | gebratene Bärlauch-Gnocchi | glacierte Karotten | Pfeffersauce A,C,G,O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Turkey gyros pita |Tsatsiki |Tomatoes, cucumbers, onion, K Raut |Wedges A, G, L</td>
+      <td>Sous video organic pork fillet |Fried wild garlic gnocchi |Glaced carrots |Pepper sauce A, C, G, O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Selchfleischknödel | Sauerkraut | Kümmelsaft G,L</td>
+      <td>Gebratenes Hühnerfilet | Reis | Frühlings- Grillgemüse | Kerbelrahmsauce A,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Selch meat dumplings |Sauerkraut |Caraway juice g, l</td>
+      <td>Fried chicken fillet |Rice |Spring grilled vegetables |Kerbel cream sauce a, g, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td>Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rosso Rinder Bolognese Aufpreis</td>
+      <td>Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td>Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto rosso cattle bolognese surcharge</td>
+      <td>Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -276,14 +276,14 @@ _Last Update: 2025-03-23 10:00:25_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Planted Paprikageschnetzeltes | Spätzle A,L</td>
+      <td>Gratinierte Käsespätzle | Schnittlauch | Röstzwiebel A,C,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Planted paprika scienceSpaetzle A, L</td>
+      <td>Gratinated cheese spaetzle |Chives |RöstWiebel A, C, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -403,42 +403,42 @@ _Last Update: 2025-03-23 10:00:25_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Kokosnuss-Huhn-Thai-Curry:Grünes Curry mit Kokosmilch, gebratenem Hähnchen, Champignons, Paprika und Zuckererbsen, serviert mit Jasminreis</td>
-      <td>10.00</td>
+      <td>Chicken Tikka-Masala:Basmatireis, Koriander und Naan</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Coconut-Chicken-Thai Curry: Green Curry with Coconut Milk, roasted Chicken, Mushrooms, Bell Peppers,Sugar Snap Peas served with Jasmine Rice (A, D, L)MEAT€ 10,00</td>
-      <td>10.00</td>
+      <td>Chicken Tikka-Masala: Basmati-Rice, Coriander and Naan (A, F, L)MEAT€ 10,50</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Grünes Süßkartoffel-Thai-Curry:Spinat und Kokosmilch, grünes Curry, Süßkartoffeln, Zucchini, Champignons, Tofu und Auberginen, serviert mit Jasminreis</td>
-      <td>10.00</td>
+      <td>Rotes Thai-Curry:Tofu, Paprika, Zucchini und Babymais mit Basmatireis und Naan</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Green-Sweet Potato-Thai Curry: Spinach and Coconut Milk, Green Curry, Sweet Potatoes, Zucchini,Mushrooms, Tofu, and Aubergine served with Jasmine Rice (A, D, F, L)VEGGIE€ 10,00</td>
-      <td>10.00</td>
+      <td>Red Thai Curry: Tofu, Paprika, Zucchini, and Baby-Corn with Basmati-Rice and Naan (A, F, L)VEGGIE€ 10,50</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Naturschnitzel vom Schwein | Erbsenreis | Natursaft A,L,M,F</td>
+      <td>Penne | Schinken- Rahmsauce | Parmesan A,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Natural schnitzel from pig |Pea rice |Natural juice a, l, m, f</td>
+      <td>Penne |Schinken- cream sauce |Parmesan A, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -459,42 +459,42 @@ _Last Update: 2025-03-23 10:00:25_
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Chili Beef Burrito | Bohnenreis | Cheddar Cheese Sauce | Dips | Tortilla Chips A,F,G,L,M</td>
+      <td>Gebratene Eiernudeln mit Gemüse | Tofu oder Putenfleisch | Teriyaki oder Süss-Sauer Sauce A,C,F,L,H,O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Chili Beef Burrito |Bean rice |Cheddar cheese sauce |Dips |Tortilla chips a, f, g, l, m</td>
+      <td>Fried egg noodles with vegetablesTofu or turkey meat |Teriyaki or sweet-sauer sauce a, c, f, l, h, o</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Naturschnitzel vom Schwein | Erbsenreis | Natursaft A,L,M,F</td>
+      <td>Penne | Schinken- Rahmsauce | Parmesan A,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Natural schnitzel from pig |Pea rice |Natural juice a, l, m, f</td>
+      <td>Penne |Schinken- cream sauce |Parmesan A, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td>Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rosso Rinder Bolognese Aufpreis</td>
+      <td>Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td>Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto rosso cattle bolognese surcharge</td>
+      <td>Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -515,42 +515,42 @@ _Last Update: 2025-03-23 10:00:25_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Veganer Faschierter Braten | Bärlauch- Kartoffelpüree | Jus | Röstzwiebel A,F,H,M,P</td>
+      <td>Italienischer Gemüseeintopf | Ciabatta A</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Vegan fascinated roast |Bear garlic potato puree |Jus |Röst onweed A, F, H, M, P</td>
+      <td>Italian vegetable stew |Ciabatta A</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Cremesuppe vom Frühlingslauch A,L</td>
+      <td>Knoblauchcremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Cream soup from spring garlic A, L</td>
+      <td>Garlic cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Cremesuppe vom Frühlingslauch A,L</td>
+      <td>Knoblauchcremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Cream soup from spring garlic A, L</td>
+      <td>Garlic cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -684,29 +684,29 @@ _Last Update: 2025-03-23 10:00:25_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Rindfleisch Bulgogi Reisschüssel:Mariniertes Rinderhackfleisch „Bulgogi-Style“ mit Jasminreis, Kimchi, Karotten, Gurkenscheiben und Frühlingszwiebeln</td>
-      <td>10.00</td>
+      <td>Teriyaki-Kabeljau-Quinoa-Bowl:Teriyaki-marinierter gebratener Kabeljau, Quinoa, Brokkoli, Karotten und scharfe Mayonnaise</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Beef Bulgogi Rice Bowl: Marinated Ground Beef ‘Bulgogi style’ with jasmine rice, kimchi, carrot, sliced cucumber, spring onion (A,D, F, N)MEAT€ 10,00</td>
-      <td>10.00</td>
+      <td>Teriyaki Cod-Quinoa Bowl: Teriyaki-marinated-fried Cod, Quinoa, Broccoli, Carrots with Spicy Mayo (A, D, G, M)MEAT€ 10,50</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Gemüse-Bulgogi-Reisschüssel:Marinierter Tofu und Pilze nach „Bulgogi-Style“ mit Jasminreis, Kimchi, Karotten, Gurkenscheiben und Frühlingszwiebeln</td>
-      <td>10.00</td>
+      <td>Teriyaki-Tofu-Quinoa-Bowl:Teriyaki-marinierter gebratener Tofu, Quinoa, Brokkoli, Karotten und scharfe Mayonnaise</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Veggie Bulgogi Rice Bowl: Marinated Tofu and Mushrooms ‘Bulgogi style’ with jasmine rice, kimchi, carrot, sliced cucumber, spring onion (A, D, F, N)VEGGIE€ 10,00</td>
-      <td>10.00</td>
+      <td>Teriyaki Tofu-Quinoa Bowl: Teriyaki-marinated-fried Tofu, Quinoa, Broccoli, Carrots and Spicy Mayo (A, F, G, M)VEGGIE€ 10,50</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
@@ -768,14 +768,14 @@ _Last Update: 2025-03-23 10:00:25_
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td>Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rosso Rinder Bolognese Aufpreis</td>
+      <td>Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td>Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto rosso cattle bolognese surcharge</td>
+      <td>Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -796,14 +796,14 @@ _Last Update: 2025-03-23 10:00:25_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Gemüse Rahmlinsen | Serviettenknödel A,C,G,L,M,O</td>
+      <td>Tortilla mit Gemüsefülle | Chilireis A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Vegetables cream lenses |Napkin dumplings A, C, G, L, M, O</td>
+      <td>Tortilla with vegetable filling |Chilireis A, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -965,42 +965,42 @@ _Last Update: 2025-03-23 10:00:25_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Rindfleisch Kebab Couscous Bowl:Griechischer Gurken-Tomaten-Salat, Rotkohl, Spinat und Zitronen-Joghurt-Sauce</td>
-      <td>10.00</td>
+      <td>Coq au Vin:Französischer Rotwein-Hühnereintopf mit Champignons und Perlzwiebeln, dazu gedämpfte Kartoffeln</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Beef Kebab Couscous Bowl: with a Greek Cucumber-Tomato Salad,and Red Cabbage, Spinach and Lemon Yogurt Sauce (A, C, F, G, L)MEAT€ 10,00</td>
-      <td>10.00</td>
+      <td>Coq Au Vin: French Red Wine and Chicken Stew with Mushrooms and Pearl Onion, with Steamed Potatoes (A, C, F, G, L)MEAT€ 10,50</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Falafel-Couscous-Bowl:Griechischer Gurken-Tomaten-Salat, Rotkohl, Spinat und Zitronen-Joghurt-Sauce</td>
-      <td>10.00</td>
+      <td>Cremige Spinat-Gnocchi:Geröstete Champignons, Ziegenkäse, geröstete Tomaten und Rucola</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Falafel Couscous Bowl: with a Greek Cucumber-Tomato Salad,and Red Cabbage, Spinach and Lemon Yogurt Sauce (A, G, F, M)VEGGIE€ 10,00</td>
-      <td>10.00</td>
+      <td>Creamy Spinach Gnocchi: Roasted Mushroom, Goat Cheese, Roasted Tomato and Rucola (A, G)VEGGIE€ 10,50</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Chicken "Koy Soy" | Duftreis A,D,F,G,L</td>
+      <td>Schweinsgulasch | Spiralen | Sauerrahm A,C,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Chicken "Koy Soy" |Duftreis A, D, F, G, L</td>
+      <td>Swein goulash |Spirals |SauerRahm a, c, g, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1035,28 +1035,28 @@ _Last Update: 2025-03-23 10:00:25_
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Chicken "Koy Soy" | Duftreis A,D,F,G,L</td>
+      <td>Schweinsgulasch | Spiralen | Sauerrahm A,C,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Chicken "Koy Soy" |Duftreis A, D, F, G, L</td>
+      <td>Swein goulash |Spirals |SauerRahm a, c, g, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td>Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rosso Rinder Bolognese Aufpreis</td>
+      <td>Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td>Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto rosso cattle bolognese surcharge</td>
+      <td>Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1077,42 +1077,42 @@ _Last Update: 2025-03-23 10:00:25_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Knoblauchrahm (veggie) A,C,G</td>
+      <td>Hausgemachter Kartoffelstrudel | Rahmgemüse A,C,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Knoblauchrahm (veggie) a, c, g</td>
+      <td>Homemade potato strudel |Frame vegetables A, C, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Gemüsecremesuppe A,L</td>
+      <td>Kartoffelcremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Vegetable cream soup a, l</td>
+      <td>Potato cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Gemüsecremesuppe A,L</td>
+      <td>Kartoffelcremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Vegetable cream soup a, l</td>
+      <td>Potato cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1247,14 +1247,14 @@ _Last Update: 2025-03-23 10:00:25_
       <td>Library</td>
       <td>Veggie</td>
       <td>Kücheninspiration: Das heutige Menü wird spontan vom Koch zusammengestellt</td>
-      <td>10.00</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Kitchen Inspiration: today´s menu will be crafted spontaneously by the ChefVEGGIE€ 10,00MEAT€ 10,00</td>
-      <td>10.00</td>
+      <td>Kitchen Inspiration: today´s menu will be crafted spontaneously by the ChefVEGGIE€ 10,50MEAT€ 10,50</td>
+      <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
@@ -1316,14 +1316,14 @@ _Last Update: 2025-03-23 10:00:25_
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td>Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rosso Rinder Bolognese Aufpreis</td>
+      <td>Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td>Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto rosso cattle bolognese surcharge</td>
+      <td>Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1344,14 +1344,14 @@ _Last Update: 2025-03-23 10:00:25_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Kichererbsen-Gemüse Curry | Bulgur A,F,L</td>
+      <td>Griechisches Ofengemüse | Kräuterreis | Tzatziki G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Chickpea vegetables curry |Bulgur a, f, l</td>
+      <td>Greek oven vegetables |Herb rice |Tzatziki g, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
