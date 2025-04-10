@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-04-09 12:00:28_
+_Last Update: 2025-04-10 10:00:34_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -298,7 +298,7 @@ _Last Update: 2025-04-09 12:00:28_
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Krautroulades with sour cream and salt craise (glo)</td>
+      <td>Krautroulades with sour cream and salted crops (glo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
