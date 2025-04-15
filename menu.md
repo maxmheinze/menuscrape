@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-04-14 13:00:34_
+_Last Update: 2025-04-15 13:00:25_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -150,28 +150,28 @@ _Last Update: 2025-04-14 13:00:34_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Gebratene Schweineschulter:Kartoffelgratin, gedämpfter Brokkoli und Rotkohl-Sauerkraut</td>
+      <td>Rindfleisch-Chili:Rindfleisch-Chili-Reisschüssel, Cheddar-Käse, Sauerrahm, Tomatensalsa und Chips</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Roasted Pork Shoulder: Potato Gratin, Steamed Broccoli, and Red Cabbage-Sauerkraut (AG)MEAT€ 10,50</td>
+      <td>Beef Chili:Beef–Chili Rice Bowl, Cheddar Cheese, Sour Cream, Tomato Salsa, and Chips(AG)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Mit Kräutern und Ziegenkäse gefüllte Portabella:Kartoffelgratin, gedämpfter Brokkoli und Rotkohl-Sauerkraut</td>
+      <td>Bohnen-Chili:Reis-Bohnen-Chili-Schüssel, Cheddar-Käse, Sauerrahm, Tomatensalsa und Chips</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Herb-Goat Cheese-Stuffed Portabella: Potato Gratin, Steamed Broccoli, and Red Cabbage-Sauerkraut (AG)VEGGIE€ 10,50</td>
+      <td>Bean Chili:Rice-Bean Chili Bowl, Cheddar Cheese, Sour Cream, Tomato Salsa, and Chips(AG)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -375,28 +375,28 @@ _Last Update: 2025-04-14 13:00:34_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Hähnchen-Grün-Thai-Curry:Gedämpftes Gemüse, Basmatireis und Naan-Brot</td>
+      <td>In Tomaten geschmortes Rinderragout auf cremiger Polenta:mit grünen Bohnen und Joghurt-Gurken-Salat</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Chicken Green Thai Curry: steamed vegetable, Basmati rice, and Naan bread (A)MEAT€ 10,50</td>
+      <td>Tomato-Braised Beef Ragu on Creamy Polenta:With Green Beans and Yogurt-Cucumber Salad.(AGL)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tofu-Grün-Thai-Curry:Gedämpftes Gemüse, Basmatireis und Naan-Brot</td>
+      <td>Tomaten-Kichererbsen-Eintopf auf Polenta:Cremige Polenta mit Blumenkohl-Kichererbsen-Eintopf und einem Joghurt-Gurken-Salat</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tofu-Green-Thai Curry: Steamed Vegetable, Basmati Rice, and Naan Bread (AF)VEGGIE€ 10,50</td>
+      <td>Tomato-Chickpea Stew on Polenta:Creamy Polenta with Cauliflower and Chickpea Stew, and a Yogurt-Cucumber Salad.(AGL)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -600,28 +600,28 @@ _Last Update: 2025-04-14 13:00:34_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Gebratenes Rindfleisch mit Brokkoli:Gedämpfter Jasminreis</td>
+      <td>Frühlings-Buddha-Bowl:Quinoa, gerösteter Kürbis, Rosenkohl, Rotkohl, frittierte Hähnchenstreifen und Avocado mit Zitronen-Joghurt-Dressing</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Beef and Broccoli Stir Fry: Steamed Jasmin Rice (AFN)MEAT€ 10,50</td>
+      <td>Spring Buddha Bowl:Quinoa, Roasted Pumpkin, Brussel Sprouts, Red Cabbage, Fried Chicken Strips, and Avocado with Lemon-Yogurt Dressing(G)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Gebratenes Gemüse:Vegane Hähnchenstreifen, Cashewnüsse, gemischtes Gemüse und gedämpfter Jasminreis</td>
+      <td>Frühlings-Buddha-Bowl:Quinoa, gerösteter Kürbis, Rosenkohl, Rotkohl, Kichererbsen und Avocado mit Zitronen-Joghurt-Dressing</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Vegetable Stir Fry: Vegan-Chicken Strips, Cashew Nuts, mixed Vegetables, and Steamed Jasmin Rice (H)VEGGIE€ 10,50</td>
+      <td>Spring Buddha Bowl: Quinoa, Roasted Pumpkin, Brussel Spouts, Red Cabbage, Chickpeas, and Avocado with Lemon-Yogurt Dressing(G)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -853,28 +853,28 @@ _Last Update: 2025-04-14 13:00:34_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Pulled Chicken Enchiladas:Gebackene Bohnen-Käse-Burritos, mexikanischer Reis, Bohnenmischung, Salsa, Guacamole, Salat und Sauerrahm mit Koriander</td>
+      <td>Chicken Tikka Masala:serviert mit Basmatireis</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Pulled Chicken Enchiladas: Baked Bean and Cheese Burritos, Mexican Rice, Bean Mix, Salsa and Guacamole, lettuce, and Sour Cream with Coriander (AG)MEAT€ 10,50</td>
+      <td>Chicken Tikka Masala:served with Basmati Rice(AG)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Bohnen-Enchiladas:Gebackene Bohnen-Käse-Burritos, mexikanischer Reis, Bohnenmischung, Salsa und Guacamole, Salat und Sauerrahm</td>
+      <td>Spinat-Käse-Curry:serviert mit Basmatireis</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Bean Enchiladas: Baked Bean and Cheese Burritos, Mexican Rice, Bean Mix, Salsa and Guacamole, lettuce, and Sour (AG)VEGGIE€ 10,50</td>
+      <td>Spinach and Cheese Curry:served with Basmati Rice(AG)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
