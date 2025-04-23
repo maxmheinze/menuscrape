@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-04-23 11:00:25_
+_Last Update: 2025-04-23 12:15:25_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -39,55 +39,55 @@ _Last Update: 2025-04-23 11:00:25_
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
       <td></td>
-      <td></td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
       <td></td>
-      <td></td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td></td>
-      <td></td>
+      <td>Karaage Bento</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td></td>
-      <td></td>
+      <td>Karaage Bento</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td></td>
-      <td></td>
+      <td>Lachs Bento</td>
+      <td>12.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td></td>
+      <td>Salmon Bento</td>
+      <td>12.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>Soup</td>
+      <td>Ostermontag</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td></td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>Soup</td>
-      <td></td>
+      <td>Easter Monday</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -264,83 +264,83 @@ _Last Update: 2025-04-23 11:00:25_
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
       <td></td>
-      <td></td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
       <td></td>
-      <td></td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
       <td></td>
-      <td></td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
       <td></td>
-      <td></td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td></td>
-      <td></td>
+      <td>Tortellini Mit Spargel in leichter Bärlauchsauce</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td></td>
-      <td></td>
+      <td>Tortellini with asparagus in light wild garlic sauce</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td></td>
-      <td></td>
+      <td>Karaage Bento</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td></td>
-      <td></td>
+      <td>Karaage Bento</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td></td>
-      <td></td>
+      <td>Lachs Bento</td>
+      <td>12.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td></td>
+      <td>Salmon Bento</td>
+      <td>12.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>Soup</td>
+      <td>Kohlrabicremesuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td></td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>Soup</td>
-      <td></td>
+      <td>Coal</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -559,83 +559,83 @@ _Last Update: 2025-04-23 11:00:25_
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
       <td></td>
-      <td></td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
       <td></td>
-      <td></td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td></td>
-      <td></td>
+      <td>Überbackene Schinkenfleckerl mit Rote-Rüben-Salat</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td></td>
-      <td></td>
+      <td>Baked ham fains with beet and beet salad</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td></td>
-      <td></td>
+      <td>Penne All'’arrabbiata mit Parmesan</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td></td>
-      <td></td>
+      <td>Penne all'arrabbiata with parmesan</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td></td>
-      <td></td>
+      <td>Karaage Bento</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td></td>
-      <td></td>
+      <td>Karaage Bento</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td></td>
-      <td></td>
+      <td>Lachs Bento</td>
+      <td>12.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td></td>
+      <td>Salmon Bento</td>
+      <td>12.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>Soup</td>
+      <td>Kürbiscremesuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td></td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>Soup</td>
-      <td></td>
+      <td>Pumpkin</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -854,83 +854,83 @@ _Last Update: 2025-04-23 11:00:25_
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
       <td></td>
-      <td></td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
       <td></td>
-      <td></td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td></td>
-      <td></td>
+      <td>Tafelspitz mit Rösti und Schnittlauchsauce</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td></td>
-      <td></td>
+      <td>Tafelspitz with rösti and chives sauce</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td></td>
-      <td></td>
+      <td>Chana Dal mit Kardamom-Rosinen-Reis und Papadam</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td></td>
-      <td></td>
+      <td>Chana Dal with cardamom-rosine rice and papadam</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td></td>
-      <td></td>
+      <td>Karaage Bento</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td></td>
-      <td></td>
+      <td>Karaage Bento</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td></td>
-      <td></td>
+      <td>Lachs Bento</td>
+      <td>12.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td></td>
+      <td>Salmon Bento</td>
+      <td>12.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>Soup</td>
+      <td>Kräftige Rindsuppe mit Grießnockerln</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td></td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>Soup</td>
-      <td></td>
+      <td>Strong beef soup with semolina</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -1149,83 +1149,83 @@ _Last Update: 2025-04-23 11:00:25_
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
       <td></td>
-      <td></td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>ASIA BOX TO GO</td>
       <td></td>
-      <td></td>
+      <td>5.9</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td></td>
-      <td></td>
+      <td>G_oldbrasse</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td></td>
-      <td></td>
+      <td>G_oldbrasse</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td></td>
-      <td></td>
+      <td>Geschmorter Karfiol mit Cashewcreme und Bärlauchpesto</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td></td>
-      <td></td>
+      <td>Braied karfiol with cashew cream and wild garlic pesto</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td></td>
-      <td></td>
+      <td>Karaage Bento</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td></td>
-      <td></td>
+      <td>Karaage Bento</td>
+      <td>10.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td></td>
-      <td></td>
+      <td>Lachs Bento</td>
+      <td>12.0</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M4</td>
-      <td></td>
+      <td>Salmon Bento</td>
+      <td>12.0</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>Soup</td>
+      <td>Fenchelsuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td></td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>Soup</td>
-      <td></td>
+      <td>Fennel soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
