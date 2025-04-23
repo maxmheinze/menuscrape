@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-04-22 12:00:35_
+_Last Update: 2025-04-23 11:00:25_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -19,14 +19,14 @@ _Last Update: 2025-04-22 12:00:35_
       <td>Meat</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-apr-2025-kosher-2025-04-07.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-jan-2025-04-22-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-apr-2025-kosher-2025-04-07.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-jan-2025-04-22-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -244,14 +244,14 @@ _Last Update: 2025-04-22 12:00:35_
       <td>Meat</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-apr-2025-kosher-2025-04-07.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-jan-2025-04-22-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-apr-2025-kosher-2025-04-07.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-jan-2025-04-22-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -539,14 +539,14 @@ _Last Update: 2025-04-22 12:00:35_
       <td>Meat</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-apr-2025-kosher-2025-04-07.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-jan-2025-04-22-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-apr-2025-kosher-2025-04-07.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-jan-2025-04-22-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -834,14 +834,14 @@ _Last Update: 2025-04-22 12:00:35_
       <td>Meat</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-apr-2025-kosher-2025-04-07.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-jan-2025-04-22-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-apr-2025-kosher-2025-04-07.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-jan-2025-04-22-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -1129,14 +1129,14 @@ _Last Update: 2025-04-22 12:00:35_
       <td>Meat</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-apr-2025-kosher-2025-04-07.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-jan-2025-04-22-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-apr-2025-kosher-2025-04-07.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/04/baschly-lunch-special-jan-2025-04-22-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
