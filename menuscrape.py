@@ -8,6 +8,7 @@ from googletrans import Translator
 import pdfplumber
 import io
 import pytesseract
+from pytesseract import Output
 import cv2
 from PIL import Image
 import difflib
@@ -286,6 +287,38 @@ def get_library_menu():
 # Function to scrape Finn menu
 
 
+def _ocr_rows(img, lang='deu', bin_size=25):
+    data = pytesseract.image_to_data(
+        img,
+        lang=lang,
+        config='--oem 3 --psm 6',          # 1 block of text, keep reading-order
+        output_type=Output.DATAFRAME
+    )
+    data = data[data.conf.astype(int) > 0]  # drop empty / low-conf words
+    data['row'] = ((data.top + data.height / 2) // bin_size).astype(int)
+    rows = (
+        data.sort_values(['row', 'left'])
+        .groupby('row', sort=True, observed=True)['text']
+        .agg(' '.join)
+        .tolist()
+    )
+
+    return rows
+
+
+def preprocess(img, upscale=2):
+    g = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)                  # grayscale
+    h, w = g.shape
+    g = cv2.resize(g, (w*upscale, h*upscale),                  # 2× upscale
+                   interpolation=cv2.INTER_CUBIC)
+    # denoise + sharpen
+    g = cv2.bilateralFilter(g, 9, 75, 75)
+    th = cv2.adaptiveThreshold(g, 255,
+                               cv2.ADAPTIVE_THRESH_GAUSSIAN_C,
+                               cv2.THRESH_BINARY, 31, 11)      # binarise
+    return th
+
+
 def get_finn_menu():
     # Step 1: Fetch the webpage
     page_url = 'https://finn.wien/collections/mittagsmenu'
@@ -320,7 +353,15 @@ def get_finn_menu():
     # img_for_ocr = Image.fromarray(img_thresh)
 
     # Step 5: Extract text from the image
-    imagetext = pytesseract.image_to_string(img, lang='deu')
+    # imagetext = pytesseract.image_to_string(img, lang='deu')
+
+    # upscale + denoise + binarise
+    img_proc = preprocess(img)
+    imagetext_raw = pytesseract.image_to_string(
+        img, lang='deu', config='--psm 6')
+    # rebuild rows from pre-processed img
+    lines = _ocr_rows(img_proc)
+    imagetext = '\n'.join(lines)
 
     # Step 6: Define helper functions
 
