@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-04-23 12:15:25_
+_Last Update: 2025-04-24 11:00:26_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -136,14 +136,14 @@ _Last Update: 2025-04-23 12:15:25_
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>A,G,L,H</td>
+      <td></td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>A, g, l, h</td>
+      <td></td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -178,14 +178,14 @@ _Last Update: 2025-04-23 12:15:25_
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td></td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td></td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -768,28 +768,28 @@ _Last Update: 2025-04-23 12:15:25_
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>BärlauchGemüserisotto | Rucola & Sonnenblumenkerne A,O,L</td>
+      <td>Bärlauch-Gemüserisotto | Rucola & Sonnenblumenkerne A,O,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Bear garlic vegetables risotto |Rucola and sunflower seeds A, O, L</td>
+      <td>Bärlauch-vegetableisotto |Rucola & sunflower seeds A, O, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1007,14 +1007,14 @@ _Last Update: 2025-04-23 12:15:25_
     <tr>
       <td>Mensa</td>
       <td>Bowls & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Bowls & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1063,14 +1063,14 @@ _Last Update: 2025-04-23 12:15:25_
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1288,14 +1288,14 @@ _Last Update: 2025-04-23 12:15:25_
     <tr>
       <td>Mensa</td>
       <td>Bowls & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Bowls & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1344,14 +1344,14 @@ _Last Update: 2025-04-23 12:15:25_
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
