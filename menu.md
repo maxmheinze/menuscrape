@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-04-25 12:00:44_
+_Last Update: 2025-04-26 14:00:51_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -93,15 +93,29 @@ _Last Update: 2025-04-25 12:00:44_
     </tr>
     <tr>
       <td>Glashaus</td>
+      <td>Fisch & Fleisch</td>
+      <td>Rindsgulaschmit Serviettenknödel(ACGLO)</td>
+      <td>14.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
+      <td>Fisch & Fleisch</td>
+      <td>Beef goulashmit napkin dumplings (aclo)</td>
+      <td>14.90</td>
+      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
+    </tr>
+    <tr>
+      <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Feiertag</td>
+      <td>Gebackene Melanzanimit Salzerdäpfeln und Knoblauch-Dip(ACG)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Holiday</td>
+      <td>Baked melanzanimit salt craps and garlic dip (ACG)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -347,28 +361,28 @@ _Last Update: 2025-04-25 12:00:44_
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Hühnereintopf süß-sauermit Basmati Reis(F)</td>
+      <td>Lasagne al Fornomit Tomatensauce, Rucola und Grana(ACGMLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Chicken stew sweet and so far with basmati rice (f)</td>
+      <td>Lasagne al Fornomit tomato sauce, rocket and grana (acgmlo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Erdäpfelgulasch Szegediner Art(AGLO)</td>
+      <td>Asia-Wok-Nudelnmit buntem Gemüse(ACGFLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Potal goulash Szegediner Art (Aglo)</td>
+      <td>Asia-wok noodle with colorful vegetables (acgflo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -642,28 +656,28 @@ _Last Update: 2025-04-25 12:00:44_
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Cordon Bleumit Pommes und Preiselbeeren(ACG)</td>
+      <td>Moussakamit Blattsalat(CGLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Cordon Bleumit fries and cranberries (ACG)</td>
+      <td>Moussakamit leaf salad (CGLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Brokkoli-Gorgonzola Quichemit Blattsalat (ACGM)</td>
+      <td>Spargel-Gratinmit Rucola und Grana (GM)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Brokkoli Gorgonzola Quiche with leaf salad (ACGM)</td>
+      <td>Asparagus gratin with Rucola and Grana (GM)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -936,29 +950,15 @@ _Last Update: 2025-04-25 12:00:44_
     </tr>
     <tr>
       <td>Glashaus</td>
-      <td>Fisch & Fleisch</td>
-      <td>Tikka Masalamit Basmati Reis(L)</td>
-      <td>14.90</td>
-      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
-    </tr>
-    <tr>
-      <td>Glashaus</td>
-      <td>Fisch & Fleisch</td>
-      <td>Tikka Masala with Basmati Reis (L)</td>
-      <td>14.90</td>
-      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
-    </tr>
-    <tr>
-      <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Gemüselasagnemit Rucola und Grana(ACGLO)</td>
+      <td>Feiertag</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Vegetable sagne with rocket and grana (aclo)</td>
+      <td>Holiday</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -1232,28 +1232,28 @@ _Last Update: 2025-04-25 12:00:44_
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Lachsstrudelmit Blattsalat(ACLO)</td>
+      <td>Hühnercurrymit Basmati Reis(FLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Salmon strudel with leaf salad (aclo)</td>
+      <td>Chicken Currymit Basmati Reis (Flo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Cannellonimit Spinat-Ricotta-Füllung (ACGLO)</td>
+      <td>Gnocchimit Pilzrahmsauce (AGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Cannellonimit spinach-ricotta filling (Aclo)</td>
+      <td>Gnocchi with mushroom cream sauce (AGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
