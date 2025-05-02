@@ -17,23 +17,43 @@ import os
 from datetime import datetime
 
 
-def _ocr_rows(img, lang='deu', bin_size=25):
+def _ocr_rows(img, lang='deu'):
     data = pytesseract.image_to_data(
         img,
         lang=lang,
-        config='--oem 3 --psm 6',          # 1 block of text, keep reading-order
+        config='--oem 3 --psm 4',          # “single column” keeps long lines together
         output_type=Output.DATAFRAME
     )
-    data = data[data.conf.astype(int) > 0]  # drop empty / low-conf words
+    data = data[data.conf.astype(int) > 60]   # keep only high-confidence words
+    bin_size = int(data.height.median() * 1.2) or 25
     data['row'] = ((data.top + data.height / 2) // bin_size).astype(int)
     rows = (
         data.sort_values(['row', 'left'])
-        .groupby('row', sort=True, observed=True)['text']
+        .groupby('row', observed=True)['text']
         .agg(' '.join)
         .tolist()
     )
-
     return rows
+
+
+def _merge_wrapped(lines):
+    """
+    Join lines that were hard-wrapped by the PDF/image
+    (start with lowercase letter, a price, or 'mit / dazu').
+    """
+    merged, buf = [], ''
+    cont = re.compile(r'^[a-zäöü]|^[€\d]|^(mit|dazu)\b', re.I)
+
+    for ln in lines:
+        if buf and cont.match(ln):
+            buf += ' ' + ln
+        else:
+            if buf:
+                merged.append(buf.strip())
+            buf = ln
+    if buf:
+        merged.append(buf.strip())
+    return merged
 
 
 def preprocess(img, upscale=2):
@@ -87,15 +107,39 @@ def get_finn_menu():
 
     # upscale + denoise + binarise
     img_proc = preprocess(img)
-    imagetext_raw = pytesseract.image_to_string(
-        img, lang='deu', config='--psm 6')
-    # rebuild rows from pre-processed img
-    lines = _ocr_rows(img_proc)
+
+    # 1) OCR → rows  2) glue hard-wraps  3) force line-breaks before markers
+    lines_raw = _ocr_rows(img_proc)
+    lines_merged = _merge_wrapped(lines_raw)
+
+    # collapse to a single string first …
+    imagetext_flat = ' '.join(lines_merged)
+
+    # remove “LUNCH DRINK …” or “ZUSÄTZLICH …” tails
+    imagetext_flat = re.sub(r'\b(LUNCH\s+DRINK|ZUSÄTZLICH)\b.*',
+                            '', imagetext_flat, flags=re.I)
+
+    # insert a line-break before every weekday / menu marker
+    marker_re = re.compile(
+        r'\b('
+        r'MONTAG|DIENSTAG|MITTWOCH|DONNERSTAG|FREITAG|'
+        r'SUSHI\s+BAR|AS[A-Z]A\s+BOX\s+TO\s+GO|'
+        r'M[0-9]+|MS'
+        r')\b',
+        re.I,
+    )
+    imagetext_norm = marker_re.sub(r'\n\1', imagetext_flat)
+
+    # final list of “clean” lines
+    lines = [ln.strip() for ln in imagetext_norm.split('\n') if ln.strip()]
+
+    # keep for printing/debug
     imagetext = '\n'.join(lines)
 
     # Step 6: Define helper functions
 
     # Clean dish name
+
     def clean_dish(dish):
         allowed_chars = 'a-zA-Z0-9äöüÄÖÜß'
         dish = re.sub(r'^[^{}]+'.format(allowed_chars), '', dish)
@@ -161,16 +205,15 @@ def get_finn_menu():
             return None
 
     # Step 7: Process the extracted text
-    lines = imagetext.split('\n')
     dish_list = []
     current_day = None
     day_pattern = re.compile(
         r'^(MONTAG|DIENSTAG|MITTWOCH|DONNERSTAG|FREITAG)[:\s]*(.*)', re.IGNORECASE)
-    menu_pattern = re.compile(r'^(M[0-9]+|MS)\s*:?\s*(.*)', re.IGNORECASE)
+    menu_pattern = re.compile(r'(M[0-9]+|MS)\s*[:\-]?\s*(.*)', re.IGNORECASE)
     asia_pattern = re.compile(
-        r'^AS[A-Z]A BOX TO GO[:_]?\s*(.*)', re.IGNORECASE)
+        r'AS[A-Z]A\s+BOX\s+TO\s+GO[:_]?\s*(.*)', re.IGNORECASE)
     # Pattern to find price at the end of a line
-    price_pattern = re.compile(r'(\d+[.,]?\d*)$')
+    price_pattern = re.compile(r'€?\s*(\d+[.,]?\d*)')
     sushi_bar = False
     translator = Translator()
 
@@ -184,8 +227,9 @@ def get_finn_menu():
         if price_match:
             price_str = price_match.group(1)
             price = process_price(price_str)
-            # Remove the price from the line for further dish processing
-            line = line[:price_match.start()].strip()
+            # remove price token but keep text before/after
+            line = (line[:price_match.start()] + ' ' +
+                    line[price_match.end():]).strip()
 
         day_match = day_pattern.match(line)
         if day_match:
@@ -198,7 +242,7 @@ def get_finn_menu():
                 dish_list.append(
                     {'day': current_day, 'foodtype': 'Soup', 'menu': dish, 'price': price})
             continue
-        menu_match = menu_pattern.match(line)
+        menu_match = menu_pattern.search(line)
         if menu_match:
             type_ = menu_match.group(1).upper()
             dish = menu_match.group(2).strip()
@@ -215,19 +259,28 @@ def get_finn_menu():
                     dish_list.append(
                         {'day': day, 'foodtype': type_, 'menu': dish, 'price': price})
             continue
-        asia_match = asia_pattern.match(line)
+        asia_match = asia_pattern.search(line)
         if asia_match:
-            dish = asia_match.group(1).strip()
-            dish = clean_dish(dish)
-            for day_number in [1, 2, 3, 4, 5]:
+            dish = clean_dish(asia_match.group(1).strip())
+            # if the OCR put the price first (“…: €5,90 Frühlingsrollen …”)
+            if not dish and price is None:
+                # dish sits after the first price token we already stripped above
+                # so split once more on ':' to grab it
+                tail = line.split(':', 1)[-1].strip()
+                dish = clean_dish(tail)
+            for d in range(1, 6):
                 dish_list.append(
-                    {'day': day_number, 'foodtype': 'ASIA BOX TO GO', 'menu': dish, 'price': price})
+                    {'day': d, 'foodtype': 'ASIA BOX TO GO', 'menu': dish, 'price': price})
             continue
+        if re.match(r'^(LUNCH\s+DRINK|ZUSÄTZLICH)\b', line, re.I):
+            # ignore drink- or extra-sections entirely
+            continue
+
         if 'SUSHI BAR' in line.upper():
             sushi_bar = True
             continue
         if sushi_bar:
-            menu_match = menu_pattern.match(line)
+            menu_match = menu_pattern.search(line)
             if menu_match:
                 type_ = menu_match.group(1).upper()
                 dish = menu_match.group(2).strip()
@@ -258,7 +311,9 @@ def get_finn_menu():
     df_combined['location'] = 'Finn'
     df_combined['source'] = page_url
 
+    print(imagetext)
     print(df_combined)
+
     return df_combined
 
 
