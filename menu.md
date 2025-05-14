@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-05-13 12:00:36_
+_Last Update: 2025-05-14 14:00:48_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -656,14 +656,14 @@ _Last Update: 2025-05-13 12:00:36_
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Penne Alla Zingara mit Parmesanacı</td>
+      <td>Geschmorte Melanzani auf Kichererbseneintopf</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Penne Alla Zingara with Parmesanacı</td>
+      <td>Braied Melanzani on chickpea stew</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
