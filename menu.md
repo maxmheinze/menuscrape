@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-05-14 14:00:48_
+_Last Update: 2025-05-15 10:00:40_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -473,7 +473,7 @@ _Last Update: 2025-05-14 14:00:48_
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Chicken sweet & Sour | Basmatireis A,L,F,M,N</td>
+      <td>Chicken Sweet & Sour | Basmatireis A,L,F,M,N</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -515,7 +515,7 @@ _Last Update: 2025-05-14 14:00:48_
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Chicken sweet & Sour | Basmatireis A,L,F,M,N</td>
+      <td>Chicken Sweet & Sour | Basmatireis A,L,F,M,N</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1063,28 +1063,28 @@ _Last Update: 2025-05-14 14:00:48_
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Hascheehörnchen (Schwein) A,L</td>
+      <td>Hascheehörnchen (Schwein) oder Chicken Curry | Reis A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Haschehörnchen (pig) a, l</td>
-      <td></td>
-      <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
-    </tr>
-    <tr>
-      <td>Mensa</td>
-      <td>Bowls & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>Haschehörnchen (pig) or chicken curry |Rice a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Bowls & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
+      <td></td>
+      <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
+    </tr>
+    <tr>
+      <td>Mensa</td>
+      <td>Bowls & Co</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1105,14 +1105,14 @@ _Last Update: 2025-05-14 14:00:48_
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Hascheehörnchen (Schwein) A,L</td>
+      <td>Hascheehörnchen (Schwein) oder Chicken Curry | Reis A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Haschehörnchen (pig) a, l</td>
+      <td>Haschehörnchen (pig) or chicken curry |Rice a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1133,14 +1133,14 @@ _Last Update: 2025-05-14 14:00:48_
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1358,14 +1358,14 @@ _Last Update: 2025-05-14 14:00:48_
     <tr>
       <td>Mensa</td>
       <td>Bowls & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Bowls & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1414,14 +1414,14 @@ _Last Update: 2025-05-14 14:00:48_
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
