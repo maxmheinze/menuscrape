@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-05-20 14:00:37_
+_Last Update: 2025-05-21 14:00:53_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -368,7 +368,7 @@ _Last Update: 2025-05-20 14:00:37_
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Mushrooms garnished with bread dumplings</td>
+      <td>Schwammmerl Ä la cream garnished with bread dumplings</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
