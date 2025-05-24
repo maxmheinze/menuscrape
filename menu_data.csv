@@ -117,26 +117,24 @@ Meat,"Geschmortes Schweinefilet mit Au Jus, Kartoffel-Käse-Gratin, Apfel-Sauerk
 Meat,"Braised Pork Loin with Au Jus: Potato-Cheese Gratin, Apple Sauerkraut and Steamed Broccoli (ACG)MEAT€ 10,50",english,Library,4,https://lia.coffee,10.50
 Veggie,Kücheninspiration:Das heutige Menü wird vom Koch spontan zusammengestellt,german,Library,5,https://lia.coffee,10.50
 Veggie,"Kitchen Inspiration: today´s menu will be crafted spontaneously by the cook of the day.VEGGIE€ 10,50MEAT€ 10,50",english,Library,5,https://lia.coffee,10.50
-Soup,Karfiolsuppe,german,Finn,1,https://finn.wien/collections/mittagsmenu,
-M1,Tandoori Chicken mit Cashew-Reis,german,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
-M2,Gnocchi in Paprika-Rahmsauce Veggie,german,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
-Soup,Minestrone,german,Finn,2,https://finn.wien/collections/mittagsmenu,
-M1,Hausgröstl mit Spiegelei,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
-M2,Schwammerl Ä La Creme mit Semmelknödeln garniert,german,Finn,2,https://finn.wien/collections/mittagsmenu,
-Soup,Orientalische,german,Finn,3,https://finn.wien/collections/mittagsmenu,
-M1,Backhendlstreifen mit Erdäpfel-Vogerisalat und Kernöl,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-M2,Bärlauchrisotto mit gebratenen Kräuterseitlingen,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-Soup,,german,Finn,4,https://finn.wien/collections/mittagsmenu,
-M1,Zürcher Geschnetzeltes mit Rösti,german,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
-M2,Rucola Raviolli in Trüffel-Obers-Sauce Veggie,german,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
-Soup,,german,Finn,5,https://finn.wien/collections/mittagsmenu,
+Soup,Kohlrabisuppe,german,Finn,1,https://finn.wien/collections/mittagsmenu,
+M1,Spareribs mit Wedges und Bbq,german,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
+M2,Gemüseschnitzel mit Petersilerdäpfel und Sauce Tartare,german,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Kräftige Rindssuppe mit Frittaten,german,Finn,2,https://finn.wien/collections/mittagsmenu,
+M1,Chicken Tikka Masala mit Safranreis,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+M2,Palak Paneer mit Naan,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Pikante,german,Finn,3,https://finn.wien/collections/mittagsmenu,
+M1,Faschierte Laibchen mit Erdäpfelpüree und Zwiebelsaft,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+M2,Karamellisierte Krautfleckerl,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Feiertag,german,Finn,4,https://finn.wien/collections/mittagsmenu,
+Soup,Spargelcremesuppe,german,Finn,5,https://finn.wien/collections/mittagsmenu,
 M1,,german,Finn,5,https://finn.wien/collections/mittagsmenu,11.5
-M2,Spinat,german,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
-M3,Red Thai Chicken,german,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
-M3,Red Thai Chicken,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
-M3,Red Thai Chicken,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-M3,Red Thai Chicken,german,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
-M3,Red Thai Chicken,german,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
+M2,,german,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
+M3,Vegan Roll Bent,german,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
+M3,Vegan Roll Bent,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+M3,Vegan Roll Bent,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+M3,Vegan Roll Bent,german,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
+M3,Vegan Roll Bent,german,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
 M4,Lachs Bento,german,Finn,1,https://finn.wien/collections/mittagsmenu,12.0
 M4,Lachs Bento,german,Finn,2,https://finn.wien/collections/mittagsmenu,12.0
 M4,Lachs Bento,german,Finn,3,https://finn.wien/collections/mittagsmenu,12.0
@@ -147,26 +145,24 @@ ASIA BOX TO GO,,german,Finn,2,https://finn.wien/collections/mittagsmenu,5.9
 ASIA BOX TO GO,,german,Finn,3,https://finn.wien/collections/mittagsmenu,5.9
 ASIA BOX TO GO,,german,Finn,4,https://finn.wien/collections/mittagsmenu,5.9
 ASIA BOX TO GO,,german,Finn,5,https://finn.wien/collections/mittagsmenu,5.9
-Soup,Carfiol soup,english,Finn,1,https://finn.wien/collections/mittagsmenu,
-M1,Tandoori chicken with cashew rice,english,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
-M2,Gnocchi in paprika cream sauce veggie,english,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
-Soup,Minestrone,english,Finn,2,https://finn.wien/collections/mittagsmenu,
-M1,Hausgröstl with fried egg,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
-M2,Schwammmerl Ä la cream garnished with bread dumplings,english,Finn,2,https://finn.wien/collections/mittagsmenu,
-Soup,Oriental,english,Finn,3,https://finn.wien/collections/mittagsmenu,
-M1,Baking stripes with potato vogeris salad and nuclear oil,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-M2,Wild garlic risotto with fried herbal sides,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-Soup,,english,Finn,4,https://finn.wien/collections/mittagsmenu,
-M1,Zurich sliced ​​with Rösti,english,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
-M2,Rucola Ravioli in truffle-Obers sauce veggie,english,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
-Soup,,english,Finn,5,https://finn.wien/collections/mittagsmenu,
+Soup,Coal,english,Finn,1,https://finn.wien/collections/mittagsmenu,
+M1,Spare ribs with Wedges and BBQ,english,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
+M2,Vegetables with parsley apples and sauce tartare,english,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Strong beef soup with fried,english,Finn,2,https://finn.wien/collections/mittagsmenu,
+M1,Chicken Tikka Masala with saffron rice,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+M2,Palak Paneer with Naan,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Piquant,english,Finn,3,https://finn.wien/collections/mittagsmenu,
+M1,Fogled loafs with potato puree and onion juice,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+M2,Caramelized herb stain,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Holiday,english,Finn,4,https://finn.wien/collections/mittagsmenu,
+Soup,Asparagus cream soup,english,Finn,5,https://finn.wien/collections/mittagsmenu,
 M1,,english,Finn,5,https://finn.wien/collections/mittagsmenu,11.5
-M2,spinach,english,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
-M3,Red Thai Chicken,english,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
-M3,Red Thai Chicken,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
-M3,Red Thai Chicken,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-M3,Red Thai Chicken,english,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
-M3,Red Thai Chicken,english,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
+M2,,english,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
+M3,Vegan Roll Bent,english,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
+M3,Vegan Roll Bent,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+M3,Vegan Roll Bent,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+M3,Vegan Roll Bent,english,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
+M3,Vegan Roll Bent,english,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
 M4,Salmon Bento,english,Finn,1,https://finn.wien/collections/mittagsmenu,12.0
 M4,Salmon Bento,english,Finn,2,https://finn.wien/collections/mittagsmenu,12.0
 M4,Salmon Bento,english,Finn,3,https://finn.wien/collections/mittagsmenu,12.0
@@ -177,26 +173,24 @@ ASIA BOX TO GO,,english,Finn,2,https://finn.wien/collections/mittagsmenu,5.9
 ASIA BOX TO GO,,english,Finn,3,https://finn.wien/collections/mittagsmenu,5.9
 ASIA BOX TO GO,,english,Finn,4,https://finn.wien/collections/mittagsmenu,5.9
 ASIA BOX TO GO,,english,Finn,5,https://finn.wien/collections/mittagsmenu,5.9
-Vegetarisch,Linsen Dal(AFLO),german,Glashaus,1,https://www.dasglashaus.at/menues,13.90
-Fisch & Fleisch,Hühnergeschnetzeltesmit Basmati Reis(GLO),german,Glashaus,1,https://www.dasglashaus.at/menues,14.90
-Vegetarisch,Tom Kha Gai Gemüsemit Basmati Reis(GLO),german,Glashaus,2,https://www.dasglashaus.at/menues,13.90
-Fisch & Fleisch,Grammelknödelmit warmem Speckkrautsalat(ACGLO),german,Glashaus,2,https://www.dasglashaus.at/menues,14.90
-Vegetarisch,Gnocchi Verdure(AGLO),german,Glashaus,3,https://www.dasglashaus.at/menues,13.90
-Fisch & Fleisch,Gefüllte Paprikamit Erdäpfelstampf und Tomatensauce(GLO),german,Glashaus,3,https://www.dasglashaus.at/menues,14.90
-Vegetarisch,Veggi Masalamit Basmati Reis (ACGLO),german,Glashaus,4,https://www.dasglashaus.at/menues,13.90
-Fisch & Fleisch,Schweinsfiletim Speckmantel mit Wedges und Pfeffersauce(GLO),german,Glashaus,4,https://www.dasglashaus.at/menues,14.90
-Vegetarisch,Cremige Schwammerlmit Serviettenknödel (ACGLO),german,Glashaus,5,https://www.dasglashaus.at/menues,13.90
-Fisch & Fleisch,Gebackenes Seelachsfiletmit Salzerdäpfeln und Sauce Tartare(ACDGLO),german,Glashaus,5,https://www.dasglashaus.at/menues,14.90
-Vegetarisch,Linsen dal (Aflo),english,Glashaus,1,https://www.dasglashaus.at/menues,13.90
-Fisch & Fleisch,Chicken sliced ​​with Basmati Reis (Glo),english,Glashaus,1,https://www.dasglashaus.at/menues,14.90
-Vegetarisch,Tom Kha Gai vegetable basemati rice (glo),english,Glashaus,2,https://www.dasglashaus.at/menues,13.90
-Fisch & Fleisch,Grammel dumplings with warm bacon herb salad (aclo),english,Glashaus,2,https://www.dasglashaus.at/menues,14.90
-Vegetarisch,Gnocchi owe (Aglo),english,Glashaus,3,https://www.dasglashaus.at/menues,13.90
-Fisch & Fleisch,Filled paprikamit potato stomp and tomato sauce (glo),english,Glashaus,3,https://www.dasglashaus.at/menues,14.90
-Vegetarisch,Vegi Masala with Basmati Reis (Aclo),english,Glashaus,4,https://www.dasglashaus.at/menues,13.90
-Fisch & Fleisch,Pork fillet in the bacon coat with wedges and pepper sauce (GLO),english,Glashaus,4,https://www.dasglashaus.at/menues,14.90
-Vegetarisch,Creamy mushroom mit napkin dumplings (aclo),english,Glashaus,5,https://www.dasglashaus.at/menues,13.90
-Fisch & Fleisch,Baked pollachers fillet with salt croses and sauce tartare (aclo),english,Glashaus,5,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,Erdäpfelgulaschmit Semmel (AGLO),german,Glashaus,1,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Truthahn-Geschnetzeltesmit Basmati Reis (ACGLO),german,Glashaus,1,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,Spinat-Spätzlein Rahmsauce (ACGLO),german,Glashaus,2,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Schweinsbratenmit Sauerkraut und Semmelknödel (ACGLO),german,Glashaus,2,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,Gemüselasagnemit Tomatensauce und Rucola (ACGLO),german,Glashaus,3,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Hühner Cordon Bleumit Salzerdäpfeln (ACG),german,Glashaus,3,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,FEIERTAG,german,Glashaus,4,https://www.dasglashaus.at/menues,13.90
+Vegetarisch,Vorarlberger Käsespätzlemit grünem Salat (ACGLO),german,Glashaus,5,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Fish & Chipsauf Erbsenpüree mit Sauce Tartare (ACDGLO),german,Glashaus,5,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,Potal goulash with Semmel (Aglo),english,Glashaus,1,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,TRUTHAHN-SHANDENT MIT BASMATI rice (Aclo),english,Glashaus,1,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,Spinate spaetzlein cream sauce (aclo),english,Glashaus,2,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Roast pork with sauerkraut and bread dumplings (aclo),english,Glashaus,2,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,Vegetable sagne with tomato sauce and rocket (aclo),english,Glashaus,3,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Chicken Cordon Bleu with salted crops (ACG),english,Glashaus,3,https://www.dasglashaus.at/menues,14.90
+Vegetarisch,HOLIDAY,english,Glashaus,4,https://www.dasglashaus.at/menues,13.90
+Vegetarisch,Vorarlberg cheese spaetzlemit Green Salad (Aclo),english,Glashaus,5,https://www.dasglashaus.at/menues,13.90
+Fisch & Fleisch,Fish & chips on pea puree with sauce tartare (acdglo),english,Glashaus,5,https://www.dasglashaus.at/menues,14.90
 ,"Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.",,Das Campus Hot Stuff,1,https://www.facebook.com/dchotstuff,
 ,"Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.",,Das Campus Hot Stuff,2,https://www.facebook.com/dchotstuff,
 ,"Das Campus Hot Stuff only posts their lunch options on Facebook, so please follow the link to your right if you want to access their menu.",,Das Campus Hot Stuff,3,https://www.facebook.com/dchotstuff,

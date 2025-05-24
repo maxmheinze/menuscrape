@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-05-22 11:00:46_
+_Last Update: 2025-05-24 10:00:58_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -52,42 +52,42 @@ _Last Update: 2025-05-22 11:00:46_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Tandoori Chicken mit Cashew-Reis</td>
+      <td>Spareribs mit Wedges und Bbq</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Tandoori chicken with cashew rice</td>
+      <td>Spare ribs with Wedges and BBQ</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Gnocchi in Paprika-Rahmsauce Veggie</td>
+      <td>Gemüseschnitzel mit Petersilerdäpfel und Sauce Tartare</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Gnocchi in paprika cream sauce veggie</td>
+      <td>Vegetables with parsley apples and sauce tartare</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Red Thai Chicken</td>
+      <td>Vegan Roll Bent</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Red Thai Chicken</td>
+      <td>Vegan Roll Bent</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -108,42 +108,42 @@ _Last Update: 2025-05-22 11:00:46_
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Karfiolsuppe</td>
+      <td>Kohlrabisuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Carfiol soup</td>
+      <td>Coal</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Hühnergeschnetzeltesmit Basmati Reis(GLO)</td>
+      <td>Truthahn-Geschnetzeltesmit Basmati Reis (ACGLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Chicken sliced ​​with Basmati Reis (Glo)</td>
+      <td>TRUTHAHN-SHANDENT MIT BASMATI rice (Aclo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Linsen Dal(AFLO)</td>
+      <td>Erdäpfelgulaschmit Semmel (AGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Linsen dal (Aflo)</td>
+      <td>Potal goulash with Semmel (Aglo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -347,42 +347,42 @@ _Last Update: 2025-05-22 11:00:46_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Hausgröstl mit Spiegelei</td>
+      <td>Chicken Tikka Masala mit Safranreis</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Hausgröstl with fried egg</td>
+      <td>Chicken Tikka Masala with saffron rice</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Schwammerl Ä La Creme mit Semmelknödeln garniert</td>
-      <td></td>
+      <td>Palak Paneer mit Naan</td>
+      <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Schwammmerl Ä la cream garnished with bread dumplings</td>
-      <td></td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M3</td>
-      <td>Red Thai Chicken</td>
+      <td>Palak Paneer with Naan</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Red Thai Chicken</td>
+      <td>Vegan Roll Bent</td>
+      <td>10.5</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Vegan Roll Bent</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -403,42 +403,42 @@ _Last Update: 2025-05-22 11:00:46_
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Minestrone</td>
+      <td>Kräftige Rindssuppe mit Frittaten</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Minestrone</td>
+      <td>Strong beef soup with fried</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Grammelknödelmit warmem Speckkrautsalat(ACGLO)</td>
+      <td>Schweinsbratenmit Sauerkraut und Semmelknödel (ACGLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Grammel dumplings with warm bacon herb salad (aclo)</td>
+      <td>Roast pork with sauerkraut and bread dumplings (aclo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Tom Kha Gai Gemüsemit Basmati Reis(GLO)</td>
+      <td>Spinat-Spätzlein Rahmsauce (ACGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Tom Kha Gai vegetable basemati rice (glo)</td>
+      <td>Spinate spaetzlein cream sauce (aclo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -642,42 +642,42 @@ _Last Update: 2025-05-22 11:00:46_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Backhendlstreifen mit Erdäpfel-Vogerisalat und Kernöl</td>
+      <td>Faschierte Laibchen mit Erdäpfelpüree und Zwiebelsaft</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Baking stripes with potato vogeris salad and nuclear oil</td>
+      <td>Fogled loafs with potato puree and onion juice</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Bärlauchrisotto mit gebratenen Kräuterseitlingen</td>
+      <td>Karamellisierte Krautfleckerl</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Wild garlic risotto with fried herbal sides</td>
+      <td>Caramelized herb stain</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Red Thai Chicken</td>
+      <td>Vegan Roll Bent</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Red Thai Chicken</td>
+      <td>Vegan Roll Bent</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -698,42 +698,42 @@ _Last Update: 2025-05-22 11:00:46_
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Orientalische</td>
+      <td>Pikante</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Oriental</td>
+      <td>Piquant</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Gefüllte Paprikamit Erdäpfelstampf und Tomatensauce(GLO)</td>
+      <td>Hühner Cordon Bleumit Salzerdäpfeln (ACG)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Filled paprikamit potato stomp and tomato sauce (glo)</td>
+      <td>Chicken Cordon Bleu with salted crops (ACG)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Gnocchi Verdure(AGLO)</td>
+      <td>Gemüselasagnemit Tomatensauce und Rucola (ACGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Gnocchi owe (Aglo)</td>
+      <td>Vegetable sagne with tomato sauce and rocket (aclo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -936,43 +936,15 @@ _Last Update: 2025-05-22 11:00:46_
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M1</td>
-      <td>Zürcher Geschnetzeltes mit Rösti</td>
-      <td>10.5</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M1</td>
-      <td>Zurich sliced ​​with Rösti</td>
-      <td>10.5</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M2</td>
-      <td>Rucola Raviolli in Trüffel-Obers-Sauce Veggie</td>
-      <td>10.5</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M2</td>
-      <td>Rucola Ravioli in truffle-Obers sauce veggie</td>
+      <td>M3</td>
+      <td>Vegan Roll Bent</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Red Thai Chicken</td>
-      <td>10.5</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M3</td>
-      <td>Red Thai Chicken</td>
+      <td>Vegan Roll Bent</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -993,42 +965,28 @@ _Last Update: 2025-05-22 11:00:46_
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td></td>
+      <td>Feiertag</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td></td>
+      <td>Holiday</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
-      <td>Fisch & Fleisch</td>
-      <td>Schweinsfiletim Speckmantel mit Wedges und Pfeffersauce(GLO)</td>
-      <td>14.90</td>
-      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
-    </tr>
-    <tr>
-      <td>Glashaus</td>
-      <td>Fisch & Fleisch</td>
-      <td>Pork fillet in the bacon coat with wedges and pepper sauce (GLO)</td>
-      <td>14.90</td>
-      <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
-    </tr>
-    <tr>
-      <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Veggi Masalamit Basmati Reis (ACGLO)</td>
+      <td>FEIERTAG</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Vegi Masala with Basmati Reis (Aclo)</td>
+      <td>HOLIDAY</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -1246,28 +1204,28 @@ _Last Update: 2025-05-22 11:00:46_
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Spinat</td>
+      <td></td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>spinach</td>
+      <td></td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Red Thai Chicken</td>
+      <td>Vegan Roll Bent</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Red Thai Chicken</td>
+      <td>Vegan Roll Bent</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -1288,42 +1246,42 @@ _Last Update: 2025-05-22 11:00:46_
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td></td>
+      <td>Spargelcremesuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td></td>
+      <td>Asparagus cream soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Gebackenes Seelachsfiletmit Salzerdäpfeln und Sauce Tartare(ACDGLO)</td>
+      <td>Fish & Chipsauf Erbsenpüree mit Sauce Tartare (ACDGLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Baked pollachers fillet with salt croses and sauce tartare (aclo)</td>
+      <td>Fish & chips on pea puree with sauce tartare (acdglo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Cremige Schwammerlmit Serviettenknödel (ACGLO)</td>
+      <td>Vorarlberger Käsespätzlemit grünem Salat (ACGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Creamy mushroom mit napkin dumplings (aclo)</td>
+      <td>Vorarlberg cheese spaetzlemit Green Salad (Aclo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
