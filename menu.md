@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-05-25 17:00:46_
+_Last Update: 2025-05-26 11:00:46_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -19,14 +19,14 @@ _Last Update: 2025-05-25 17:00:46_
       <td>Meat</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-19-kosher.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-26-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-19-kosher.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-26-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -150,42 +150,42 @@ _Last Update: 2025-05-25 17:00:46_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Chili con Carne-Reis-Bowl: Salsa, Guacamole, Salat, Cheddar und Sauerrahm</td>
+      <td>Pulled Pork-Reis-Bowl: Mexikanischer Reis, Bohnen, Salsa, Salat und Sauerrahm</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Chili Con Carne Rice Bowl: Salsa, Guacamole, Lettuce, Cheddar and Sour Cream (AG)MEAT€ 10,50</td>
+      <td>Pulled Pork Rice Bowl: Mexican Rice, Beans, Salsa, Lettuce and Sour Cream (AG)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Bohnen-Chili-Reis-Bowl: Salsa, Guacamole, Salat, Cheddar und Sauerrahm</td>
+      <td>Vegane Fleisch-Reis-Bowl: Gezupftes pflanzliches Fleisch, mexikanischer Reis, Bohnen, Salsa und Salat</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Bean Chili Rice Bowl: Salsa, Guacamole, Lettuce, Cheddar and Sour Cream (AG)VEGGIE€ 10,50</td>
+      <td>Vegan Meat Rice Bowl: Pulled Plant-base Meat, Mexican Rice, Beans, Salsa and Lettuce (AG)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Indisches Butter Chicken | Gewürzreis F,E,L,N</td>
+      <td>Faschierter Braten (Schwein) | Kartoffelpüree | Saft | Röstzwiebel A,C,G,L,M,O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Indian butter chicken |Spice rice f, e, l, n</td>
+      <td>Fascated roast (pig) |Potato puree |Juice |RöstWiebel A, C, G, L, M, O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -206,28 +206,28 @@ _Last Update: 2025-05-25 17:00:46_
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Puten Gyros Pita | Tsatsiki | Tomaten,Gurken,Zwiebel,K raut | Wedges A,G,L</td>
+      <td>Sous vide' Schweinsfilet | Pfeffersauce | gebratene Bärlauch Gnocchi | glacierte Karotten A,C,G,L,O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Turkey gyros pita |Tsatsiki |Tomatoes, cucumbers, onion, K Raut |Wedges A, G, L</td>
+      <td>Sous video 'pork fillet |Pepper sauce |Fried wild garlic gnocchi |glaced carrots a, c, g, l, o</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Indisches Butter Chicken | Gewürzreis F,E,L,N</td>
+      <td>Faschierter Braten (Schwein) | Kartoffelpüree | Saft | Röstzwiebel A,C,G,L,M,O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Indian butter chicken |Spice rice f, e, l, n</td>
+      <td>Fascated roast (pig) |Potato puree |Juice |RöstWiebel A, C, G, L, M, O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -262,14 +262,14 @@ _Last Update: 2025-05-25 17:00:46_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Spinat-Lasagne | leichte Knoblauch-Rahmsauce A,C,G,L</td>
+      <td>Makkaroni-Käse-Auflauf | Tomatensauce A,C,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Spinat lasagne |Light garlic cream sauce A, C, G, L</td>
+      <td>Macaroni cheese casserole |Tomato sauce A, C, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -314,14 +314,14 @@ _Last Update: 2025-05-25 17:00:46_
       <td>Meat</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-19-kosher.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-26-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-19-kosher.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-26-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -445,42 +445,42 @@ _Last Update: 2025-05-25 17:00:46_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Rotes Thai-Hühnchen-Curry mit gedämpftem Basmatireis</td>
+      <td>Griechische Hähnchen-Bowl: Gebratene Hähnchenstreifen, Couscous, Tzatziki, Tomaten-Gurken-Salat und Kopfsalat</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Chicken Red Thai Curry with Steamed Basmati Rice (L)MEAT€ 10,50</td>
+      <td>Chicken-Greek Bowl: Fried Chicken Strips, Couscous, Tzatziki, Tomato-Cucumber Salad and Lettuce (AG)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Spinat-Curry mit Halloumi und gedämpftem Basmatireis</td>
+      <td>Griechische Falafel-Bowl: Couscous, Tzatziki, Tomaten-Gurken-Salat und Kopfsalat</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Spinach Curry with Halloumi Cheese and Steamed Basmati Rice (F)VEGGIE€ 10,50</td>
+      <td>Falafel-Greek Bowl: Couscous, Tzatziki, Tomato-Cucumber Salad and Lettuce (AG)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Penne | Carbonara (Schwein) | Spargel | Parmesan A,C,G</td>
+      <td>Käsekrainer | Pommes | Zwiebelsenf A,G,L,M</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Penne |Carbonara (pig) |Asparagus |Parmesan A, C, G</td>
+      <td>Käsekrainer |Fries |Onion mustard a, g, l, m</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -501,28 +501,28 @@ _Last Update: 2025-05-25 17:00:46_
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Chili Beef Burrito | Bohnenreis | Cheddar Cheese Sauce | Dips | Tortilla Chips A,F,G,L,M</td>
+      <td>Gebratene Eiernudeln mit Gemüse | Tofu oder Putenfleisch | Teriyaki oder Curry Sauce A,C,F,L,H,O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Chili Beef Burrito |Bean rice |Cheddar cheese sauce |Dips |Tortilla chips a, f, g, l, m</td>
+      <td>Fried egg noodles with vegetablesTofu or turkey meat |Teriyaki or curry sauce a, c, f, l, h, o</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Penne | Carbonara (Schwein) | Spargel | Parmesan A,C,G</td>
+      <td>Käsekrainer | Pommes | Zwiebelsenf A,G,L,M</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Penne |Carbonara (pig) |Asparagus |Parmesan A, C, G</td>
+      <td>Käsekrainer |Fries |Onion mustard a, g, l, m</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -557,42 +557,42 @@ _Last Update: 2025-05-25 17:00:46_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Kichererbsen-Gemüse Curry | Bulgur (vegan) A,L</td>
+      <td>Orientalische Bulgur- Gemüsepfanne | Soja- Joghurt Dip A,E,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Chickpea vegetables curry |Bulgur (vegan) a, l</td>
+      <td>Oriental Bulgur vegetable pan |Soy-yogurt dip a, e, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Selleriecremesuppe A,L</td>
+      <td>Gemüsecremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Celery cream soup a, l</td>
+      <td>Vegetable cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Selleriecremesuppe A,L</td>
+      <td>Gemüsecremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Celery cream soup a, l</td>
+      <td>Vegetable cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -609,14 +609,14 @@ _Last Update: 2025-05-25 17:00:46_
       <td>Meat</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-19-kosher.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-26-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-19-kosher.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-26-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -740,28 +740,28 @@ _Last Update: 2025-05-25 17:00:46_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Geschmortes Rinderragout auf Couscous mit gedämpften grünen Bohnen</td>
+      <td>Geschmorter Schweinefleisch-Congee: Seidiger Reisbrei mit Schweinefleisch, gedünstetem Gemüse und süß-scharfer asiatischer Sauce</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Braised Beef Ragu on Couscous with Steamed Green Beans (A)MEAT€ 10,50</td>
+      <td>Braised Pork Congee: Silky Rice Porridge with Pork, Steamed Vegetables and Asian Sweet and Spicy Sauce (GN)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Gartengemüse-Ragout auf Couscous mit geröstetem Gemüse in Tomatensauce und gedämpften grünen Bohnen</td>
+      <td>Tofu-Congee: Seidiger Reisbrei mit Tofu, gedünstetem Gemüse und süß-scharfer asiatischer Sauce</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Garden Vegetable Ragu on Couscous with Roasted Vegetables in a Tomato based Sauce and Steamed Green Beans (A)VEGGIE€ 10,50</td>
+      <td>Tofu Congee: Silky Rice Porridge with Tofu, Steamed Vegetables and Asian Sweet and Spicy Sauce (FGN)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -852,14 +852,14 @@ _Last Update: 2025-05-25 17:00:46_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Serviettenknödel A,C,G,L</td>
+      <td>Zucchini- Kartoffelgulasch | Wachauer A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Napkin dumplings A, C, G, L</td>
+      <td>Zucchini potato goulash |Wachauer A, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -904,14 +904,14 @@ _Last Update: 2025-05-25 17:00:46_
       <td>Meat</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-19-kosher.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-26-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-19-kosher.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-26-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -992,155 +992,141 @@ _Last Update: 2025-05-25 17:00:46_
     </tr>
     <tr>
       <td>Library</td>
-      <td>Meat</td>
-      <td>Geschmortes Schweinefilet mit Au Jus, Kartoffel-Käse-Gratin, Apfel-Sauerkraut und gedünstetem Brokkoli</td>
-      <td>10.50</td>
+      <td>Unspecified</td>
+      <td>Küche geschlossen</td>
+      <td>N/A</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
-      <td>Meat</td>
-      <td>Braised Pork Loin with Au Jus: Potato-Cheese Gratin, Apple Sauerkraut and Steamed Broccoli (ACG)MEAT€ 10,50</td>
-      <td>10.50</td>
-      <td><a href="https://lia.coffee">Link</a></td>
-    </tr>
-    <tr>
-      <td>Library</td>
-      <td>Veggie</td>
-      <td>Gebratene Gemüselaibchen mit Gemüsesoße, Kartoffel-Käse-Gratin, Apfel-Sauerkraut und gedünstetem Brokkoli</td>
-      <td>10.50</td>
-      <td><a href="https://lia.coffee">Link</a></td>
-    </tr>
-    <tr>
-      <td>Library</td>
-      <td>Veggie</td>
-      <td>Fried Vegetable Patties: Vegetable Gravy, Potato-Cheese Gratin, Apple Sauerkraut and Steamed Broccoli (ACG)VEGGIE€ 10,50</td>
-      <td>10.50</td>
+      <td>Unspecified</td>
+      <td>Kitchen is closed</td>
+      <td>N/A</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Chili Con Carne vom Rind | Gebäck A,L</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Chili con carne from beef |Proitioners A, L</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Bowls & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Bowls & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Mensa Burger | Pommes Beef oder Planted 'Crispy Chicken style' A,G</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Cafeteria burger |French fries beef or planted 'crispy chicken style' a, g</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Chili Con Carne vom Rind | Gebäck A,L</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Chili con carne from beef |Proitioners A, L</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td>Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td>Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Rotes Linsen Dal | Süsskartoffel | Duftreis</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Red lentils dal |Sweet potato |Fragrance</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Paprikacremesuppe A,L</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Paprikecremes soup a, l</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Paprikacremesuppe A,L</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Paprikecremes soup a, l</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1157,14 +1143,14 @@ _Last Update: 2025-05-25 17:00:46_
       <td>Meat</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-19-kosher.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-26-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Baschly</td>
       <td>Veggie</td>
       <td>Baschly decided to upload an image-based menu this week. So please follow the link to your right if you want to access their menu.</td>
       <td></td>
-      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-19-kosher.jpg">Link</a></td>
+      <td><a href="https://baschly.com/wpb/wp-content/uploads/2025/05/baschly-lunch-special-2025-05-26-kosher.jpg">Link</a></td>
     </tr>
     <tr>
       <td>Das Campus Hot Stuff</td>
@@ -1316,28 +1302,28 @@ _Last Update: 2025-05-25 17:00:46_
     <tr>
       <td>Mensa</td>
       <td>Bowls & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Bowls & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Food Waste Day</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Global & Grill</td>
-      <td>Food Waste Day</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1358,42 +1344,42 @@ _Last Update: 2025-05-25 17:00:46_
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td>Hausgemachte Pasta (A) Hausgemachte Gnocchi (A,C,G) wahlweise Tomatensauce oder Pesto Rinder Bolognese Aufpreis</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td>Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td>Pizza Margherita Pizza Speciale</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>A,F,H,M,O</td>
+      <td>Knoblauchdip A,C,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>A, f, h, m, o</td>
+      <td>Knoblauchdip A, C, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
