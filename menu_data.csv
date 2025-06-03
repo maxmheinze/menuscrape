@@ -117,24 +117,26 @@ Meat,Rindfleisch-Gemüseeintopf mit Polenta und gedünstetem Gemüse,german,Libr
 Meat,"Beef and Vegetable Stew with Polenta and Steamed Vegetables (AL)MEAT€ 10,50",english,Library,4,https://lia.coffee,10.50
 Veggie,Kücheninspiration:Das heutige Menü wird vom Koch spontan zusammengestellt,german,Library,5,https://lia.coffee,10.50
 Veggie,"Kitchen Inspiration: today´s menu will be crafted spontaneously by the cook of the day.VEGGIE€ 10,50MEAT€ 10,50",english,Library,5,https://lia.coffee,10.50
-Soup,Kohlrabisuppe,german,Finn,1,https://finn.wien/collections/mittagsmenu,
-M1,Spareribs mit Wedges und Bbq,german,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
-M2,Gemüseschnitzel mit Petersilerdäpfel und Sauce Tartare,german,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
-Soup,Kräftige Rindssuppe mit Frittaten,german,Finn,2,https://finn.wien/collections/mittagsmenu,
-M1,Chicken Tikka Masala mit Safranreis,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
-M2,Palak Paneer mit Naan,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
-Soup,Pikante,german,Finn,3,https://finn.wien/collections/mittagsmenu,
-M1,Faschierte Laibchen mit Erdäpfelpüree und Zwiebelsaft,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-M2,Karamellisierte Krautfleckerl,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-Soup,Feiertag,german,Finn,4,https://finn.wien/collections/mittagsmenu,
-Soup,Spargelcremesuppe,german,Finn,5,https://finn.wien/collections/mittagsmenu,
-M1,,german,Finn,5,https://finn.wien/collections/mittagsmenu,11.5
-M2,,german,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
-M3,Vegan Roll Bent,german,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
-M3,Vegan Roll Bent,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
-M3,Vegan Roll Bent,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-M3,Vegan Roll Bent,german,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
-M3,Vegan Roll Bent,german,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Knoblauchcremesuppe mit Croutons,german,Finn,1,https://finn.wien/collections/mittagsmenu,
+M1,10.,german,Finn,1,https://finn.wien/collections/mittagsmenu,
+M2,Tag,german,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Mediterrane Gemüsesuppe,german,Finn,2,https://finn.wien/collections/mittagsmenu,
+M1,Kalbsrahmgulasch mit Butternockerln,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+M2,Eierschwammerlgulasch mit Knödel Veggie,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+Soup,,german,Finn,3,https://finn.wien/collections/mittagsmenu,
+M1,Wiener Tafelspitz mit Rösti und Schnittlauchsauce,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+M2,Erdäpfelgulasch mit Weißbrot Vegan,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Miso,german,Finn,4,https://finn.wien/collections/mittagsmenu,
+M1,Pad Kra Pao mit Jasminreis und Spiegelei,german,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
+M2,Thai Green Curry mit Tofu und Gemüse mit Reis Vegan,german,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Gurkenkaltschale,german,Finn,5,https://finn.wien/collections/mittagsmenu,
+M1,Gegrillte Garnelen auf lauwarmem Glasnudelsalat,german,Finn,5,https://finn.wien/collections/mittagsmenu,11.5
+M2,Tortellini Tricolore mit Pesto Pomodoro,german,Finn,5,https://finn.wien/collections/mittagsmenu,
+M3,Karaage Bento,german,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
+M3,Karaage Bento,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+M3,Karaage Bento,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+M3,Karaage Bento,german,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
+M3,Karaage Bento,german,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
 M4,Lachs Bento,german,Finn,1,https://finn.wien/collections/mittagsmenu,12.0
 M4,Lachs Bento,german,Finn,2,https://finn.wien/collections/mittagsmenu,12.0
 M4,Lachs Bento,german,Finn,3,https://finn.wien/collections/mittagsmenu,12.0
@@ -145,24 +147,26 @@ ASIA BOX TO GO,,german,Finn,2,https://finn.wien/collections/mittagsmenu,5.9
 ASIA BOX TO GO,,german,Finn,3,https://finn.wien/collections/mittagsmenu,5.9
 ASIA BOX TO GO,,german,Finn,4,https://finn.wien/collections/mittagsmenu,5.9
 ASIA BOX TO GO,,german,Finn,5,https://finn.wien/collections/mittagsmenu,5.9
-Soup,Coal,english,Finn,1,https://finn.wien/collections/mittagsmenu,
-M1,Spare ribs with Wedges and BBQ,english,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
-M2,Vegetables with parsley apples and sauce tartare,english,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
-Soup,Strong beef soup with fried,english,Finn,2,https://finn.wien/collections/mittagsmenu,
-M1,Chicken Tikka Masala with saffron rice,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
-M2,Palak Paneer with Naan,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
-Soup,Piquant,english,Finn,3,https://finn.wien/collections/mittagsmenu,
-M1,Fogled loafs with potato puree and onion juice,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-M2,Caramelized herb stain,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-Soup,Holiday,english,Finn,4,https://finn.wien/collections/mittagsmenu,
-Soup,Asparagus cream soup,english,Finn,5,https://finn.wien/collections/mittagsmenu,
-M1,,english,Finn,5,https://finn.wien/collections/mittagsmenu,11.5
-M2,,english,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
-M3,Vegan Roll Bent,english,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
-M3,Vegan Roll Bent,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
-M3,Vegan Roll Bent,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-M3,Vegan Roll Bent,english,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
-M3,Vegan Roll Bent,english,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Garlic cream soup with croutons,english,Finn,1,https://finn.wien/collections/mittagsmenu,
+M1,10.,english,Finn,1,https://finn.wien/collections/mittagsmenu,
+M2,day,english,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Mediterranean vegetable soup,english,Finn,2,https://finn.wien/collections/mittagsmenu,
+M1,Calf -cream goulash with Butternockerln,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+M2,Egg mushroom goulash with dumplings veggie,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+Soup,,english,Finn,3,https://finn.wien/collections/mittagsmenu,
+M1,Wiener Tafelspitz with rösti and chives sauce,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+M2,Potal goulash with white bread vegan,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Miso,english,Finn,4,https://finn.wien/collections/mittagsmenu,
+M1,Pad Kra Pao with jasmine rice and fried egg,english,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
+M2,Thai green curry with tofu and vegetables with rice vegan,english,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Cucumber,english,Finn,5,https://finn.wien/collections/mittagsmenu,
+M1,Grilled shrimp on lukewarm glass noodle salad,english,Finn,5,https://finn.wien/collections/mittagsmenu,11.5
+M2,Tortellini tricolore with pesto pomodoro,english,Finn,5,https://finn.wien/collections/mittagsmenu,
+M3,Karaage Bento,english,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
+M3,Karaage Bento,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+M3,Karaage Bento,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+M3,Karaage Bento,english,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
+M3,Karaage Bento,english,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
 M4,Salmon Bento,english,Finn,1,https://finn.wien/collections/mittagsmenu,12.0
 M4,Salmon Bento,english,Finn,2,https://finn.wien/collections/mittagsmenu,12.0
 M4,Salmon Bento,english,Finn,3,https://finn.wien/collections/mittagsmenu,12.0

@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-06-02 11:00:57_
+_Last Update: 2025-06-03 12:00:54_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -52,42 +52,42 @@ _Last Update: 2025-06-02 11:00:57_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Spareribs mit Wedges und Bbq</td>
-      <td>10.5</td>
+      <td>10.</td>
+      <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Spare ribs with Wedges and BBQ</td>
+      <td>10.</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M2</td>
+      <td>Tag</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Gemüseschnitzel mit Petersilerdäpfel und Sauce Tartare</td>
-      <td>10.5</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M2</td>
-      <td>Vegetables with parsley apples and sauce tartare</td>
+      <td>day</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Vegan Roll Bent</td>
+      <td>Karaage Bento</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Vegan Roll Bent</td>
+      <td>Karaage Bento</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -108,14 +108,14 @@ _Last Update: 2025-06-02 11:00:57_
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Kohlrabisuppe</td>
+      <td>Knoblauchcremesuppe mit Croutons</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Coal</td>
+      <td>Garlic cream soup with croutons</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -347,42 +347,42 @@ _Last Update: 2025-06-02 11:00:57_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Chicken Tikka Masala mit Safranreis</td>
+      <td>Kalbsrahmgulasch mit Butternockerln</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Chicken Tikka Masala with saffron rice</td>
+      <td>Calf -cream goulash with Butternockerln</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Palak Paneer mit Naan</td>
+      <td>Eierschwammerlgulasch mit Knödel Veggie</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Palak Paneer with Naan</td>
+      <td>Egg mushroom goulash with dumplings veggie</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Vegan Roll Bent</td>
+      <td>Karaage Bento</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Vegan Roll Bent</td>
+      <td>Karaage Bento</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -403,14 +403,14 @@ _Last Update: 2025-06-02 11:00:57_
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Kräftige Rindssuppe mit Frittaten</td>
+      <td>Mediterrane Gemüsesuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Strong beef soup with fried</td>
+      <td>Mediterranean vegetable soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -628,42 +628,42 @@ _Last Update: 2025-06-02 11:00:57_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Faschierte Laibchen mit Erdäpfelpüree und Zwiebelsaft</td>
+      <td>Wiener Tafelspitz mit Rösti und Schnittlauchsauce</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Fogled loafs with potato puree and onion juice</td>
+      <td>Wiener Tafelspitz with rösti and chives sauce</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Karamellisierte Krautfleckerl</td>
+      <td>Erdäpfelgulasch mit Weißbrot Vegan</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Caramelized herb stain</td>
+      <td>Potal goulash with white bread vegan</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Vegan Roll Bent</td>
+      <td>Karaage Bento</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Vegan Roll Bent</td>
+      <td>Karaage Bento</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -684,14 +684,14 @@ _Last Update: 2025-06-02 11:00:57_
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Pikante</td>
+      <td></td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Piquant</td>
+      <td></td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -908,15 +908,43 @@ _Last Update: 2025-06-02 11:00:57_
     </tr>
     <tr>
       <td>Finn</td>
-      <td>M3</td>
-      <td>Vegan Roll Bent</td>
+      <td>M1</td>
+      <td>Pad Kra Pao mit Jasminreis und Spiegelei</td>
+      <td>10.5</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M1</td>
+      <td>Pad Kra Pao with jasmine rice and fried egg</td>
+      <td>10.5</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M2</td>
+      <td>Thai Green Curry mit Tofu und Gemüse mit Reis Vegan</td>
+      <td>10.5</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M2</td>
+      <td>Thai green curry with tofu and vegetables with rice vegan</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Vegan Roll Bent</td>
+      <td>Karaage Bento</td>
+      <td>10.5</td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Karaage Bento</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -937,14 +965,14 @@ _Last Update: 2025-06-02 11:00:57_
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Feiertag</td>
+      <td>Miso</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Holiday</td>
+      <td>Miso</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -1162,42 +1190,42 @@ _Last Update: 2025-06-02 11:00:57_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td></td>
+      <td>Gegrillte Garnelen auf lauwarmem Glasnudelsalat</td>
       <td>11.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td></td>
+      <td>Grilled shrimp on lukewarm glass noodle salad</td>
       <td>11.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
+      <td>Tortellini Tricolore mit Pesto Pomodoro</td>
       <td></td>
-      <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
+      <td>Tortellini tricolore with pesto pomodoro</td>
       <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M3</td>
+      <td>Karaage Bento</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M3</td>
-      <td>Vegan Roll Bent</td>
-      <td>10.5</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M3</td>
-      <td>Vegan Roll Bent</td>
+      <td>Karaage Bento</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -1218,14 +1246,14 @@ _Last Update: 2025-06-02 11:00:57_
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Spargelcremesuppe</td>
+      <td>Gurkenkaltschale</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Asparagus cream soup</td>
+      <td>Cucumber</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
