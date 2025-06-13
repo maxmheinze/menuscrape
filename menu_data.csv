@@ -115,24 +115,24 @@ Meat,Cheese Burger und Pommes Frites,german,Library,4,https://lia.coffee,10.50
 Meat,"Cheese Burgers and French Fries (AG)MEAT€ 10,50",english,Library,4,https://lia.coffee,10.50
 Veggie,Kücheninspiration:Das heutige Menü wird vom Koch spontan zusammengestellt,german,Library,5,https://lia.coffee,10.50
 Veggie,"Kitchen Inspiration: today´s menu will be crafted spontaneously by the cook of the day.VEGGIE€ 10,50MEAT€ 10,50",english,Library,5,https://lia.coffee,10.50
-Soup,Feiertag,german,Finn,1,https://finn.wien/collections/mittagsmenu,
-Soup,,german,Finn,2,https://finn.wien/collections/mittagsmenu,
-M1,,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
-M2,Gnocchi mit EierschwammerlIn und Parmesan,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
-Soup,Rote Linsensuppe mit Granatapfelkernen,german,Finn,3,https://finn.wien/collections/mittagsmenu,
-M1,Butter Chicken mit Kardamom-Cashew-Reis,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-M2,Melanzani-okra-eintopf mit Kardamom-Cashew-Reis Veggie,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-Soup,Zwiebelsuppe,german,Finn,4,https://finn.wien/collections/mittagsmenu,
-M1,Lasagne Al Forno,german,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
-M2,Arancini in lauwarmer Paradeis-Basilikum-Sauce,german,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
-Soup,Melonenkaltschale,german,Finn,5,https://finn.wien/collections/mittagsmenu,
-M1,,german,Finn,5,https://finn.wien/collections/mittagsmenu,11.5
-M2,Griechischer Bauernsalat mit Rosmarinbrot,german,Finn,5,https://finn.wien/collections/mittagsmenu,
-M3,Hühner Gyoza Bento,german,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
-M3,Hühner Gyoza Bento,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
-M3,Hühner Gyoza Bento,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-M3,Hühner Gyoza Bento,german,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
-M3,Hühner Gyoza Bento,german,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Karottencremesuppe,german,Finn,1,https://finn.wien/collections/mittagsmenu,
+M1,Piccata Milanese vom Huhn garniert mit Parmesan und Pesto,german,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
+M2,10.,german,Finn,1,https://finn.wien/collections/mittagsmenu,
+Soup,Fisolensuppe mit Dill,german,Finn,2,https://finn.wien/collections/mittagsmenu,
+M1,Putengyros mit Reis und Tzatziki,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+M2,,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+Soup,,german,Finn,3,https://finn.wien/collections/mittagsmenu,
+M1,Pappardelle Bolognese mit frisch geriebenem Pecorino,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+M2,,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Feiertag,german,Finn,4,https://finn.wien/collections/mittagsmenu,
+Soup,Paradeissuppe,german,Finn,5,https://finn.wien/collections/mittagsmenu,
+M1,Gebackene Scholle,german,Finn,5,https://finn.wien/collections/mittagsmenu,11.5
+M2,,german,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
+M3,Tempura Garnelen Bento,german,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
+M3,Tempura Garnelen Bento,german,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+M3,Tempura Garnelen Bento,german,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+M3,Tempura Garnelen Bento,german,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
+M3,Tempura Garnelen Bento,german,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
 M4,Lachs Bento,german,Finn,1,https://finn.wien/collections/mittagsmenu,12.0
 M4,Lachs Bento,german,Finn,2,https://finn.wien/collections/mittagsmenu,12.0
 M4,Lachs Bento,german,Finn,3,https://finn.wien/collections/mittagsmenu,12.0
@@ -143,24 +143,24 @@ ASIA BOX TO GO,,german,Finn,2,https://finn.wien/collections/mittagsmenu,5.9
 ASIA BOX TO GO,,german,Finn,3,https://finn.wien/collections/mittagsmenu,5.9
 ASIA BOX TO GO,,german,Finn,4,https://finn.wien/collections/mittagsmenu,5.9
 ASIA BOX TO GO,,german,Finn,5,https://finn.wien/collections/mittagsmenu,5.9
-Soup,Holiday,english,Finn,1,https://finn.wien/collections/mittagsmenu,
-Soup,,english,Finn,2,https://finn.wien/collections/mittagsmenu,
-M1,,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
-M2,Gnocchi with mushrooms and parmesan,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
-Soup,Red lentil soup with pomegranate seeds,english,Finn,3,https://finn.wien/collections/mittagsmenu,
-M1,Butter chicken with cardamom cashew rice,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-M2,Melanzani-Rokra-pot with cardamom-cashew rice veggie,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-Soup,Onion soup,english,Finn,4,https://finn.wien/collections/mittagsmenu,
-M1,Lasagne al Forno,english,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
-M2,Arancini in Lukewarmer parade ice basil sauce,english,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
-Soup,Melon calibration,english,Finn,5,https://finn.wien/collections/mittagsmenu,
-M1,,english,Finn,5,https://finn.wien/collections/mittagsmenu,11.5
-M2,Greek peasant salad with rosemary bread,english,Finn,5,https://finn.wien/collections/mittagsmenu,
-M3,Chicken Gyoza Bento,english,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
-M3,Chicken Gyoza Bento,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
-M3,Chicken Gyoza Bento,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
-M3,Chicken Gyoza Bento,english,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
-M3,Chicken Gyoza Bento,english,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Carrot cream soup,english,Finn,1,https://finn.wien/collections/mittagsmenu,
+M1,Piccata Milanese garnished with Parmesan and Pesto,english,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
+M2,10.,english,Finn,1,https://finn.wien/collections/mittagsmenu,
+Soup,Fisolens soup with dill,english,Finn,2,https://finn.wien/collections/mittagsmenu,
+M1,Turkey gyros with rice and tzatziki,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+M2,,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+Soup,,english,Finn,3,https://finn.wien/collections/mittagsmenu,
+M1,Pappardelle Bolognese with freshly grated Pecorino,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+M2,,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+Soup,Holiday,english,Finn,4,https://finn.wien/collections/mittagsmenu,
+Soup,Parade soup,english,Finn,5,https://finn.wien/collections/mittagsmenu,
+M1,Baked plaice,english,Finn,5,https://finn.wien/collections/mittagsmenu,11.5
+M2,,english,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
+M3,Tempura shrimp bento,english,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
+M3,Tempura shrimp bento,english,Finn,2,https://finn.wien/collections/mittagsmenu,10.5
+M3,Tempura shrimp bento,english,Finn,3,https://finn.wien/collections/mittagsmenu,10.5
+M3,Tempura shrimp bento,english,Finn,4,https://finn.wien/collections/mittagsmenu,10.5
+M3,Tempura shrimp bento,english,Finn,5,https://finn.wien/collections/mittagsmenu,10.5
 M4,Salmon Bento,english,Finn,1,https://finn.wien/collections/mittagsmenu,12.0
 M4,Salmon Bento,english,Finn,2,https://finn.wien/collections/mittagsmenu,12.0
 M4,Salmon Bento,english,Finn,3,https://finn.wien/collections/mittagsmenu,12.0
