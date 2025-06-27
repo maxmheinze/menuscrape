@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-06-24 11:00:51_
+_Last Update: 2025-06-27 11:01:06_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -424,7 +424,7 @@ _Last Update: 2025-06-24 11:00:51_
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Porkragoutmit Nockerl (Aclo)</td>
+      <td>Pork ragout with nockerl (aclo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -438,7 +438,7 @@ _Last Update: 2025-06-24 11:00:51_
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Filled zucchinimit couscous and feta (alo)</td>
+      <td>Filled zucchini with couscous and feta (alo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -719,7 +719,7 @@ _Last Update: 2025-06-24 11:00:51_
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Chicken Schnitzel with Pota Parking salad (Aclmo)</td>
+      <td>Chicken schnitzel with potato salad (aclo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -887,7 +887,7 @@ _Last Update: 2025-06-24 11:00:51_
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Clear vegetable soup |Einlage A,C,G,L</td>
+      <td>Clear vegetable soup |Inlay A, C, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
