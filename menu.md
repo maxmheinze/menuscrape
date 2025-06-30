@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-06-28 16:00:55_
+_Last Update: 2025-06-30 17:00:49_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -108,28 +108,28 @@ _Last Update: 2025-06-28 16:00:55_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Arroz Con Pollo: Hühnchen und Reis, Paprika, Erbsen, dazu Tomatensalat mit roten Zwiebeln</td>
+      <td>Baja Fisch-Tacos: Maistortillas, Rotkohl, Sauerrahm-Salsa, mexikanischer Reis, gemischte Bohnen und Koriander</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Arroz Con Pollo: One Pot Chicken and Rice Dish with Paprika and Peas, and side of Tomato-Red Onion Salad (A)MEAT€ 10,50</td>
+      <td>Baja Fish Tacos: Corn Tortillas, Red Cabbage, Sour Cream Salsa, Mexican Rice, Mixed Beans and Coriander (ADG)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Knuspriges Gemüse-Patty und Reisgericht mit Paprika und Erbsen, dazu Tomatensalat mit roten Zwiebeln</td>
+      <td>Gebratene Pilz-Tacos: Maistortillas, Rotkohl, Sauerrahm-Salsa, mexikanischer Reis, gemischte Bohnen und Koriander</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Crispy Veggie Pattie and Rice Dish with Paprika and Peas, and side of Tomato-Red Onion Salad (AF)VEGGIE€ 10,50</td>
+      <td>Fried Mushroom Tacos: Corn Tortillas, Red Cabbage, Sour Cream Salsa, Mexican Rice, Mixed Beans and Coriander (AG)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -347,28 +347,28 @@ _Last Update: 2025-06-28 16:00:55_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Schweinefleisch-Kebab und mediterraner Quinoa-Salat mit gerösteten Kichererbsen, Hummus, Feta, Tomaten, Fladenbrot und Zitrusdressing</td>
+      <td>Beef Stroganoff: Auf Eiernudeln mit gemischtem grünen Salat</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Pork Kabab-Quinoa Mediterranean Salad with Roasted Chickpeas, Hummus, Feta, Tomatoes, Flat Bread, and Citrus Dressing (AG)MEAT€ 10,50</td>
+      <td>Beef Stroganoff: On Egg Noodles with Mixed Green Salad (AG)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Mediterraner Quinoa-Salat mit gerösteten Kichererbsen, Hummus, Feta, Tomaten, Fladenbrot und Zitrusdressing</td>
+      <td>Wildpilz-Stroganoff: mit Erbsen und Spinat auf Eiernudeln mit gemischtem grünen Salat</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Quinoa Mediterranean Salad with Roasted Chickpeas, Hummus, Feta, Tomatoes, Flat Bread, and Citrus Dressing (AG)VEGGIE€ 10,50</td>
+      <td>Wild Mushroom Stroganoff: with Peas, and Spinach on Egg Noodles with Mixed Green Salad (AG)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -586,28 +586,28 @@ _Last Update: 2025-06-28 16:00:55_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Hawaiianisches Hähnchen mit gedämpften Butterkartoffeln und grünem gemischten Salat</td>
+      <td>Hühnchen-Teriyaki-Bowl: mit Edamame, Karotten, Rotkohl und scharfer Mayo-Sauce</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Hawaiian Chicken with Steamed Butter-Potatoes, and Green Mix Salad (AG)MEAT€ 10,50</td>
+      <td>Chicken Teriyaki Bowl: with Edamame, Carrots, Red Cabbage and Spicy Mayo Sauce (AGN)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Hawaiianische Gemüselaibchen mit gedämpften Butterkartoffeln und grünem gemischten Salat</td>
+      <td>Tofu-Teriyaki-Bowl: mit Edamame, Karotten, Rotkohl und scharfer Mayo-Sauce</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Hawaiian Veggie Patties with Steamed Butter-Potatoes and Green Mix Salad (AFG)VEGGIE€ 10,50</td>
+      <td>Tofu Teriyaki Bowl: with Edamame, Carrots, Red Cabbage and Spicy Mayo Sauce (AFGN)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -825,28 +825,28 @@ _Last Update: 2025-06-28 16:00:55_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Rindfleisch-Tomaten-Ragout mit Couscous</td>
+      <td>Rindfleisch-Curry: mit gedämpften grünen Bohnen, Basmatireis und Naan</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Beef Tomato Ragu with Couscous (AL)MEAT€ 10,50</td>
+      <td>Beef Curry: with Steamed Green Beans, Basmati Rice and Naan (AG)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Gemüse-Tomaten-Ragout mit Couscous</td>
+      <td>Spinat-Curry: mit Halloumi, Basmatireis und Naan</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Vegetable Tomato Ragu with Couscous (AL)VEGGIE€ 10,50</td>
+      <td>Spinach Curry: with Halloumi, Basmati Rice and Naan (AG)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -1063,15 +1063,29 @@ _Last Update: 2025-06-28 16:00:55_
     </tr>
     <tr>
       <td>Library</td>
-      <td>Veggie</td>
-      <td>Kücheninspiration:Das heutige Menü wird vom Koch spontan zusammengestellt</td>
+      <td>Meat</td>
+      <td>Fisch in Bierteig: mit Kartoffelspalten, Sauce Tartare und Erbsen</td>
+      <td>10.50</td>
+      <td><a href="https://lia.coffee">Link</a></td>
+    </tr>
+    <tr>
+      <td>Library</td>
+      <td>Meat</td>
+      <td>Beer Battered Fish: with Potato Wedges, Sauce Tartare and side of Peas (ADG)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Kitchen Inspiration: today´s menu will be crafted spontaneously by the cook of the day.VEGGIE€ 10,50MEAT€ 10,50</td>
+      <td>Zucchini in Bierteig: mit Kartoffelspalten, Sauce Tartare und Erbsen</td>
+      <td>10.50</td>
+      <td><a href="https://lia.coffee">Link</a></td>
+    </tr>
+    <tr>
+      <td>Library</td>
+      <td>Veggie</td>
+      <td>Beer Battered Zucchini: with Potato Wedges, Sauce Tartare and side of Peas (AG)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>

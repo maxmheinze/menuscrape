@@ -89,24 +89,26 @@ Meaty,"Baked salmon |Petersil Erdäpfel |Sc.Tartare A, C, D, G, M",english,Mensa
 Pizza & Co,XXX,english,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
 Bowls & Co,XXX,english,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
 Pasta & Co,"Homemade pasta (a) homemade gnocchi (a, c, g) optionally tomato sauce or pesto cattle bolognese surcharge",english,Mensa,5,https://www.wumensa.at/menuplan-deutsch,
-Veggie,"Knuspriges Gemüse-Patty und Reisgericht mit Paprika und Erbsen, dazu Tomatensalat mit roten Zwiebeln",german,Library,1,https://lia.coffee,10.50
-Veggie,"Crispy Veggie Pattie and Rice Dish with Paprika and Peas, and side of Tomato-Red Onion Salad (AF)VEGGIE€ 10,50",english,Library,1,https://lia.coffee,10.50
-Meat,"Arroz Con Pollo: Hühnchen und Reis, Paprika, Erbsen, dazu Tomatensalat mit roten Zwiebeln",german,Library,1,https://lia.coffee,10.50
-Meat,"Arroz Con Pollo: One Pot Chicken and Rice Dish with Paprika and Peas, and side of Tomato-Red Onion Salad (A)MEAT€ 10,50",english,Library,1,https://lia.coffee,10.50
-Veggie,"Mediterraner Quinoa-Salat mit gerösteten Kichererbsen, Hummus, Feta, Tomaten, Fladenbrot und Zitrusdressing",german,Library,2,https://lia.coffee,10.50
-Veggie,"Quinoa Mediterranean Salad with Roasted Chickpeas, Hummus, Feta, Tomatoes, Flat Bread, and Citrus Dressing (AG)VEGGIE€ 10,50",english,Library,2,https://lia.coffee,10.50
-Meat,"Schweinefleisch-Kebab und mediterraner Quinoa-Salat mit gerösteten Kichererbsen, Hummus, Feta, Tomaten, Fladenbrot und Zitrusdressing",german,Library,2,https://lia.coffee,10.50
-Meat,"Pork Kabab-Quinoa Mediterranean Salad with Roasted Chickpeas, Hummus, Feta, Tomatoes, Flat Bread, and Citrus Dressing (AG)MEAT€ 10,50",english,Library,2,https://lia.coffee,10.50
-Veggie,Hawaiianische Gemüselaibchen mit gedämpften Butterkartoffeln und grünem gemischten Salat,german,Library,3,https://lia.coffee,10.50
-Veggie,"Hawaiian Veggie Patties with Steamed Butter-Potatoes and Green Mix Salad (AFG)VEGGIE€ 10,50",english,Library,3,https://lia.coffee,10.50
-Meat,Hawaiianisches Hähnchen mit gedämpften Butterkartoffeln und grünem gemischten Salat,german,Library,3,https://lia.coffee,10.50
-Meat,"Hawaiian Chicken with Steamed Butter-Potatoes, and Green Mix Salad (AG)MEAT€ 10,50",english,Library,3,https://lia.coffee,10.50
-Veggie,Gemüse-Tomaten-Ragout mit Couscous,german,Library,4,https://lia.coffee,10.50
-Veggie,"Vegetable Tomato Ragu with Couscous (AL)VEGGIE€ 10,50",english,Library,4,https://lia.coffee,10.50
-Meat,Rindfleisch-Tomaten-Ragout mit Couscous,german,Library,4,https://lia.coffee,10.50
-Meat,"Beef Tomato Ragu with Couscous (AL)MEAT€ 10,50",english,Library,4,https://lia.coffee,10.50
-Veggie,Kücheninspiration:Das heutige Menü wird vom Koch spontan zusammengestellt,german,Library,5,https://lia.coffee,10.50
-Veggie,"Kitchen Inspiration: today´s menu will be crafted spontaneously by the cook of the day.VEGGIE€ 10,50MEAT€ 10,50",english,Library,5,https://lia.coffee,10.50
+Veggie,"Gebratene Pilz-Tacos: Maistortillas, Rotkohl, Sauerrahm-Salsa, mexikanischer Reis, gemischte Bohnen und Koriander",german,Library,1,https://lia.coffee,10.50
+Veggie,"Fried Mushroom Tacos: Corn Tortillas, Red Cabbage, Sour Cream Salsa, Mexican Rice, Mixed Beans and Coriander (AG)VEGGIE€ 10,50",english,Library,1,https://lia.coffee,10.50
+Meat,"Baja Fisch-Tacos: Maistortillas, Rotkohl, Sauerrahm-Salsa, mexikanischer Reis, gemischte Bohnen und Koriander",german,Library,1,https://lia.coffee,10.50
+Meat,"Baja Fish Tacos: Corn Tortillas, Red Cabbage, Sour Cream Salsa, Mexican Rice, Mixed Beans and Coriander (ADG)MEAT€ 10,50",english,Library,1,https://lia.coffee,10.50
+Veggie,Wildpilz-Stroganoff: mit Erbsen und Spinat auf Eiernudeln mit gemischtem grünen Salat,german,Library,2,https://lia.coffee,10.50
+Veggie,"Wild Mushroom Stroganoff: with Peas, and Spinach on Egg Noodles with Mixed Green Salad (AG)VEGGIE€ 10,50",english,Library,2,https://lia.coffee,10.50
+Meat,Beef Stroganoff: Auf Eiernudeln mit gemischtem grünen Salat,german,Library,2,https://lia.coffee,10.50
+Meat,"Beef Stroganoff: On Egg Noodles with Mixed Green Salad (AG)MEAT€ 10,50",english,Library,2,https://lia.coffee,10.50
+Veggie,"Tofu-Teriyaki-Bowl: mit Edamame, Karotten, Rotkohl und scharfer Mayo-Sauce",german,Library,3,https://lia.coffee,10.50
+Veggie,"Tofu Teriyaki Bowl: with Edamame, Carrots, Red Cabbage and Spicy Mayo Sauce (AFGN)VEGGIE€ 10,50",english,Library,3,https://lia.coffee,10.50
+Meat,"Hühnchen-Teriyaki-Bowl: mit Edamame, Karotten, Rotkohl und scharfer Mayo-Sauce",german,Library,3,https://lia.coffee,10.50
+Meat,"Chicken Teriyaki Bowl: with Edamame, Carrots, Red Cabbage and Spicy Mayo Sauce (AGN)MEAT€ 10,50",english,Library,3,https://lia.coffee,10.50
+Veggie,"Spinat-Curry: mit Halloumi, Basmatireis und Naan",german,Library,4,https://lia.coffee,10.50
+Veggie,"Spinach Curry: with Halloumi, Basmati Rice and Naan (AG)VEGGIE€ 10,50",english,Library,4,https://lia.coffee,10.50
+Meat,"Rindfleisch-Curry: mit gedämpften grünen Bohnen, Basmatireis und Naan",german,Library,4,https://lia.coffee,10.50
+Meat,"Beef Curry: with Steamed Green Beans, Basmati Rice and Naan (AG)MEAT€ 10,50",english,Library,4,https://lia.coffee,10.50
+Veggie,"Zucchini in Bierteig: mit Kartoffelspalten, Sauce Tartare und Erbsen",german,Library,5,https://lia.coffee,10.50
+Veggie,"Beer Battered Zucchini: with Potato Wedges, Sauce Tartare and side of Peas (AG)VEGGIE€ 10,50",english,Library,5,https://lia.coffee,10.50
+Meat,"Fisch in Bierteig: mit Kartoffelspalten, Sauce Tartare und Erbsen",german,Library,5,https://lia.coffee,10.50
+Meat,"Beer Battered Fish: with Potato Wedges, Sauce Tartare and side of Peas (ADG)MEAT€ 10,50",english,Library,5,https://lia.coffee,10.50
 Soup,Karfiolcremesuppe,german,Finn,1,https://finn.wien/collections/mittagsmenu,
 M1,,german,Finn,1,https://finn.wien/collections/mittagsmenu,10.5
 M2,10.,german,Finn,1,https://finn.wien/collections/mittagsmenu,
