@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-07-17 10:00:31_
+_Last Update: 2025-07-19 10:00:36_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -80,56 +80,56 @@ _Last Update: 2025-07-17 10:00:31_
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Mozzarella-Hähnchenmit Basmati Reis(GLO)</td>
+      <td>Paprikahendlmit Nockerl(AGLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Mozzarella chicken mit basmati rice (glo)</td>
+      <td>Paprikaendl with Nockerl (Aglo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Eierreis(CLO)</td>
+      <td>Gemüsecurrymit Basmati Reis(LO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Egg rice (Clo)</td>
+      <td>Vegetable currymit basmati rice (lo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Chili con Carne: Rindfleisch-Chili-Reis-Bowl, Cheddar, Sauerrahm, Tomatensalsa und Koriander</td>
+      <td>Hühner-Burrito mit Tortilla-Chips und Sauerrahm</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Chili Con Carne: Beef-Chili Rice Bowl, Cheddar, Sour Cream, Tomato Salsa and Coriander (AG)MEAT€ 10,50</td>
+      <td>Chicken Burrito with Tortilla Chips and Sour Cream (AG)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Bohnen-Chili: Bohnen-Chili-Reis-Bowl, Cheddar, Sauerrahm, Tomatensalsa und Koriander</td>
+      <td>Tofu-Bohnen-Burrito mit Tortilla-Chips und Sauerrahm</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Bean Chili: Bean-Chili Rice Bowl, Cheddar, Sour Cream, Tomato Salsa and Coriander (AG)VEGGIE€ 10,50</td>
+      <td>Tofu-Bean Burrito with Tortilla Chips and Sour Cream (AG)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -319,56 +319,56 @@ _Last Update: 2025-07-17 10:00:31_
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Moussaka(CGLO)</td>
+      <td>Stroganoff vom Schweinmit Reis (GMLO)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Fisch & Fleisch</td>
-      <td>Moussaka (CGLO)</td>
+      <td>Stroganoff from the pig rice (gmlo)</td>
       <td>14.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Fisoleneintopfmit Sauerrahm (GLO)</td>
+      <td>Gnocchimit Brokkoli und Pesto Rosso (AGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Fisolenint pot with sour cream (glo)</td>
+      <td>Gnocchi with broccoli and pesto rosso (Aglo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Tavuk Sote: Türkischer Hühner-Tomaten-Eintopf mit gedämpftem Reis</td>
+      <td>Hühner-Paprikasch mit Käsespätzle und grünen Bohnen</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Tavuk Sote: Turkish Chicken-Tomato Stew with Steamed Rice (A)MEAT€ 10,50</td>
+      <td>Chicken Paprikash with Cheese Spätzle and Green Beans (AG)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Karniyarik: mit Tofu und Linsen gefüllte Auberginen in Tomatensoße mit gedämpftem Jasminreis</td>
+      <td>Tofu-Paprikasch mit Käsespätzle und grünen Bohnen</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Karniyarik: Tofu and Lentil-based Stuffed Eggplants in Tomato Sauce with Steamed Jasmine Rice (A)VEGGIE€ 10,50</td>
+      <td>Tofu Paprikash with Cheese Spätzle and Green Beans (AG)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -558,42 +558,42 @@ _Last Update: 2025-07-17 10:00:31_
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Erdäpfel-Zucchini-Auflaufmit Blattsalat (GMLO)1/2 Brathendlmit Erdäpfelsalat (MLO)</td>
+      <td>Melanzani Puttanescamit Tomatenreis und Feta (LO)Putenschnitzelmit Erdäpfelsalat (ACGMLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Potlass-zucchini upflow with leaf salad (GMLO) 1/2 Brathendlmit Päugel salad (mlo)</td>
+      <td>Melanzani Puttanescamit Tomaten Rice and Feta (LO) turkey schnitzel with a potato salad (acgmlo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
-      <td>Meat</td>
-      <td>Hühner-Teriyaki-Bowl: mit Karotten, Edamame und Rotkohl mit Teriyaki-Mayo-Sauce</td>
-      <td>10.50</td>
-      <td><a href="https://lia.coffee">Link</a></td>
-    </tr>
-    <tr>
-      <td>Library</td>
-      <td>Meat</td>
-      <td>Chicken Teriyaki Bowl: with Carrots, Edamame, and Red Cabbage with Teriyaki-Mayo Sauce (GLN)MEAT€ 10,50</td>
+      <td>Veggie</td>
+      <td>Tofu Bibimbap: Reis, gedünstetes Gemüse, Spiegelei und würzige Sojabohnensauce</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Pflanzliche Hühner-Teriyaki-Bowl: mit Karotten, Edamame und Rotkohl mit Teriyaki-Mayo-Sauce</td>
+      <td>Rindfleisch Bibimbap: Reis, gedünstetes Gemüse, Spiegelei und würzige Sojabohnensauce</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Plant Base Chicken-Teriyaki Bowl: with Carrots, Edamame, and Red Cabbage with Teriyaki-Mayo Sauce  (GLN)VEGGIE€ 10,50</td>
+      <td>Tofu Bibimbap: Rice, Steamed Veggies, Fried Egg and Spicy Soybean Sauce (ACDFN)VEGGIE€ 10,50</td>
+      <td>10.50</td>
+      <td><a href="https://lia.coffee">Link</a></td>
+    </tr>
+    <tr>
+      <td>Library</td>
+      <td>Veggie</td>
+      <td>Beef Bibimbap: Rice, Steamed Veggies, Fried Egg and Spicy Soybean Sauce (ACDFN)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -783,42 +783,42 @@ _Last Update: 2025-07-17 10:00:31_
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Spinatlasagnemit Tomatensauce, Rucola und Grana (ACGMLO)Spaghetti Carbonara(ACGLO)</td>
+      <td>Linseneintopfmit Serviettenknödel (ACGLO)Schweinsmedaillonsim Speckmantel mit Wedges und Pfeffersauce (GLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Spinatlasagnemit Tomato sauce, Rucola and Grana (Acgmlo) Spaghetti Carbonara (Aclo)</td>
+      <td>Lentil stew with napkin dumplings (aclo) porch medalonine bacon coat with wedges and pepper sauce (glo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Griechische Rindfleisch-Bowl: Couscous, griechischer Salat, Tzatziki-Sauce und Rindfleischstreifen</td>
+      <td>Lammgulasch mit Schupfnudeln</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Beef-Greek Bowl: Couscous, Greek Salad, Tzatziki Sauce and sliced Beef (AG)MEAT€ 10,50</td>
+      <td>Sheep Goulash with Schupfnudeln (AG)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Griechische Falafel-Bowl: Couscous, griechischer Salat, Tzatziki-Sauce und Falafel</td>
+      <td>Schupfnudeln mit Spinat-Mozzarella-Sauce</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Falafel-Greek Bowl: Couscous, Greek Salad, Tzatziki Sauce and Falafel (AG)VEGGIE€ 10,50</td>
+      <td>Spinach Mozzarella Schupfnudeln: Potato Dumplings with Spinach-Mozzarella Sauce (AG)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -1008,14 +1008,14 @@ _Last Update: 2025-07-17 10:00:31_
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Chinesische Nudelpfannemit Brokkoli und Zucchini (AC)Thunfisch Wrap(ADM)</td>
+      <td>Spinatspätzlean Rahmsauce (AC)Lachs Tagliatelle(ADGLO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Chinese pasta pan with broccoli and zucchini (ac) tuna wrap (ADM)</td>
+      <td>Spinatspätzlean Rahmsauce (AC) Salmon Tagliatelle (Adglo)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
