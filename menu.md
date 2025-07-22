@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-07-19 10:00:36_
+_Last Update: 2025-07-22 10:00:45_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -38,42 +38,42 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Rindfleisch In Hoisin Sauce mit Jasminreis Arın</td>
-      <td>10.5</td>
+      <td>Faschierte Laibchen mit und Zwiebelsafterl</td>
+      <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Beef in Hoisin sauce with jasmine rice arın</td>
+      <td>Fascaled loafs with and onion juice</td>
+      <td></td>
+      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
+    </tr>
+    <tr>
+      <td>Finn</td>
+      <td>M2</td>
+      <td>Veggie</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Stangensellerie-kichererbsen-eintopf mit Reis</td>
-      <td>10.5</td>
-      <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
-    </tr>
-    <tr>
-      <td>Finn</td>
-      <td>M2</td>
-      <td>Sailing-seller-coating stew with rice</td>
+      <td>Veggie</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Kohlrabisuppe</td>
+      <td>Brokkolicremesuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Coal</td>
+      <td>Broccolic remice</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -94,7 +94,7 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Glashaus</td>
       <td>Vegetarisch</td>
-      <td>Gemüsecurrymit Basmati Reis(LO)</td>
+      <td>Gemüsecurrymit Basmati Reis(LO)</td>
       <td>13.90</td>
       <td><a href="https://www.dasglashaus.at/menues">Link</a></td>
     </tr>
@@ -136,14 +136,14 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Hühnerstreifen in Teriyakisauce | Basmatireis F,L</td>
+      <td>Selchfleischknödel | Sauerkraut | Kümmelsaft G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Chicken strips in Teriyakisauce |Basmatireis f, l</td>
+      <td>Selch meat dumplings |Sauerkraut |Caraway juice g, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -164,14 +164,14 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Hühnerstreifen in Teriyakisauce | Basmatireis F,L</td>
+      <td>Selchfleischknödel | Sauerkraut | Kümmelsaft G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Chicken strips in Teriyakisauce |Basmatireis f, l</td>
+      <td>Selch meat dumplings |Sauerkraut |Caraway juice g, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -206,14 +206,14 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Geröstete Knödel mit Ei | Schnittlauch A,C,G</td>
+      <td>Planted Paprikageschnetzeltes | Spätzle A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Roasted dumplings with egg |Chives A, C, G</td>
+      <td>Planted paprika scienceSpaetzle A, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -277,42 +277,42 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Spareribs mit Wedges und Bbq Sauce</td>
+      <td>Backhendlsalat mit Kernöl</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Spare ribs with Wedges and BBQ sauce</td>
+      <td>Baking lettuce with nuclear oil</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td></td>
+      <td>Baba Ghanoush mit Grillgemüse und Pitabrot</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td></td>
+      <td>Baba Ghanoush with grilled vegetables and pita bread</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Grieß-Gemüsesuppe</td>
+      <td>Knoblauchcremesuppem</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Grieß vegetable soup</td>
+      <td>Garlic cream soup</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -375,14 +375,14 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Spaghetti | Fleischbällchen | Tomatensauce A,C,L</td>
+      <td>Berliner Currywurst | hausgemachte Currysauce | Fries A,L,M,F</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Spaghetti |Meatballs |Tomato sauce A, C, L</td>
+      <td>Berlin currywurst |homemade curry sauce |Fries a, l, m, f</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -403,28 +403,28 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Spaghetti | Fleischbällchen | Tomatensauce A,C,L</td>
+      <td>Berliner Currywurst | hausgemachte Currysauce | Fries A,L,M,F</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Spaghetti |Meatballs |Tomato sauce A, C, L</td>
+      <td>Berlin currywurst |homemade curry sauce |Fries a, l, m, f</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td></td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td></td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -445,42 +445,42 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Marrokanische Tajine mit Süsskartoffel, Karotten & Aprikosen | Chili Cous Cous A,l</td>
+      <td>Veganer Faschierter Braten | Kartoffelpüree | Jus | Röstzwiebel A,F,H,M,P</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Moroccan tajine with sweet potato, carrots & apricots |Chili couscous a, l</td>
+      <td>Vegan fascinated roast |Potato puree |Jus |Röst onweed A, F, H, M, P</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Zucchinicremesuppe A,L</td>
+      <td>Karotten-Ingwer-Suppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>ZucchinicRemesuppe A, L</td>
+      <td>Carrot-Ingwer soup A, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Zucchinicremesuppe A,L</td>
+      <td>Karotten-Ingwer-Suppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>ZucchinicRemesuppe A, L</td>
+      <td>Carrot-Ingwer soup A, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -516,28 +516,28 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>in Kürbispanade mit Petersilerdäpfeln</td>
+      <td>mit Spätzle und Rahm</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>in pumpkin panade with parsiler blends</td>
+      <td>With spaetzle and cream</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>mit Basilikum-Pesto</td>
+      <td>mit Röstzwiebeln Veggie</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>With basil pesto</td>
+      <td>With roasted onions veggie</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -656,28 +656,28 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td></td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td></td>
-      <td></td>
-      <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
-    </tr>
-    <tr>
-      <td>Mensa</td>
-      <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Gemüserisotto | Rucola & Sonnenblumenkerne A,O,L</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Vegetable Serisotto |Rucola & sunflower seeds A, O, L</td>
+      <td>Gemüse Rahmlinsen | Serviettenknödel A,C,G,L,M,O</td>
+      <td></td>
+      <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
+    </tr>
+    <tr>
+      <td>Mensa</td>
+      <td>Powered by plants 100% plant based or Veggie</td>
+      <td>Vegetables cream lenses |Napkin dumplings A, C, G, L, M, O</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -741,42 +741,42 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Putengyros mit Reis und Tzatziki</td>
+      <td>Rindsgulasch mit Knödel</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Turkey gyros with rice and tzatziki</td>
+      <td>Cattle with dumplings</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Tortellini mit geschmorte Dattelparadeiser</td>
+      <td>Petersilerdäpfeln</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Tortellini with braised date paradeis</td>
+      <td>Parsiler blends</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td></td>
+      <td>Kurb</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td></td>
+      <td>Cure</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -825,14 +825,14 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Schweinsbraten | warmer Krautsalat | Knödel A,C,G,L,O</td>
+      <td>Chicken "Koy Soy" | Duftreis A,D,F,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Roast pork |Warm herb salad |Dumplings A, C, G, L, O</td>
+      <td>Chicken "Koy Soy" |Duftreis A, D, F, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -853,28 +853,28 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Schweinsbraten | warmer Krautsalat | Knödel A,C,G,L,O</td>
+      <td>Chicken "Koy Soy" | Duftreis A,D,F,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Roast pork |Warm herb salad |Dumplings A, C, G, L, O</td>
+      <td>Chicken "Koy Soy" |Duftreis A, D, F, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td></td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pasta & Co</td>
-      <td></td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -895,42 +895,42 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Erdnuss-Gemüsecurry | Duftreis E,F</td>
+      <td>Knoblauchrahm (veggie) A,C,G</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Olaby vegetable curry |Bandfreis E, F</td>
+      <td>Knoblauchrahm (veggie) a, c, g</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Kohlrabicremesuppe A,L</td>
+      <td>Gemüsecremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>KohlrabicRemesuppe A, L</td>
+      <td>Vegetable cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Kohlrabicremesuppe A,L</td>
+      <td>Gemüsecremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>KohlrabicRemesuppe A, L</td>
+      <td>Vegetable cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -966,42 +966,42 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Garnelen Red Thai Curry mit ReiSs</td>
+      <td>Gebackener Alaska-seelachs mit Erdäpfel-Mayo-Salat</td>
       <td>11.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Shrimp red thai curry with rice</td>
+      <td>Baked Alaska Sea axle with potato-Mayo salad</td>
       <td>11.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Wassermelonen-feta-salat mit Minze</td>
+      <td>Kasnudeln mit brauner Minz-Butter</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>M2</td>
-      <td>Watermelon feta salad with mint</td>
+      <td>Kasnudeln with brown mint butter</td>
       <td>10.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Gurkenkaltschale</td>
+      <td>Gemusecremesuppe</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
     <tr>
       <td>Finn</td>
       <td>Soup</td>
-      <td>Cucumber</td>
+      <td>Gem</td>
       <td></td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
@@ -1050,14 +1050,14 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Mensa</td>
       <td>Bowls & Co</td>
-      <td></td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Bowls & Co</td>
-      <td></td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1092,28 +1092,28 @@ _Last Update: 2025-07-19 10:00:36_
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td></td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Pizza & Co</td>
-      <td></td>
-      <td></td>
-      <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
-    </tr>
-    <tr>
-      <td>Mensa</td>
-      <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Chili Con Planted | Ciabatta A,F,L,M</td>
+      <td>XXX</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Chili con planningCiabatta A, F, L, M</td>
+      <td>Kichererbsen-Gemüse Curry | Bulgur A,F,L</td>
+      <td></td>
+      <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
+    </tr>
+    <tr>
+      <td>Mensa</td>
+      <td>Powered by plants 100% plant based or Veggie</td>
+      <td>Chickpea vegetables curry |Bulgur a, f, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
