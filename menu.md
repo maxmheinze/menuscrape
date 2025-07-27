@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-07-26 10:00:33_
+_Last Update: 2025-07-27 10:00:21_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -108,28 +108,28 @@ _Last Update: 2025-07-26 10:00:33_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Hühner-Burrito mit Tortilla-Chips und Sauerrahm</td>
+      <td>Mexikanische Hühner-Reis-Suppe mit Avocado</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Chicken Burrito with Tortilla Chips and Sour Cream (AG)MEAT€ 10,50</td>
+      <td>Mexican Chicken-Rice Soup with Avocado (A)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tofu-Bohnen-Burrito mit Tortilla-Chips und Sauerrahm</td>
+      <td>Mexikanische Bohnen-Reis-Suppe mit Avocado</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tofu-Bean Burrito with Tortilla Chips and Sour Cream (AG)VEGGIE€ 10,50</td>
+      <td>Mexican Rice-Bean Soup with Avocado (A)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -347,28 +347,28 @@ _Last Update: 2025-07-26 10:00:33_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Hühner-Paprikasch mit Käsespätzle und grünen Bohnen</td>
+      <td>Hühner-Couscous-Bowl: Salat, Tzatziki, griechischer Salat und Ziegenkäse</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Chicken Paprikash with Cheese Spätzle and Green Beans (AG)MEAT€ 10,50</td>
+      <td>Chicken Couscous Bowl: Lettuce, Tzatziki, Greek Salad and Goat Cheese (AG)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tofu-Paprikasch mit Käsespätzle und grünen Bohnen</td>
+      <td>Falafel-Couscous-Bowl: Salat, Tzatziki, griechischer Salat und Ziegenkäse</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tofu Paprikash with Cheese Spätzle and Green Beans (AG)VEGGIE€ 10,50</td>
+      <td>Falafel Couscous Bowl: Lettuce, Tzatziki, Greek Salad and Goat Cheese (AG)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -572,28 +572,28 @@ _Last Update: 2025-07-26 10:00:33_
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tofu Bibimbap: Reis, gedünstetes Gemüse, Spiegelei und würzige Sojabohnensauce</td>
+      <td>Tofu-Gemüse-Wok mit Reis</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Rindfleisch Bibimbap: Reis, gedünstetes Gemüse, Spiegelei und würzige Sojabohnensauce</td>
+      <td>Hühner-Gemüse-Wok mit Reis</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Tofu Bibimbap: Rice, Steamed Veggies, Fried Egg and Spicy Soybean Sauce (ACDFN)VEGGIE€ 10,50</td>
+      <td>Tofu Wok Veggies with Rice  (ADFLN)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Beef Bibimbap: Rice, Steamed Veggies, Fried Egg and Spicy Soybean Sauce (ACDFN)MEAT€ 10,50</td>
+      <td>Chicken Wok-Veggies with Rice (ADFLN)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
@@ -797,28 +797,28 @@ _Last Update: 2025-07-26 10:00:33_
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Lammgulasch mit Schupfnudeln</td>
+      <td>Faschierte Laibchen vom Rind mit Soße, Käse-Gratin und grünen Bohnen</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Meat</td>
-      <td>Sheep Goulash with Schupfnudeln (AG)MEAT€ 10,50</td>
+      <td>Beef Frikadelle and Gravy, Cheese Gratin and Green Beans (ACG)MEAT€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Schupfnudeln mit Spinat-Mozzarella-Sauce</td>
+      <td>Gemüselaibchen mit Soße, Käse-Gratin und grünen Bohnen</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
     <tr>
       <td>Library</td>
       <td>Veggie</td>
-      <td>Spinach Mozzarella Schupfnudeln: Potato Dumplings with Spinach-Mozzarella Sauce (AG)VEGGIE€ 10,50</td>
+      <td>Vegetable Frikadelle and Gravy, Cheese Gratin and Green Beans (ACFG)VEGGIE€ 10,50</td>
       <td>10.50</td>
       <td><a href="https://lia.coffee">Link</a></td>
     </tr>
