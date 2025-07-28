@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-07-27 10:00:21_
+_Last Update: 2025-07-28 10:00:39_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -136,14 +136,14 @@ _Last Update: 2025-07-27 10:00:21_
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Selchfleischknödel | Sauerkraut | Kümmelsaft G,L</td>
+      <td>Hühnergeschnetzeltes "Züricher Art" | Kräuterreis A,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Selch meat dumplings |Sauerkraut |Caraway juice g, l</td>
+      <td>Chicken -sliced "Zurich Art" |Herb rice A, g, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -164,14 +164,14 @@ _Last Update: 2025-07-27 10:00:21_
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Selchfleischknödel | Sauerkraut | Kümmelsaft G,L</td>
+      <td>Hühnergeschnetzeltes "Züricher Art" | Kräuterreis A,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Selch meat dumplings |Sauerkraut |Caraway juice g, l</td>
+      <td>Chicken -sliced "Zurich Art" |Herb rice A, g, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -206,14 +206,14 @@ _Last Update: 2025-07-27 10:00:21_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Planted Paprikageschnetzeltes | Spätzle A,L</td>
+      <td>Gratinierte Käsespätzle | Schnittlauch | Röstzwiebel A,C,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Planted paprika scienceSpaetzle A, L</td>
+      <td>Gratinated cheese spaetzle |Chives |RöstWiebel A, C, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -375,14 +375,14 @@ _Last Update: 2025-07-27 10:00:21_
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Berliner Currywurst | hausgemachte Currysauce | Fries A,L,M,F</td>
+      <td>Penne | Schinken- Rahmsauce | Parmesan A,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Berlin currywurst |homemade curry sauce |Fries a, l, m, f</td>
+      <td>Penne |Schinken- cream sauce |Parmesan A, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -403,14 +403,14 @@ _Last Update: 2025-07-27 10:00:21_
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Berliner Currywurst | hausgemachte Currysauce | Fries A,L,M,F</td>
+      <td>Penne | Schinken- Rahmsauce | Parmesan A,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Berlin currywurst |homemade curry sauce |Fries a, l, m, f</td>
+      <td>Penne |Schinken- cream sauce |Parmesan A, G, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -445,42 +445,42 @@ _Last Update: 2025-07-27 10:00:21_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Veganer Faschierter Braten | Kartoffelpüree | Jus | Röstzwiebel A,F,H,M,P</td>
+      <td>Tortilla mit Gemüsefülle | Chilireis A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Vegan fascinated roast |Potato puree |Jus |Röst onweed A, F, H, M, P</td>
+      <td>Tortilla with vegetable filling |Chilireis A, L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Karotten-Ingwer-Suppe A,L</td>
+      <td>Knoblauchcremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Carrot-Ingwer soup A, L</td>
+      <td>Garlic cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Karotten-Ingwer-Suppe A,L</td>
+      <td>Knoblauchcremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Carrot-Ingwer soup A, L</td>
+      <td>Garlic cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -670,14 +670,14 @@ _Last Update: 2025-07-27 10:00:21_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Gemüse Rahmlinsen | Serviettenknödel A,C,G,L,M,O</td>
+      <td>Italienischer Gemüseeintopf | Ciabatta A</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Vegetables cream lenses |Napkin dumplings A, C, G, L, M, O</td>
+      <td>Italian vegetable stew |Ciabatta A</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -825,14 +825,14 @@ _Last Update: 2025-07-27 10:00:21_
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Chicken "Koy Soy" | Duftreis A,D,F,G,L</td>
+      <td>Schweinsgulasch | Spiralen | Sauerrahm A,C,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td></td>
-      <td>Chicken "Koy Soy" |Duftreis A, D, F, G, L</td>
+      <td>Swein goulash |Spirals |SauerRahm a, c, g, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -853,14 +853,14 @@ _Last Update: 2025-07-27 10:00:21_
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Chicken "Koy Soy" | Duftreis A,D,F,G,L</td>
+      <td>Schweinsgulasch | Spiralen | Sauerrahm A,C,G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Chicken "Koy Soy" |Duftreis A, D, F, G, L</td>
+      <td>Swein goulash |Spirals |SauerRahm a, c, g, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -895,42 +895,42 @@ _Last Update: 2025-07-27 10:00:21_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Knoblauchrahm (veggie) A,C,G</td>
+      <td>Frühlingsrolle | asiatischer Gemüsereis | Teriyakisauce A,F,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Knoblauchrahm (veggie) a, c, g</td>
+      <td>Spring roll |Asian vegetable ice cream |Teriyakisauce a, f, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Gemüsecremesuppe A,L</td>
+      <td>Kartoffelcremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Soup Deal</td>
-      <td>Vegetable cream soup a, l</td>
+      <td>Potato cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Gemüsecremesuppe A,L</td>
+      <td>Kartoffelcremesuppe A,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Tagesuppe</td>
-      <td>Vegetable cream soup a, l</td>
+      <td>Potato cream soup a, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -1106,14 +1106,14 @@ _Last Update: 2025-07-27 10:00:21_
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Kichererbsen-Gemüse Curry | Bulgur A,F,L</td>
+      <td>Griechisches Ofengemüse | Kräuterreis | Tzatziki G,L</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
     <tr>
       <td>Mensa</td>
       <td>Powered by plants 100% plant based or Veggie</td>
-      <td>Chickpea vegetables curry |Bulgur a, f, l</td>
+      <td>Greek oven vegetables |Herb rice |Tzatziki g, l</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
