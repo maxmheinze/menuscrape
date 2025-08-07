@@ -6,7 +6,7 @@ description: Economics PhD Student @ WU Vienna
 
 # This Week's Scraped Lunch Menus
 
-_Last Update: 2025-08-06 14:00:34_
+_Last Update: 2025-08-07 10:00:49_
 
 **Note:** English text is (mostly) Google-translated from German menus and may therefore be inaccurate (or bad, or funny, or all of the above). **Click** (or tap) on a weekday to expand that day's menu.
 
@@ -354,7 +354,7 @@ _Last Update: 2025-08-06 14:00:34_
     <tr>
       <td>Mensa</td>
       <td>Meaty</td>
-      <td>Chicken Sweet & Sour |Basmatireis A,L,F,M,N</td>
+      <td>Chicken Sweet & Sour |Basmatireis A, L, F, M, N</td>
       <td></td>
       <td><a href="https://www.wumensa.at/menuplan-deutsch">Link</a></td>
     </tr>
@@ -889,7 +889,7 @@ _Last Update: 2025-08-06 14:00:34_
     <tr>
       <td>Finn</td>
       <td>M1</td>
-      <td>Fish plates with chervil stuck and sauce tartare</td>
+      <td>Fish plates with chervel stuck and sauce tartare</td>
       <td>11.5</td>
       <td><a href="https://finn.wien/collections/mittagsmenu">Link</a></td>
     </tr>
